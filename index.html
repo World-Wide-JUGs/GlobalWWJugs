@@ -1,0 +1,27 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: home
+---
+
+<p>
+Here you have the list of Java User Groups (JUGs) around the world in alphabetical order.
+</p>
+
+{% assign jugs = site.jugs | sort: 'name' %}
+<ul>
+    {% for jug in jugs %}
+        <li>
+            <article>
+                <h2>{{ jug.name }}</h2>
+                <p>Location: {{ jug.location }}<p/>
+                <p>Date founded: {{ jug.founded_date }}<p/>
+                <p>Country {{ jug.country }}<p/>
+                <p></p><a href="{{ jug.website }}">Website</a><p/>
+                <p></p><a href="https://twitter.com/{{ jug.twitter }}">Twitter</a><p/>
+            </article>
+        </li>
+    {% endfor %}
+</ul>
