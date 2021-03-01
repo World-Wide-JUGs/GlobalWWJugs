@@ -32,7 +32,7 @@ Visit [the main page](index.html)
 # Adding a JUG
 For adding a new JUG you only need to submit a PR that should include a new `.md` file saved in the `_jugs` folder that should contain all the mandatory information (_name, website_ and _location_ for locating in the map). Check the [the main page](index.html) to see some properties.
 
-For locating your JUG coordinates, you can use [latlong.net](https://www.latlong.net/) or any other latitude and longitude finder. 
+For locating your JUG properly in the map, it is recommended opening [the map](map.html) with your browser, go to its console and click in the place you desire. You should see the coordinates you can use for storing it in your `.md` file. Alternatively you can use [latlong.net](https://www.latlong.net/) or any other latitude and longitude finder. 
 
 #  Communication Channels
 Feel free to reach out using one of the following channels:
