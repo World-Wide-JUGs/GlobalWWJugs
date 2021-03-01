@@ -26,6 +26,16 @@ This will start a jekyll server on `http://127.0.0.1:4000` Once it is loaded, yo
 
 The content you can see, it will be updated every time you made changes in your local files.
 
+# Running locally with Docker
+Alternatively you can run the site locally via [Docker](https://www.docker.com/).
+This has the benefit of not requiring you to install and manage Ruby versions directly on your machine.
+
+Assuming you have already installed `Docker` and `docker-compose` (e.g. via [Docker Desktop for Mac and Windows](https://www.docker.com/products/docker-desktop)) you can build and run the site locally with:
+
+```
+docker-compose up
+```
+
 # JUGS Map & Directory
 Visit [the main page](index.html)
 
