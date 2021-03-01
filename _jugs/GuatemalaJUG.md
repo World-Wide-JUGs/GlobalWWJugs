@@ -1,8 +1,9 @@
 ---
-name:     "Barcelona Java Users Group"
-country:  Spain
-website:  https://www.barcelonajug.org
-twitter:  barcelonajug
-location: 41.415754, 2.152704
-founded_date: 2011-10-04
+name:     "GuateJUG"
+country:  Guatemala
+website:  https://www.guate-jug.net/
+twitter:  guatejug
+facebook: guatejug
+location: 14.624620, -90.513961
+founded_date: 2011-02-01
 ---
