@@ -37,6 +37,12 @@ timezone: "UTC"
 collections:
   - jugs
 
+pagination:
+  enabled: true
+  debug: true
+  sort_field: 'name'
+  per_page: 3
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
