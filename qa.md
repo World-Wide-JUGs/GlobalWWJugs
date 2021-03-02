@@ -1,4 +1,4 @@
-# Q&A
+# FAQ
 * How to start a JUG?
 * How to contact a  specific JUG (redirection to “JUGS Map & Directory”)
 * How to use communication channels?
