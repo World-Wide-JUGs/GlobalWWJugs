@@ -20,12 +20,11 @@
 
 title: Worldwide list of Java User Groups
 email: jug-leaders@jugs.groups.io
-description: >- # this means to ignore newlines until "baseurl:"
-  Worldwide list of Java User Groups
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+description: Worldwide list of Java User Groups
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: WWJUGs
+github_username:  World-Wide-JUGs
 
 # Build settings
 theme: minima
