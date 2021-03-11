@@ -39,7 +39,6 @@ collections:
 
 pagination:
   enabled: true
-  debug: true
   sort_field: 'name'
   per_page: 3
 
