@@ -4,16 +4,21 @@ on:
   push:
     branches:
       - master
+      - feature/paginate-jugs
 
 jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build the site
+        run: JEKYLL_ENV=production bundle exec jekyll build --destination _site
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: _site
           allow_empty_commit: true
-          enable_jekyll: true
