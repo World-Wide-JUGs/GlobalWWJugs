@@ -3,24 +3,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Map | Worldwide list of Java User Groups</title>
+<title>About | Worldwide list of Java User Groups</title>
 <meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Map" />
+<meta property="og:title" content="About" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Worldwide list of Java User Groups" />
 <meta property="og:description" content="Worldwide list of Java User Groups" />
 <meta property="og:site_name" content="Worldwide list of Java User Groups" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Map" />
+<meta property="twitter:title" content="About" />
 <script type="application/ld+json">
-{"@type":"WebPage","description":"Worldwide list of Java User Groups","headline":"Map","url":"/map.html","@context":"https://schema.org"}</script>
+{"@type":"WebSite","description":"Worldwide list of Java User Groups","headline":"About","url":"/about/","name":"Worldwide list of Java User Groups","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Worldwide list of Java User Groups" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-      crossorigin=""/>
-
-  
 </head>
 <body><header class="site-header" role="banner">
 
@@ -40,80 +35,27 @@
 
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <!-- Make sure you put this AFTER Leaflet's CSS -->
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-        crossorigin=""></script>
+        <article class="post">
 
-<p>You can locate all the Java User Groups (JUGs) around the world in the following map</p>
+  <header class="post-header">
+    <h1 class="post-title">About</h1>
+  </header>
 
-<div id="jugsMap" style="height: 600px; width: 800px"></div>
+  <div class="post-content">
+    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
 
+<p>You can find the source code for Minima at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/minima">minima</a></p>
 
-<ul>
-    <script>
-        function onMapClick(e) {
-            console.log("You clicked at: "+e.latlng);
-        }
-
-        var mymap = L.map('jugsMap').setView([0, 0], 1);
-        mymap.on('click', onMapClick);
-
-    </script>
-    <script>
-      var dukeIcon = L.icon({
-          iconUrl: 'images/duke-icon.png',
-          iconSize: [42, 47],
-          iconAnchor: [16, 37],
-          popupAnchor: [0, -28]
-        });
-
-    
-        
-        
-        
-        var popup = "<b>GuateJUG</b><br/>" +
-            "<a href='https://www.guate-jug.net/'>website</a><br/>";
-        L.marker([14.624620,  -90.513961],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
-    
-        
-        
-        
-        var popup = "<b>Barcelona Java Users Group</b><br/>" +
-            "<a href='https://www.barcelonajug.org'>website</a><br/>";
-        L.marker([41.415754,  2.152704],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
-    
-        
-        
-        
-        var popup = "<b>Manchester Java Community</b><br/>" +
-            "<a href='https://www.meetup.com/ManchesterUK-Java-Community/'>website</a><br/>";
-        L.marker([53.4808,  2.2426],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
-    
-        
-        
-        
-        var popup = "<b>JUG CR</b><br/>" +
-            "<a href='https://javausergroupcr.com/'>website</a><br/>";
-        L.marker([9.748917,  -83.753428],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
-    
-    </script>
-</ul>
-
-<script>
-
-    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibmNvdWdpbCIsImEiOiJja2wzbW5pcGYwamR3Mm9yMXoyZnplNGxxIn0.tasStzrur29zdtidBxvlPw', {
-        maxZoom: 18,
-        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
-            'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-        id: 'mapbox/streets-v11',
-        tileSize: 512,
-        zoomOffset: -1
-    }).addTo(mymap);
+<p>You can find the source code for Jekyll at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
 
 
+  </div>
 
-</script>
+</article>
 
       </div>
     </main><footer class="site-footer h-card">
