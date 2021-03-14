@@ -1,10 +1,11 @@
-name: GitHub Pages
+name: Deploy the site
 
 on:
   push:
     branches:
       - master
       - feature/paginate-jugs
+  workflow_dispatch:
 
 jobs:
   deploy:
