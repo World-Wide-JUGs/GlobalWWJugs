@@ -4,6 +4,9 @@
 
 layout: default
 title: Home
+pagination:
+    enabled: true
+    collection: jugs
 ---
 
 <p>
@@ -12,16 +15,46 @@ Here you have the list of Java User Groups (JUGs) around the world in alphabetic
 
 {% assign jugs = site.jugs | sort: 'name' %}
 <ul>
-    {% for jug in jugs %}
+    {% for jug in paginator.posts %}
         <li>
-            <article>
+            <article><p>
                 <h2>{{ jug.name }}</h2>
-                <p>Location: {{ jug.location }}<p/>
-                <p>Date founded: {{ jug.founded_date }}<p/>
-                <p>Country {{ jug.country }}<p/>
-                <p></p><a href="{{ jug.website }}">Website</a><p/>
-                <p></p><a href="https://twitter.com/{{ jug.twitter }}">Twitter</a><p/>
+                Location: {{ jug.location }}<br/>
+                Date founded: {{ jug.founded_date }}<br/>
+                Country: {{ jug.country }}<br/>
+                <a  href="{{ jug.website }}">Website</a><br/>
+                <a href="https://twitter.com/{{ jug.twitter }}">Twitter</a></p>
             </article>
         </li>
     {% endfor %}
 </ul>
+
+<p>
+    <!-- Pagination links -->
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        {% else %}
+            <span>&laquo; Prev</span>
+        {% endif %}
+
+        {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+                <em>{{ page }}</em>
+            {% elsif page == 1 %}
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+            {% else %}
+                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+            {% endif %}
+        {% endfor %}
+
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+        {% else %}
+            <span>Next &raquo;</span>
+        {% endif %}
+    </div>
+    {% endif %}
+
+</p>

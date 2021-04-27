@@ -1,19 +1,29 @@
-name: GitHub Pages
+name: Deploy the site
 
 on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install ruby and all the dependencies
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      - name: Build the site with jekyll
+        run: JEKYLL_ENV=production bundle exec jekyll build --destination _site
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: _site
           allow_empty_commit: true
-          enable_jekyll: true
