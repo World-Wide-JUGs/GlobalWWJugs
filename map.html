@@ -1,10 +1,46 @@
----
-layout: default
-title: Map
-leaflet: true
----
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Map | Worldwide list of Java User Groups</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Map" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Worldwide list of Java User Groups" />
+<meta property="og:description" content="Worldwide list of Java User Groups" />
+<meta property="og:site_name" content="Worldwide list of Java User Groups" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Map" />
+<script type="application/ld+json">
+{"headline":"Map","description":"Worldwide list of Java User Groups","@type":"WebPage","url":"/GlobalWWJugs/map.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/GlobalWWJugs/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/GlobalWWJugs/feed.xml" title="Worldwide list of Java User Groups" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin=""/>
 
-<!-- Make sure you put this AFTER Leaflet's CSS -->
+  
+</head>
+<body><header class="site-header" role="banner">
+
+    <div class="wrapper"><a class="site-title" rel="author" href="/GlobalWWJugs/">Worldwide list of Java User Groups</a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+            <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+            </label>
+
+            <div class="trigger"><a class="page-link" href="/GlobalWWJugs/about/">About</a><a class="page-link" href="/GlobalWWJugs/map.html">Map</a><a class="page-link" href="/GlobalWWJugs/index.html">Home</a></div>
+        </nav></div>
+</header>
+
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- Make sure you put this AFTER Leaflet's CSS -->
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
         integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
         crossorigin=""></script>
@@ -13,7 +49,7 @@ leaflet: true
 
 <div id="jugsMap" style="height: 600px; width: 800px"></div>
 
-{% assign jugs = site.jugs | sort: 'founded_date' %}
+
 <ul>
     <script>
         function onMapClick(e) {
@@ -32,14 +68,77 @@ leaflet: true
           popupAnchor: [0, -28]
         });
 
-    {% for jug in jugs %}
-        {% assign coordinates = jug.location | strip | split: "," %}
-        {% assign longitude = coordinates[0] %}
-        {% assign latitude = coordinates[1] %}
-        var popup = "<b>{{ jug.name }}</b><br/>" +
-            "<a href='{{ jug.website }}'>website</a><br/>";
-        L.marker([{{ longitude }}, {{ latitude }}],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
-    {% endfor %}
+    
+        
+        
+        
+        var popup = "<b>Warsaw Java Users Group</b><br/>" +
+            "<a href='https://warszawa.jug.pl'>website</a><br/>";
+        L.marker([52.229825,  21.011735],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>London Java Community</b><br/>" +
+            "<a href='https://londonjavacommunity.co.uk/'>website</a><br/>";
+        L.marker([51.5074,  0.1278],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>GuateJUG</b><br/>" +
+            "<a href='https://www.guate-jug.net/'>website</a><br/>";
+        L.marker([14.624620,  -90.513961],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Barcelona Java Users Group</b><br/>" +
+            "<a href='https://www.barcelonajug.org'>website</a><br/>";
+        L.marker([41.415754,  2.152704],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Manchester Java Community</b><br/>" +
+            "<a href='https://www.meetup.com/ManchesterUK-Java-Community/'>website</a><br/>";
+        L.marker([53.4808,  -2.2426],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Vigo Java Users Group</b><br/>" +
+            "<a href='https://www.vigojug.org'>website</a><br/>";
+        L.marker([42.23282,  -8.72264],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>KnoxJava</b><br/>" +
+            "<a href='https://knoxjava.org'>website</a><br/>";
+        L.marker([35.964668,  -83.926453],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Coruña Java Users Group</b><br/>" +
+            "<a href='https://www.corunajug.org'>website</a><br/>";
+        L.marker([43.37135,  -8.396],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Antwerp Java User Group</b><br/>" +
+            "<a href='https://www.antwerpjug.be'>website</a><br/>";
+        L.marker([51.221384,  4.401627],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>JUG CR</b><br/>" +
+            "<a href='https://javausergroupcr.com/'>website</a><br/>";
+        L.marker([9.748917,  -83.753428],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
     </script>
 </ul>
 
@@ -57,3 +156,32 @@ leaflet: true
 
 
 </script>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/GlobalWWJugs/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Worldwide list of Java User Groups</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Worldwide list of Java User Groups</li><li><a class="u-email" href="mailto:jug-leaders@jugs.groups.io">jug-leaders@jugs.groups.io</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/World-Wide-JUGs"><svg class="svg-icon"><use xlink:href="/GlobalWWJugs/assets/minima-social-icons.svg#github"></use></svg> <span class="username">World-Wide-JUGs</span></a></li><li><a href="https://www.twitter.com/WWJUGs"><svg class="svg-icon"><use xlink:href="/GlobalWWJugs/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">WWJUGs</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Worldwide list of Java User Groups</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
