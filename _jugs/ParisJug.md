@@ -1,5 +1,5 @@
 ---
-name:     "Paris Java Users Group"
+name:     "Paris Java User Group"
 country:  France
 website:  https://www.parisjug.org/xwiki/bin/view/Main/WebHome
 twitter:  parisjug
