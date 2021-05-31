@@ -1,5 +1,5 @@
 ---
-name:     "Niš Java Users Group"
+name:     "Niš Java User Group"
 country:  Serbia
 website:  https://nisjug.org
 twitter:  nisjug
