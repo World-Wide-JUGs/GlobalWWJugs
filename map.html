@@ -13,7 +13,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Map" />
 <script type="application/ld+json">
-{"@type":"WebPage","description":"Worldwide list of Java User Groups","headline":"Map","url":"/GlobalWWJugs/map.html","@context":"https://schema.org"}</script>
+{"@type":"WebPage","description":"Worldwide list of Java User Groups","url":"/GlobalWWJugs/map.html","headline":"Map","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/GlobalWWJugs/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/GlobalWWJugs/feed.xml" title="Worldwide list of Java User Groups" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -82,6 +82,13 @@
         var popup = "<b>London Java Community</b><br/>" +
             "<a href='https://londonjavacommunity.co.uk/'>website</a><br/>";
         L.marker([51.5074,  0.1278],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Bulgarian Java User Group</b><br/>" +
+            "<a href='https://jug.bg'>website</a><br/>";
+        L.marker([42.674213540995105,  23.33039794813039],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     
         
         
