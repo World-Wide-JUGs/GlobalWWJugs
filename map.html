@@ -37,7 +37,7 @@ leaflet: true
         {% assign longitude = coordinates[0] %}
         {% assign latitude = coordinates[1] %}
         var popup = "<b>{{ jug.name }}</b><br/>" +
-            "<a href='{{ jug.website }}'>website</a><br/>";
+            "<a href='{{ jug.website }}'>Website</a><br/>";
         if ("{{ jug.twitter }}".length > 0) {
           popup += "<a href='https://twitter.com/{{ jug.twitter }}'>Twitter</a><br/>";
         }
