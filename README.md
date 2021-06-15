@@ -23,6 +23,7 @@ Once you have the project with all the dependencies installed, you can launch it
 bundle exec jekyll serve
 ```
 This will start a jekyll server on `http://127.0.0.1:4000` Once it is loaded, you can open it with your favourite browser.
+ - http://localhost:4000/GlobalWWJugs/index.html
 
 The content you can see, it will be updated every time you made changes in your local files.
 
