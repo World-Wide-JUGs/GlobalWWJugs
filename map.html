@@ -17,7 +17,7 @@ leaflet: true
 <ul>
     <script>
         function onMapClick(e) {
-            console.log("You clicked at: "+e.latlng);
+            console.log("You clicked at: " + e.latlng);
         }
 
         var mymap = L.map('jugsMap').setView([0, 0], 1);
@@ -38,6 +38,9 @@ leaflet: true
         {% assign latitude = coordinates[1] %}
         var popup = "<b>{{ jug.name }}</b><br/>" +
             "<a href='{{ jug.website }}'>website</a><br/>";
+        if ("{{ jug.twitter }}".length > 0) {
+          popup += "<a href='https://twitter.com/{{ jug.twitter }}'>Twitter</a><br/>";
+        }
         L.marker([{{ longitude }}, {{ latitude }}],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     {% endfor %}
     </script>
@@ -53,7 +56,5 @@ leaflet: true
         tileSize: 512,
         zoomOffset: -1
     }).addTo(mymap);
-
-
 
 </script>
