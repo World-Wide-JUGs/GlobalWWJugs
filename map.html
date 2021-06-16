@@ -292,6 +292,16 @@
         
         
         
+        var popup = "<b>WM-JUG</b><br/>" +
+            "<a href='https://wm-jug.org/'>Website</a><br/>";
+        if ("wm_jug".length > 0) {
+          popup += "<a href='https://twitter.com/wm_jug'>Twitter</a><br/>";
+        }
+        L.marker([52.47771,  -1.905414],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Barranquilla Java User Group</b><br/>" +
             "<a href='https://www.jugbaq.org'>Website</a><br/>";
         if ("JUGBAQ".length > 0) {
