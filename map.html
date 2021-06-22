@@ -252,6 +252,16 @@
         
         
         
+        var popup = "<b>Budapest JavaBár</b><br/>" +
+            "<a href='https://www.meetup.com/bpjavabar/'>Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/'>Twitter</a><br/>";
+        }
+        L.marker([47.5620238852589,  19.056239903469812],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Cali Java User Group</b><br/>" +
             "<a href='https://www.clojug.org'>Website</a><br/>";
         if ("CLOJUG".length > 0) {
