@@ -72,6 +72,16 @@
         
         
         
+        var popup = "<b>St. Louis Java Users Group</b><br/>" +
+            "<a href='https://stljug.github.io'>Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/'>Twitter</a><br/>";
+        }
+        L.marker([38.674085,  -90.452912],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Atlanta JUG</b><br/>" +
             "<a href='https://ajug.org'>Website</a><br/>";
         if ("atlantajug".length > 0) {
