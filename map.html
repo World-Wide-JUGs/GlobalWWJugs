@@ -13,7 +13,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Map" />
 <script type="application/ld+json">
-{"@type":"WebPage","description":"Worldwide list of Java User Groups","url":"/GlobalWWJugs/map.html","headline":"Map","@context":"https://schema.org"}</script>
+{"@type":"WebPage","description":"Worldwide list of Java User Groups","headline":"Map","url":"/GlobalWWJugs/map.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/GlobalWWJugs/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/GlobalWWJugs/feed.xml" title="Worldwide list of Java User Groups" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -88,6 +88,16 @@
           popup += "<a href='https://twitter.com/atlantajug'>Twitter</a><br/>";
         }
         L.marker([33.9325621,  -84.3517143],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Java.IL - Israeli JUG</b><br/>" +
+            "<a href='https://meetup.com/javaIL'>Website</a><br/>";
+        if ("java_il".length > 0) {
+          popup += "<a href='https://twitter.com/java_il'>Twitter</a><br/>";
+        }
+        L.marker([32.073130,  34.792480],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     
         
         
