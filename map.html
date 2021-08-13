@@ -192,6 +192,16 @@
         
         
         
+        var popup = "<b>Brussels Java User Group</b><br/>" +
+            "<a href='http://www.brujug.be/'>Website</a><br/>";
+        if ("BruJUG".length > 0) {
+          popup += "<a href='https://twitter.com/BruJUG'>Twitter</a><br/>";
+        }
+        L.marker([50.849594,  4.364084],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Nashville JUG</b><br/>" +
             "<a href='https://www.meetup.com/nashvillejug/'>Website</a><br/>";
         if ("nashvillejug".length > 0) {
