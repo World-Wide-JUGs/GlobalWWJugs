@@ -352,6 +352,16 @@
         
         
         
+        var popup = "<b>Sevilla Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/SVQJUG/'>Website</a><br/>";
+        if ("SVQJUG".length > 0) {
+          popup += "<a href='https://twitter.com/SVQJUG'>Twitter</a><br/>";
+        }
+        L.marker([37.394718,  -5.98389],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Barranquilla Java User Group</b><br/>" +
             "<a href='https://www.jugbaq.org'>Website</a><br/>";
         if ("JUGBAQ".length > 0) {
