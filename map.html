@@ -193,6 +193,16 @@
         
         
         
+        var popup = "<b>Macedonian Java User Group</b><br/>" +
+            "<a href='http://jug.mk'>Website</a><br/>";
+        if ("JavaUserGroupMK".length > 0) {
+          popup += "<a href='https://twitter.com/JavaUserGroupMK'>Twitter</a><br/>";
+        }
+        L.marker([41.99657724303503,  21.43192072537813],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Bordeaux JUG</b><br/>" +
             "<a href='http://www.bordeauxjug.org'>Website</a><br/>";
         if ("BordeauxJUG".length > 0) {
@@ -379,6 +389,16 @@
           popup += "<a href='https://twitter.com/SVQJUG'>Twitter</a><br/>";
         }
         L.marker([37.394718,  -5.98389],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Valencia Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/ValenciaJUG/'>Website</a><br/>";
+        if ("vlc_jug".length > 0) {
+          popup += "<a href='https://twitter.com/vlc_jug'>Twitter</a><br/>";
+        }
+        L.marker([39.469826,  -0.376303],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     
         
         
