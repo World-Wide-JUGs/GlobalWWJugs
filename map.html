@@ -193,6 +193,16 @@
         
         
         
+        var popup = "<b>Java User Group Münster</b><br/>" +
+            "<a href='https://www.jug-muenster.de/'>Website</a><br/>";
+        if ("Jug_MS".length > 0) {
+          popup += "<a href='https://twitter.com/Jug_MS'>Twitter</a><br/>";
+        }
+        L.marker([51.948445 7.614738, ],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Macedonian Java User Group</b><br/>" +
             "<a href='http://jug.mk'>Website</a><br/>";
         if ("JavaUserGroupMK".length > 0) {
