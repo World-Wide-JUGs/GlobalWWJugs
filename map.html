@@ -153,6 +153,16 @@
         
         
         
+        var popup = "<b>PeruJUG</b><br/>" +
+            "<a href='https://perujug.org/'>Website</a><br/>";
+        if ("perujug".length > 0) {
+          popup += "<a href='https://twitter.com/perujug'>Twitter</a><br/>";
+        }
+        L.marker([-9.189967,  -75.015152],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Warsaw Java Users Group</b><br/>" +
             "<a href='https://warszawa.jug.pl'>Website</a><br/>";
         if ("WarszawaJUG".length > 0) {
