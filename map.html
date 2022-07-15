@@ -443,6 +443,16 @@
         
         
         
+        var popup = "<b>Sunnyvale JUG</b><br/>" +
+            "<a href='https://sunnyvalejug.org/'>Website</a><br/>";
+        if ("SunnyvaleJug".length > 0) {
+          popup += "<a href='https://twitter.com/SunnyvaleJug'>Twitter</a><br/>";
+        }
+        L.marker([37.368832,  -122.036346],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Nairobi Java User Group</b><br/>" +
             "<a href='https://www.meetup.com/nairobi-jvm/'>Website</a><br/>";
         if ("nairobijvmgroup".length > 0) {
