@@ -83,6 +83,16 @@
         
         
         
+        var popup = "<b>Belgian Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/belgian-java-user-group'>Website</a><br/>";
+        if ("BeJUG".length > 0) {
+          popup += "<a href='https://twitter.com/BeJUG'>Twitter</a><br/>";
+        }
+        L.marker([50.846816259061896,  4.352442201048654],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>St. Louis Java Users Group</b><br/>" +
             "<a href='https://stljug.github.io'>Website</a><br/>";
         if ("".length > 0) {
