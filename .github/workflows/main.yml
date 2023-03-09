@@ -3,7 +3,7 @@ name: Deploy the site
 on:
   push:
     branches:
-#      - master
+      - master
   workflow_dispatch:
 
 jobs:
