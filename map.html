@@ -383,6 +383,16 @@
         
         
         
+        var popup = "<b>NYJavaSIG</b><br/>" +
+            "<a href='https://javasig.com'>Website</a><br/>";
+        if ("nyjavasig".length > 0) {
+          popup += "<a href='https://twitter.com/nyjavasig'>Twitter</a><br/>";
+        }
+        L.marker([40.71090488913511,  -73.99273785399684],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Belgian Java User Group</b><br/>" +
             "<a href='https://www.meetup.com/belgian-java-user-group'>Website</a><br/>";
         if ("BeJUG".length > 0) {
