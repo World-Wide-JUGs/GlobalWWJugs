@@ -1,9 +1,11 @@
 ---
-name:     "Java User Group Münster"
+name:     "Java User Group Muenster"
 country:  Germany
+email:  
 website:  https://www.jug-muenster.de/
-twitter:  Jug_MS
-meetup: https://www.meetup.com/de-DE/java-usergroup-munster/
-location: 51.948445, 7.614738
-founded_date: 2008-05-05
+calendar: https://www.meetup.com/Java-User-Group-Hessen-JUGH/events/ical/
+twitter:  
+location: 51.9607, 7.6261
+founded_date:
+contact: Thomas Kruse ; Gerrit Grunwald 
 ---
