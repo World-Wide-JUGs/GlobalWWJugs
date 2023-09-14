@@ -663,6 +663,16 @@
         
         
         
+        var popup = "<b>Chicago Java User’s Group</b><br/>" +
+            "<a href='https://www.meetup.com/ChicagoJUG/'>Website</a><br/>";
+        if ("cjug".length > 0) {
+          popup += "<a href='https://twitter.com/cjug'>Twitter</a><br/>";
+        }
+        L.marker([41.87964294558547,  -87.63584297206118],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Cali Java User Group</b><br/>" +
             "<a href='https://www.clojug.org'>Website</a><br/>";
         if ("CLOJUG".length > 0) {
