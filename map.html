@@ -37,9 +37,12 @@ leaflet: true
         {% assign longitude = coordinates[0] %}
         {% assign latitude = coordinates[1] %}
         var popup = "<b>{{ jug.name }}</b><br/>" +
-            "<a href='{{ jug.website }}'>Website</a><br/>";
+            "<a href='{{ jug.website }}' target=\"_blank\">Website</a><br/>";
         if ("{{ jug.twitter }}".length > 0) {
-          popup += "<a href='https://twitter.com/{{ jug.twitter }}'>Twitter</a><br/>";
+          popup += "<a href='https://twitter.com/{{ jug.twitter }}' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("{{ jug.mastodon }}".length > 0) {
+          popup += "<a href='{{ jug.mastodon }}' target=\"_blank\">Mastodon</a><br/>";
         }
         L.marker([{{ longitude }}, {{ latitude }}],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     {% endfor %}
