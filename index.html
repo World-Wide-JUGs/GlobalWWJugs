@@ -22,8 +22,15 @@ Here you have the list of Java User Groups (JUGs) around the world in alphabetic
                 Location: {{ jug.location }}<br/>
                 Date founded: {{ jug.founded_date }}<br/>
                 Country: {{ jug.country }}<br/>
-                <a href="{{ jug.website }}">Website</a><br/>
-                <a href="https://twitter.com/{{ jug.twitter }}">Twitter</a></p>
+                {% if jug.website %}
+                    <a href="{{ jug.website }}">Website</a><br/>
+                {% endif %}
+                {% if jug.twitter %}
+                    <a href="https://twitter.com/{{ jug.twitter }}">Twitter</a><br/>
+                {% endif %}
+                {% if jug.mastodon %}
+                    <a href="{{ jug.mastodon }}">Mastodon</a></p>
+                {% endif %}
             </article>
         </li>
     {% endfor %}
