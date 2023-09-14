@@ -383,6 +383,16 @@
         
         
         
+        var popup = "<b>Central Ohio Java User Group (COJUG)</b><br/>" +
+            "<a href='http://www.cojug.org/'>Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/'>Twitter</a><br/>";
+        }
+        L.marker([39.99664182204378,  -83.0739151554613],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>NYJavaSIG</b><br/>" +
             "<a href='https://javasig.com'>Website</a><br/>";
         if ("nyjavasig".length > 0) {
