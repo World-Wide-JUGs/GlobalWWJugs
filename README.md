@@ -1,5 +1,5 @@
 # Welcome
-Welcome to the **Worldwide list of Java User Groups** (JUGs) !
+Welcome to the [**Worldwide list of Java User Groups** (JUGs)](https://world-wide-jugs.github.io/GlobalWWJugs/) !
 
 This website it is based in 100% opensource technologies, and it is dynamically rendered based on the data located in the different folders saved in this repository.
 
