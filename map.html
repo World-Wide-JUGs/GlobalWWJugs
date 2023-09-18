@@ -1074,6 +1074,19 @@
         
         
         
+        var popup = "<b>Java User Group Oberpfalz</b><br/>" +
+            "<a href='https://jug-oberpfalz.de' target=\"_blank\">Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+        L.marker([49.675341,  12.163260],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Antwerp Java User Group</b><br/>" +
             "<a href='https://www.antwerpjug.be' target=\"_blank\">Website</a><br/>";
         if ("AntwerpJUG".length > 0) {
