@@ -164,6 +164,19 @@
         
         
         
+        var popup = "<b>Java User Group Frankfurt (Main)</b><br/>" +
+            "<a href='http://jugf.de/' target=\"_blank\">Website</a><br/>";
+        if ("jugffm".length > 0) {
+          popup += "<a href='https://twitter.com/jugffm' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+        L.marker([50.1313316,  8.6806882],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Java User Group Freiburg</b><br/>" +
             "<a href='https://jugfr.de/' target=\"_blank\">Website</a><br/>";
         if ("".length > 0) {
