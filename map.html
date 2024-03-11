@@ -398,6 +398,19 @@
         
         
         
+        var popup = "<b>Ottawa Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/ottawa-java-user-group/' target=\"_blank\">Website</a><br/>";
+        if ("realOttawaJUG".length > 0) {
+          popup += "<a href='https://twitter.com/realOttawaJUG' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+        L.marker([45.342928,  -75.690828],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Java User Group Paderborn</b><br/>" +
             "<a href='https://jug-pb.gitlab.io/' target=\"_blank\">Website</a><br/>";
         if ("".length > 0) {
@@ -472,6 +485,19 @@
           popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
         }
         L.marker([51.0110,  10.8453],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Toronto Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/toronto-java-users-group/' target=\"_blank\">Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+        L.marker([43.657764,  -79.402487],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     
         
         
