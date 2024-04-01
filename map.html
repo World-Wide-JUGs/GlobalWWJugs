@@ -1074,6 +1074,19 @@
         
         
         
+        var popup = "<b>JUG NICARAGUA</b><br/>" +
+            "<a href='https://jugnicaragua.org/' target=\"_blank\">Website</a><br/>";
+        if ("jugnicaragua".length > 0) {
+          popup += "<a href='https://twitter.com/jugnicaragua' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+        L.marker([12.137038, -86.316010],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Coruña Java Users Group</b><br/>" +
             "<a href='https://www.corunajug.org' target=\"_blank\">Website</a><br/>";
         if ("corunajug".length > 0) {
