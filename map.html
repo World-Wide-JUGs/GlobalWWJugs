@@ -44,6 +44,9 @@ leaflet: true
         if ("{{ jug.mastodon }}".length > 0) {
           popup += "<a href='{{ jug.mastodon }}' target=\"_blank\">Mastodon</a><br/>";
         }
+	if ("{{ jug.bluesky }}".length > 0) {
+          popup += "<a href='https://bsky.app/profile/{{ jug.bluesky }}' target=\"_blank\">Bluesky</a><br/>";
+	}
         L.marker([{{ longitude }}, {{ latitude }}],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     {% endfor %}
     </script>
