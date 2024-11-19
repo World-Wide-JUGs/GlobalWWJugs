@@ -30,6 +30,9 @@ Here you have the list of Java User Groups (JUGs) around the world in alphabetic
                 {% if jug.mastodon %}
                     <a href="{{ jug.mastodon }}" target="_blank">Mastodon</a></p>
                 {% endif %}
+		{% if jug.bluesky %}
+		    <a href="https://bsky.app/profile/{{ jug.bluesky }}" target="_blank">Bluesky</a><br/>
+		{% endif %}
             </article>
         </li>
     {% endfor %}
