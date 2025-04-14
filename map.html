@@ -1369,6 +1369,22 @@
         
         
         
+        var popup = "<b>Almaty Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/almaty-java-user-group' target=\"_blank\">Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([43.237098365933285,  76.9154652818447],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Java User Group Oberpfalz</b><br/>" +
             "<a href='https://jug-oberpfalz.de' target=\"_blank\">Website</a><br/>";
         if ("".length > 0) {
