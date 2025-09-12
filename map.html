@@ -1462,6 +1462,22 @@
 	}
         L.marker([35.7219,  51.3347],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     
+        
+        
+        
+        var popup = "<b>Orlando JUG (Java User Group)</b><br/>" +
+            "<a href='https://www.meetup.com/orlando-jug-java-user-group/' target=\"_blank\">Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([28.538400,  -81.378900],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
     </script>
 </ul>
 
