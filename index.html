@@ -13,8 +13,12 @@ pagination:
 Here you have the list of Java User Groups (JUGs) around the world in alphabetical order.
 </p>
 
+<p style="margin-bottom: 20px;">
+    <a href="{{ '/search.html' | relative_url }}" style="display: inline-block; background-color: #007cba; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">🔍 Search All JUGs</a>
+</p>
+
 {% assign jugs = site.jugs | sort: 'name' %}
-<ul>
+<ul id="jug-list">
     {% for jug in paginator.posts %}
         <li>
             <article><p>

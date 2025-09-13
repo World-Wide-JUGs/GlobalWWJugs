@@ -1,0 +1,45 @@
+---
+layout: default
+title: Search JUGs
+---
+
+<script src="{{ '/assets/search.js' | relative_url }}"></script>
+
+<p>
+Search and browse the complete list of Java User Groups (JUGs) around the world.
+</p>
+
+<div style="margin-bottom: 20px;">
+    <input type="text" id="jug-search" placeholder="Search JUGs by name or country..." style="width: 100%; max-width: 400px; padding: 8px; font-size: 16px; border: 1px solid #ccc; border-radius: 4px;">
+</div>
+
+<div id="search-results" style="margin-bottom: 10px; font-style: italic; color: #666;"></div>
+
+{% assign jugs = site.jugs | sort: 'name' %}
+<ul id="jug-list">
+    {% for jug in jugs %}
+        <li>
+            <article><p>
+                <h2>{{ jug.name }}</h2>
+                Date founded: {{ jug.founded_date }}<br/>
+                Country: {{ jug.country }}<br/>
+                {% if jug.website %}
+                    <a href="{{ jug.website }}" target="_blank">Website</a><br/>
+                {% endif %}
+                {% if jug.twitter %}
+                    <a href="https://twitter.com/{{ jug.twitter }}" target="_blank">Twitter</a><br/>
+                {% endif %}
+                {% if jug.mastodon %}
+                    <a href="{{ jug.mastodon }}" target="_blank">Mastodon</a><br/>
+                {% endif %}
+                {% if jug.bluesky %}
+                    <a href="https://bsky.app/profile/{{ jug.bluesky }}" target="_blank">Bluesky</a><br/>
+                {% endif %}
+            </p></article>
+        </li>
+    {% endfor %}
+</ul>
+
+<p style="margin-top: 20px; font-style: italic; color: #666;">
+    Total JUGs: {{ jugs | size }}
+</p>
