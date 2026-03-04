@@ -1209,6 +1209,22 @@
         
         
         
+        var popup = "<b>JavaDominicano</b><br/>" +
+            "<a href='https://site.javadominicano.org/' target=\"_blank\">Website</a><br/>";
+        if ("JavaDominicano".length > 0) {
+          popup += "<a href='https://twitter.com/JavaDominicano' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([18.904263,  -70.192775],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Valencia Java User Group</b><br/>" +
             "<a href='https://www.meetup.com/ValenciaJUG/' target=\"_blank\">Website</a><br/>";
         if ("vlc_jug".length > 0) {
