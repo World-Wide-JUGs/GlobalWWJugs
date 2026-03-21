@@ -745,6 +745,22 @@
         
         
         
+        var popup = "<b>Javaforum Malmø</b><br/>" +
+            "<a href='https://linktr.ee/javaforum' target=\"_blank\">Website</a><br/>";
+        if ("javaforum".length > 0) {
+          popup += "<a href='https://twitter.com/javaforum' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([55.604980,  13.003822],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Java Bahia JUG</b><br/>" +
             "<a href='https://javabahia.github.io/' target=\"_blank\">Website</a><br/>";
         if ("javabahia".length > 0) {
