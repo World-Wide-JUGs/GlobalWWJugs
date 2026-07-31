@@ -28,15 +28,18 @@ Here you have the list of Java User Groups (JUGs) around the world in alphabetic
                 {% if jug.website %}
                     <a href="{{ jug.website }}" target="_blank">Website</a><br/>
                 {% endif %}
+                {% if jug.meetup %}
+                    <a href="{{ jug.meetup }}" target="_blank">Meetup</a></p>
+                {% endif %}
                 {% if jug.twitter %}
                     <a href="https://twitter.com/{{ jug.twitter }}" target="_blank">Twitter</a><br/>
                 {% endif %}
                 {% if jug.mastodon %}
                     <a href="{{ jug.mastodon }}" target="_blank">Mastodon</a></p>
                 {% endif %}
-		{% if jug.bluesky %}
-		    <a href="https://bsky.app/profile/{{ jug.bluesky }}" target="_blank">Bluesky</a><br/>
-		{% endif %}
+                {% if jug.bluesky %}
+                    <a href="https://bsky.app/profile/{{ jug.bluesky }}" target="_blank">Bluesky</a><br/>
+                {% endif %}
             </article>
         </li>
     {% endfor %}
