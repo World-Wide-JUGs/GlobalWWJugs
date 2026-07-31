@@ -13,8 +13,12 @@ pagination:
 Here you have the list of Java User Groups (JUGs) around the world in alphabetical order.
 </p>
 
+<p style="margin-bottom: 20px;">
+    <a href="{{ '/search.html' | relative_url }}" style="display: inline-block; background-color: #007cba; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">🔍 Search All JUGs</a>
+</p>
+
 {% assign jugs = site.jugs | sort: 'name' %}
-<ul>
+<ul id="jug-list">
     {% for jug in paginator.posts %}
         <li>
             <article><p>
@@ -22,14 +26,17 @@ Here you have the list of Java User Groups (JUGs) around the world in alphabetic
                 Date founded: {{ jug.founded_date }}<br/>
                 Country: {{ jug.country }}<br/>
                 {% if jug.website %}
-                    <a href="{{ jug.website }}">Website</a><br/>
+                    <a href="{{ jug.website }}" target="_blank">Website</a><br/>
                 {% endif %}
                 {% if jug.twitter %}
-                    <a href="https://twitter.com/{{ jug.twitter }}">Twitter</a><br/>
+                    <a href="https://twitter.com/{{ jug.twitter }}" target="_blank">Twitter</a><br/>
                 {% endif %}
                 {% if jug.mastodon %}
-                    <a href="{{ jug.mastodon }}">Mastodon</a></p>
+                    <a href="{{ jug.mastodon }}" target="_blank">Mastodon</a></p>
                 {% endif %}
+		{% if jug.bluesky %}
+		    <a href="https://bsky.app/profile/{{ jug.bluesky }}" target="_blank">Bluesky</a><br/>
+		{% endif %}
             </article>
         </li>
     {% endfor %}
