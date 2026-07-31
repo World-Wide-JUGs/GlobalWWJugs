@@ -21,25 +21,27 @@ Here you have the list of Java User Groups (JUGs) around the world in alphabetic
 <ul id="jug-list">
     {% for jug in paginator.posts %}
         <li>
-            <article><p>
+            <article>
                 <h2>{{ jug.name }}</h2>
-                Date founded: {{ jug.founded_date }}<br/>
-                Country: {{ jug.country }}<br/>
-                {% if jug.website %}
-                    <a href="{{ jug.website }}" target="_blank">Website</a><br/>
-                {% endif %}
-                {% if jug.meetup %}
-                    <a href="{{ jug.meetup }}" target="_blank">Meetup</a></p>
-                {% endif %}
-                {% if jug.twitter %}
-                    <a href="https://twitter.com/{{ jug.twitter }}" target="_blank">Twitter</a><br/>
-                {% endif %}
-                {% if jug.mastodon %}
-                    <a href="{{ jug.mastodon }}" target="_blank">Mastodon</a></p>
-                {% endif %}
-                {% if jug.bluesky %}
-                    <a href="https://bsky.app/profile/{{ jug.bluesky }}" target="_blank">Bluesky</a><br/>
-                {% endif %}
+                <p>
+                    Date founded: {{ jug.founded_date }}<br/>
+                    Country: {{ jug.country }}<br/>
+                    {% if jug.website %}
+                        <a href="{{ jug.website }}" target="_blank">Website</a><br/>
+                    {% endif %}
+                    {% if jug.meetup %}
+                        <a href="{{ jug.meetup }}" target="_blank">Meetup</a><br/>
+                    {% endif %}
+                    {% if jug.twitter %}
+                        <a href="https://twitter.com/{{ jug.twitter }}" target="_blank">Twitter</a><br/>
+                    {% endif %}
+                    {% if jug.mastodon %}
+                        <a href="{{ jug.mastodon }}" target="_blank">Mastodon</a><br/>
+                    {% endif %}
+                    {% if jug.bluesky %}
+                        <a href="https://bsky.app/profile/{{ jug.bluesky }}" target="_blank">Bluesky</a><br/>
+                    {% endif %}
+                </p>
             </article>
         </li>
     {% endfor %}
