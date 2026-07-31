@@ -4,6 +4,7 @@ country:  Germany
 email:  
 website:  https://www.meetup.com/Java-User-Group-Saarland-jugsaar/
 calendar: https://www.meetup.com/Java-User-Group-Saarland-jugsaar/events/ical/
+meetup:   https://www.meetup.com/Java-User-Group-Saarland-jugsaar/
 twitter:  
 location: 49.3964, 7.0230
 founded_date:
