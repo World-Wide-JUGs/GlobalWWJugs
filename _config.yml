@@ -26,6 +26,11 @@ baseurl: /GlobalWWJugs # the subpath of your site, e.g. /blog
 twitter_username: WWJUGs
 github_username:  World-Wide-JUGs
 
+# Community links, rendered in the footer (a link is only shown when it is set here)
+mailing_list_url: https://jugs.groups.io/g/jug-leaders
+slack_url: https://jugleaders.slack.com/
+contribute_url: https://github.com/World-Wide-JUGs/GlobalWWJugs#readme
+
 # Build settings
 theme: minima
 plugins:
