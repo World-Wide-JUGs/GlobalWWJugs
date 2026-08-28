@@ -3,15 +3,9 @@ title: About
 layout: page
 link: /about/
 ---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to the Worldwide list of Java User Groups (JUGs) !
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This website is based on 100% opensource technologies, and it is dynamically rendered based on the data located in the different folders saved in this repository.
 
-
-[jekyll-organization]: https://github.com/jekyll
+We strongly invite you to improve this website by submitting a [PR](https://github.com/World-Wide-JUGs/GlobalWWJugs/pulls) to include any of the JUGs we have available around the world or by providing new functionalities for the end users of this website.
