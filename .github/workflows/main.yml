@@ -11,19 +11,24 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Install ruby and all the dependencies
-        uses: ruby/setup-ruby@v1
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
         with:
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          distribution: temurin
+          java-version: '21'
+          cache: maven
 
-      - name: Build the site with jekyll
-        run: JEKYLL_ENV=production bundle exec jekyll build --destination _site
+      - name: Build the app with the Roq static generator enabled
+        run: ./mvnw -B package -Dquarkus.roq.generator.batch=true
+
+      - name: Generate the static site into target/roq
+        run: java -jar target/quarkus-app/quarkus-run.jar
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site
+          publish_dir: target/roq
           allow_empty_commit: true

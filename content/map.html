@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Map
+layout: default
 leaflet: true
+link: /map.html
 ---
 
 <!-- Make sure you put this AFTER Leaflet's CSS -->
@@ -13,7 +14,6 @@ leaflet: true
 
 <div id="jugsMap" style="height: 600px; width: 800px"></div>
 
-{% assign jugs = site.jugs | sort: 'founded_date' %}
 <ul>
     <script>
         function onMapClick(e) {
@@ -32,23 +32,20 @@ leaflet: true
           popupAnchor: [0, -28]
         });
 
-    {% for jug in jugs %}
-        {% assign coordinates = jug.location | strip | split: "," %}
-        {% assign longitude = coordinates[0] %}
-        {% assign latitude = coordinates[1] %}
-        var popup = "<b>{{ jug.name }}</b><br/>" +
-            "<a href='{{ jug.website }}' target=\"_blank\">Website</a><br/>";
-        if ("{{ jug.twitter }}".length > 0) {
-          popup += "<a href='https://twitter.com/{{ jug.twitter }}' target=\"_blank\">Twitter</a><br/>";
+    {#for jug in site.collections.jugs.sortBy('founded_date')}
+        var popup = "<b>{=jug.data('name')}</b><br/>" +
+            "<a href='{=jug.data('website')}' target=\"_blank\">Website</a><br/>";
+        if ("{=jug.data('twitter')}".length > 0) {
+          popup += "<a href='https://twitter.com/{=jug.data('twitter')}' target=\"_blank\">Twitter</a><br/>";
         }
-        if ("{{ jug.mastodon }}".length > 0) {
-          popup += "<a href='{{ jug.mastodon }}' target=\"_blank\">Mastodon</a><br/>";
+        if ("{=jug.data('mastodon')}".length > 0) {
+          popup += "<a href='{=jug.data('mastodon')}' target=\"_blank\">Mastodon</a><br/>";
         }
-	if ("{{ jug.bluesky }}".length > 0) {
-          popup += "<a href='https://bsky.app/profile/{{ jug.bluesky }}' target=\"_blank\">Bluesky</a><br/>";
+	if ("{=jug.data('bluesky')}".length > 0) {
+          popup += "<a href='https://bsky.app/profile/{=jug.data('bluesky')}' target=\"_blank\">Bluesky</a><br/>";
 	}
-        L.marker([{{ longitude }}, {{ latitude }}],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
-    {% endfor %}
+        L.marker([{=jug.lng}, {=jug.lat}],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    {/for}
     </script>
 </ul>
 
