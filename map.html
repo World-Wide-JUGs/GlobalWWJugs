@@ -889,6 +889,22 @@
         
         
         
+        var popup = "<b>Oklahoma City JUG (Java User Group)</b><br/>" +
+            "<a href='https://okcjug.org/' target=\"_blank\">Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([35.467560,  -97.516426],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>PeruJUG</b><br/>" +
             "<a href='https://perujug.org/' target=\"_blank\">Website</a><br/>";
         if ("perujug".length > 0) {
