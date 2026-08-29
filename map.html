@@ -105,6 +105,22 @@
         
         
         
+        var popup = "<b>Arnhem Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/arnhemjug/' target=\"_blank\">Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([51.9911696,  5.8931666],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Java User Group Augsburg</b><br/>" +
             "<a href='https://www.meetup.com/Java-User-Group-Augsburg/' target=\"_blank\">Website</a><br/>";
         if ("".length > 0) {
@@ -453,6 +469,22 @@
           popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
 	}
         L.marker([49.4875,  8.4660],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
+        var popup = "<b>Nijmegen Java User Group</b><br/>" +
+            "<a href='https://www.meetup.com/nijmegen-java-user-group/' target=\"_blank\">Website</a><br/>";
+        if ("".length > 0) {
+          popup += "<a href='https://twitter.com/' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([51.8429393,  5.7507568],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
     
         
         
