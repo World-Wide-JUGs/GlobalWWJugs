@@ -713,6 +713,22 @@
         
         
         
+        var popup = "<b>Boston Java Users ACM Chapter</b><br/>" +
+            "<a href='https://www.meetup.com/nejug1/' target=\"_blank\">Website</a><br/>";
+        if ("BostonJavaUsers".length > 0) {
+          popup += "<a href='https://twitter.com/BostonJavaUsers' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([42.5048,  -71.1956],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+    
+        
+        
+        
         var popup = "<b>Seattle JUG</b><br/>" +
             "<a href='https://seajug.org' target=\"_blank\">Website</a><br/>";
         if ("seattlejug".length > 0) {
