@@ -6,44 +6,33 @@ This website it is based in 100% opensource technologies, and it is dynamically 
 We strongly invite you to improve this website by submitting a PR to include any of the JUGs we have available around the world or by providing new functionalities for the end users of this website.
 
 # Setup
-This website is based on [Jekyll](https://jekyllrb.com). To run it you need to set up a Ruby (minimum 2.4.1) environment.
-
-To set up a Ruby environment we recommend:
-* [rbenv](https://github.com/rbenv/rbenv) (Linux and MacOS)
-* [RubyInstaller](https://rubyinstaller.org/) or [Chocolatey](https://chocolatey.org/) (Windows)
-
-After you have Ruby installed, install all the required dependencies running:
-```
-bundle install
-```
+This website is based on [Roq](https://docs.quarkiverse.io/quarkus-roq/dev/index.html), the [Quarkus](https://quarkus.io) static site generator. To build it you need a Java 21 (or later) environment. Maven does not need to be installed separately — the project ships with the Maven Wrapper (`./mvnw`).
 
 # Running in local
-Once you have the project with all the dependencies installed, you can launch it in local with the following command:
+Once you have Java 21 available, you can launch the site locally in dev mode with:
 ```
-bundle exec jekyll serve
+./mvnw quarkus:dev
 ```
-This will start a jekyll server on `http://127.0.0.1:4000` Once it is loaded, you can open it with your favourite browser.
- - http://localhost:4000/GlobalWWJugs/index.html
+This will start a development server on `http://localhost:8080`. Once it is loaded, you can open it with your favourite browser:
+ - http://localhost:8080/GlobalWWJugs/
 
-The content you can see, it will be updated every time you made changes in your local files.
+The content you can see, it will be updated every time you make changes in your local files.
 
-# Running locally with Docker
-Alternatively you can run the site locally via [Docker](https://www.docker.com/).
-This has the benefit of not requiring you to install and manage Ruby versions directly on your machine.
-
-Assuming you have already installed `Docker` and `docker-compose` (e.g. via [Docker Desktop for Mac and Windows](https://www.docker.com/products/docker-desktop)) you can build and run the site locally with:
-
+# Building the static site
+To generate the static website (the same output that is published to GitHub Pages) run:
 ```
-docker-compose up
+./mvnw package -Dquarkus.roq.generator.batch=true
+java -jar target/quarkus-app/quarkus-run.jar
 ```
+The generated site is written to `target/roq`.
 
 # JUGS Map & Directory
-Visit [the main page](index.html)
+Visit [the main page](https://world-wide-jugs.github.io/GlobalWWJugs/)
 
 # Adding a JUG
-For adding a new JUG you only need to submit a PR that should include a new `.md` file saved in the `_jugs` folder that should contain all the mandatory information (_name, website_ and _location_ for locating in the map). Check the [the main page](index.html) to see some properties.
+For adding a new JUG you only need to submit a PR that should include a new `.md` file saved in the `content/jugs` folder that should contain all the mandatory information (_name, website_ and _location_ for locating in the map). Check the existing files in `content/jugs` to see the available properties.
 
-For locating your JUG properly in the map, it is recommended opening [the map](map.html) with your browser, go to its console and click in the place you desire. You should see the coordinates you can use for storing it in your `.md` file. Alternatively you can use [latlong.net](https://www.latlong.net/) or any other latitude and longitude finder. 
+For locating your JUG properly in the map, it is recommended opening [the map](https://world-wide-jugs.github.io/GlobalWWJugs/map.html) with your browser, go to its console and click in the place you desire. You should see the coordinates you can use for storing it in your `.md` file. Alternatively you can use [latlong.net](https://www.latlong.net/) or any other latitude and longitude finder.
 
 #  Communication Channels
 Feel free to reach out using one of the following channels:
