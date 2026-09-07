@@ -1,0 +1,70 @@
+---
+title: Home
+layout: default
+paginate:
+  size: 5
+  collection: jugs
+  link: page:page
+---
+<p>
+Here you have the list of Java User Groups (JUGs) around the world in alphabetical order.
+</p>
+
+<p style="margin-bottom: 20px;">
+    <a href="{=site.url('/search.html')}" style="display: inline-block; background-color: #007cba; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">🔍 Search All JUGs</a>
+</p>
+
+<ul id="jug-list">
+    {#for jug in site.collections.jugs.paged(page.paginator)}
+        <li>
+            <article>
+                <h2>{=jug.data('name')}</h2>
+                <p>
+                    Date founded: {=jug.data('founded_date')}<br/>
+                    Country: {=jug.data('country')}<br/>
+                    {#if jug.data('website')}
+                        <a href="{=jug.data('website')}" target="_blank" rel="noopener noreferrer">Website</a><br/>
+                    {/if}
+                    {#if jug.data('meetup')}
+                        <a href="{=jug.data('meetup')}" target="_blank" rel="noopener noreferrer">Meetup</a><br/>
+                    {/if}
+                    {#if jug.data('twitter')}
+                        <a href="https://twitter.com/{=jug.data('twitter')}" target="_blank">Twitter</a><br/>
+                    {/if}
+                    {#if jug.data('mastodon')}
+                        <a href="{=jug.data('mastodon')}" target="_blank">Mastodon</a><br/>
+                    {/if}
+                    {#if jug.data('bluesky')}
+                        <a href="https://bsky.app/profile/{=jug.data('bluesky')}" target="_blank">Bluesky</a><br/>
+                    {/if}
+                </p>
+            </article>
+        </li>
+    {/for}
+</ul>
+
+<p>
+    {#if page.paginator.total > 1}
+    <div class="pagination">
+        {#if page.paginator.previous}
+            <a href="{=page.paginator.previous}">&laquo; Prev</a>
+        {#else}
+            <span>&laquo; Prev</span>
+        {/if}
+
+        {#for purl in page.paginator.pagesUrl}
+            {#if purl_count == page.paginator.currentIndex}
+                <em>{=purl_count}</em>
+            {#else}
+                <a href="{=purl}">{=purl_count}</a>
+            {/if}
+        {/for}
+
+        {#if page.paginator.next}
+            <a href="{=page.paginator.next}">Next &raquo;</a>
+        {#else}
+            <span>Next &raquo;</span>
+        {/if}
+    </div>
+    {/if}
+</p>

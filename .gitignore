@@ -1,7 +1,12 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# Roq / Quarkus build output
+target/
+
+# Web Bundler (Roq pulls in quarkus-web-bundler, which installs npm deps here)
+node_modules/
+
+# IDE
 .idea
-Gemfile.lock
+*.iml
+.classpath
+.project
+.settings/

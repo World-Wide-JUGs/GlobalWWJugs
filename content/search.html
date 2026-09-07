@@ -1,0 +1,45 @@
+---
+title: Search
+layout: default
+link: /search.html
+---
+
+<script src="{=site.url('/assets/search.js')}"></script>
+
+<p>
+Search and browse the complete list of Java User Groups (JUGs) around the world.
+</p>
+
+<div style="margin-bottom: 20px;">
+    <input type="text" id="jug-search" placeholder="Search JUGs by name or country..." style="width: 100%; max-width: 400px; padding: 8px; font-size: 16px; border: 1px solid #ccc; border-radius: 4px;">
+</div>
+
+<div id="search-results" style="margin-bottom: 10px; font-style: italic; color: #666;"></div>
+
+<ul id="jug-list">
+    {#for jug in site.collections.jugs.sortBy('name')}
+        <li>
+            <article><p>
+                <h2>{=jug.data('name')}</h2>
+                Date founded: {=jug.data('founded_date')}<br/>
+                Country: {=jug.data('country')}<br/>
+                {#if jug.data('website')}
+                    <a href="{=jug.data('website')}" target="_blank">Website</a><br/>
+                {/if}
+                {#if jug.data('twitter')}
+                    <a href="https://twitter.com/{=jug.data('twitter')}" target="_blank">Twitter</a><br/>
+                {/if}
+                {#if jug.data('mastodon')}
+                    <a href="{=jug.data('mastodon')}" target="_blank">Mastodon</a><br/>
+                {/if}
+                {#if jug.data('bluesky')}
+                    <a href="https://bsky.app/profile/{=jug.data('bluesky')}" target="_blank">Bluesky</a><br/>
+                {/if}
+            </p></article>
+        </li>
+    {/for}
+</ul>
+
+<p style="margin-top: 20px; font-style: italic; color: #666;">
+    Total JUGs: {=site.collections.jugs.size}
+</p>
