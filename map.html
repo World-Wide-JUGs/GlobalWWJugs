@@ -484,6 +484,18 @@
           popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
 	}
         L.marker([48.7758,  9.1829],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+        var popup = "<b>Taiwan Java User Group</b><br/>" +
+            "<a href='https://www.twjug.org/' target=\"_blank\">Website</a><br/>";
+        if ("taiwanjug".length > 0) {
+          popup += "<a href='https://twitter.com/taiwanjug' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("".length > 0) {
+          popup += "<a href='' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("".length > 0) {
+          popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([25.040237,  121.520502],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
         var popup = "<b>Java User Group Thueringen</b><br/>" +
             "<a href='http://www.jugth.de' target=\"_blank\">Website</a><br/>";
         if ("".length > 0) {
