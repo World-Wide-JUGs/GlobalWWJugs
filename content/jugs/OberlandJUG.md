@@ -5,7 +5,7 @@ email:
 website:  
 calendar: 
 twitter:  
-location: 46.6336, 7.8508
+location:  47.75, 11.55
 founded_date:
 contact: Christoph Lutz; Bernhard Findeiss
 ---
