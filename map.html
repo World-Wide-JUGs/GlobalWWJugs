@@ -832,6 +832,18 @@
           popup += "<a href='https://bsky.app/profile/' target=\"_blank\">Bluesky</a><br/>";
 	}
         L.marker([44.84044,  -0.5805],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
+        var popup = "<b>Alpes JUG</b><br/>" +
+            "<a href='http://alpesjug.fr' target=\"_blank\">Website</a><br/>";
+        if ("alpesjug".length > 0) {
+          popup += "<a href='https://twitter.com/alpesjug' target=\"_blank\">Twitter</a><br/>";
+        }
+        if ("alpesjug@floss.social".length > 0) {
+          popup += "<a href='alpesjug@floss.social' target=\"_blank\">Mastodon</a><br/>";
+        }
+	if ("alpesjug.bsky.social".length > 0) {
+          popup += "<a href='https://bsky.app/profile/alpesjug.bsky.social' target=\"_blank\">Bluesky</a><br/>";
+	}
+        L.marker([45.1667,  5.7167],{icon: dukeIcon}).addTo(mymap).bindPopup(popup);
         var popup = "<b>Montréal Java User Group</b><br/>" +
             "<a href='https://www.montreal-jug.org/' target=\"_blank\">Website</a><br/>";
         if ("montrealjug".length > 0) {
