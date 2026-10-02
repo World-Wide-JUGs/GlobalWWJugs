@@ -1,7 +1,9 @@
 package jugs;
 
 import java.util.Comparator;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 
 import io.quarkiverse.roq.frontmatter.runtime.model.DocumentPage;
 import io.quarkiverse.roq.frontmatter.runtime.model.Paginator;
@@ -46,6 +48,43 @@ public class JugExtensions {
                 .sorted(Comparator.comparing((DocumentPage page) -> field(page, "name"), String.CASE_INSENSITIVE_ORDER)
                         .thenComparing(DocumentPage::baseFileName))
                 .skip(from).limit(paginator.limit()).toList();
+    }
+
+    /** Groups JUGs by normalized country region in a stable display order. */
+    static List<RegionGroup> groupByRegion(RoqCollection collection) {
+        Map<String, Map<String, List<DocumentPage>>> grouped = new LinkedHashMap<>();
+        collection.forEach(page -> {
+            String region = RegionClassifier.regionForOverrideOrCountry(field(page, "region"), field(page, "country"));
+            String country = RegionClassifier.normalizeCountry(field(page, "country"));
+            if (country.isEmpty()) {
+                country = "Unknown";
+            }
+            grouped.computeIfAbsent(region, ignored -> new LinkedHashMap<>())
+                    .computeIfAbsent(country, ignored -> new java.util.ArrayList<>())
+                    .add(page);
+        });
+
+        return grouped.keySet().stream()
+                .sorted(Comparator.comparingInt(RegionClassifier::regionIndex)
+                        .thenComparing(String.CASE_INSENSITIVE_ORDER))
+                .map(region -> new RegionGroup(region, grouped.get(region).keySet().stream()
+                        .sorted(Comparator.comparingInt((String country) -> grouped.get(region).get(country).size()).reversed()
+                                .thenComparing(String.CASE_INSENSITIVE_ORDER))
+                        .map(country -> new CountryGroup(country, RegionClassifier.regionAnchor(region), grouped.get(region).get(country).stream()
+                                .sorted(Comparator.comparing((DocumentPage page) -> field(page, "name"), String.CASE_INSENSITIVE_ORDER)
+                                        .thenComparing(DocumentPage::baseFileName))
+                                .toList()))
+                        .toList()))
+                .toList();
+    }
+
+    /** Sorts region cards by JUG count, with the stable region order as a tie-breaker. */
+    static List<RegionGroup> sortRegionsByCount(List<RegionGroup> regions) {
+        return regions.stream()
+                .sorted(Comparator.comparingInt(RegionGroup::getCount).reversed()
+                        .thenComparingInt(region -> RegionClassifier.regionIndex(region.getName()))
+                        .thenComparing(RegionGroup::getName, String.CASE_INSENSITIVE_ORDER))
+                .toList();
     }
 
     /** First component of the "location" field (used as-is by the map, matching the original template). */

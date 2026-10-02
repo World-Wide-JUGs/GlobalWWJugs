@@ -1,6 +1,6 @@
 ---
 name:     "WM-JUG"
-country:  UK
+country:  United Kingdom
 website:  https://wm-jug.org/
 twitter:  wm_jug
 location: 52.47771, -1.905414

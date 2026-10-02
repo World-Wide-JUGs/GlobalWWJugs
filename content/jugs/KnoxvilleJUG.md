@@ -1,6 +1,6 @@
 ---
 name:     "KnoxJava"
-country:  USA
+country:  United States
 website:  https://knoxjava.org
 calendar: https://www.meetup.com/KnoxJava/events/ical/
 meetup:   https://www.meetup.com/KnoxJava/

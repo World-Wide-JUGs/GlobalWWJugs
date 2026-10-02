@@ -1,6 +1,6 @@
 ---
 name:     "Manchester Java Community"
-country:  UK
+country:  United Kingdom
 website:  https://www.meetup.com/ManchesterUK-Java-Community/
 meetup:   https://www.meetup.com/ManchesterUK-Java-Community/
 twitter:  mcrjava

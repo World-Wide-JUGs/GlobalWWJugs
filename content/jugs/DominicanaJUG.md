@@ -1,6 +1,6 @@
 ---
 name:     "JavaDominicano"
-country:  DO
+country:  Dominican Republic
 website:  https://site.javadominicano.org/
 twitter:  JavaDominicano
 location: 18.904263, -70.192775

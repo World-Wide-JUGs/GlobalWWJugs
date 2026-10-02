@@ -1,6 +1,6 @@
 ---
 name:     "NYJavaSIG"
-country:  USA
+country:  United States
 website:  https://javasig.com
 twitter:  nyjavasig
 location: 40.71090488913511, -73.99273785399684

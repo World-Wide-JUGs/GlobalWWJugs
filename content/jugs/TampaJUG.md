@@ -1,6 +1,6 @@
 ---
 name:     "Tampa Java User Group"
-country:  USA
+country:  United States
 website:  https://www.tampajug.com/
 calendar: https://www.meetup.com/tampa-jug/events/ical/
 meetup:   https://www.meetup.com/tampa-jug/

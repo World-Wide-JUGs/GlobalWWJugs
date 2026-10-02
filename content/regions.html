@@ -1,0 +1,84 @@
+---
+title: Regions
+layout: default
+link: /regions.html
+---
+
+<div class="directory-intro" id="top">
+    <p>Browse the Java User Groups by region and country.</p>
+    <label class="directory-search-label" for="jug-search">Search JUGs</label>
+    <input class="directory-search" type="search" id="jug-search" placeholder="Search by JUG name, country, or any available detail..." autocomplete="off">
+    <div id="search-results" class="search-results" aria-live="polite"></div>
+</div>
+
+<nav class="region-summary" aria-label="Regions">
+    {#for region in site.collections.jugs.groupByRegion.sortRegionsByCount}
+        <a class="region-card" data-region-card="{=region.anchor}" href="#{=region.anchor}">
+            <span class="region-card-name">{=region.name}</span>
+            <span class="region-card-count">{=region.count} JUG{#if region.count != 1}s{/if}</span>
+        </a>
+    {/for}
+</nav>
+
+{#for region in site.collections.jugs.groupByRegion}
+    <section class="region-section" id="{=region.anchor}">
+        <h2>{=region.name} <span class="region-count">({=region.count})</span></h2>
+
+        <nav class="country-summary" aria-label="Countries in {=region.name}">
+            {#for country in region.countries}
+                <a class="region-card country-card" data-country-card="{=country.anchor}" href="#{=country.anchor}">
+                    <span class="region-card-name">{=country.name} <span class="country-card-count">({=country.count})</span></span>
+                </a>
+            {/for}
+        </nav>
+
+        <div class="country-full-list">
+            {#for country in region.countries}
+                <section class="country-section" id="{=country.anchor}">
+                    <h3>{=country.name} <span class="country-count">({=country.count})</span></h3>
+                    <ul class="region-list">
+                        {#for jug in country.jugs}
+                            <li class="region-jug">
+                                <details class="jug-details">
+                                    <summary>
+                                        <span class="jug-title">{=jug.data('name')}</span>
+                                        <span class="jug-title-links">
+                                            {#if jug.data('website')}<a href="{=jug.data('website')}" target="_blank" rel="noopener noreferrer">Website</a>{/if}
+                                            {#if jug.data('meetup')}<a href="{=jug.data('meetup')}" target="_blank" rel="noopener noreferrer">Meetup</a>{/if}
+                                            {#if jug.data('calendar')}<a href="{=jug.data('calendar')}" target="_blank" rel="noopener noreferrer">Calendar</a>{/if}
+                                            {#if jug.data('linkedin')}<a href="{=jug.data('linkedin')}" target="_blank" rel="noopener noreferrer">LinkedIn</a>{/if}
+                                        </span>
+                                    </summary>
+                                    <dl class="jug-data">
+                                        {#if jug.data('country')}<dt>Country</dt><dd>{=jug.data('country')}</dd>{/if}
+                                        {#if jug.data('email')}<dt>Email</dt><dd><a href="mailto:{=jug.data('email')}">{=jug.data('email')}</a></dd>{/if}
+                                        {#if jug.data('website')}<dt>Website</dt><dd><a href="{=jug.data('website')}" target="_blank" rel="noopener noreferrer">{=jug.data('website')}</a></dd>{/if}
+                                        {#if jug.data('calendar')}<dt>Calendar</dt><dd><a href="{=jug.data('calendar')}" target="_blank" rel="noopener noreferrer">{=jug.data('calendar')}</a></dd>{/if}
+                                        {#if jug.data('meetup')}<dt>Meetup</dt><dd><a href="{=jug.data('meetup')}" target="_blank" rel="noopener noreferrer">{=jug.data('meetup')}</a></dd>{/if}
+                                        {#if jug.data('twitter')}<dt>Twitter</dt><dd>{=jug.data('twitter')}</dd>{/if}
+                                        {#if jug.data('mastodon')}<dt>Mastodon</dt><dd>{=jug.data('mastodon')}</dd>{/if}
+                                        {#if jug.data('bluesky')}<dt>Bluesky</dt><dd>{=jug.data('bluesky')}</dd>{/if}
+                                        {#if jug.data('facebook')}<dt>Facebook</dt><dd>{=jug.data('facebook')}</dd>{/if}
+                                        {#if jug.data('github')}<dt>GitHub</dt><dd>{=jug.data('github')}</dd>{/if}
+                                        {#if jug.data('instagram')}<dt>Instagram</dt><dd>{=jug.data('instagram')}</dd>{/if}
+                                        {#if jug.data('linkedin')}<dt>LinkedIn</dt><dd>{=jug.data('linkedin')}</dd>{/if}
+                                        {#if jug.data('telegram')}<dt>Telegram</dt><dd>{=jug.data('telegram')}</dd>{/if}
+                                        {#if jug.data('twitch')}<dt>Twitch</dt><dd>{=jug.data('twitch')}</dd>{/if}
+                                        {#if jug.data('youtube')}<dt>YouTube</dt><dd>{=jug.data('youtube')}</dd>{/if}
+                                        {#if jug.data('location')}<dt>Location</dt><dd>{=jug.data('location')}</dd>{/if}
+                                        {#if jug.data('founded_date')}<dt>Founded date</dt><dd>{=jug.data('founded_date')}</dd>{/if}
+                                        {#if jug.data('contact')}<dt>Contact</dt><dd>{=jug.data('contact')}</dd>{/if}
+                                    </dl>
+                                </details>
+                            </li>
+                        {/for}
+                    </ul>
+                </section>
+            {/for}
+        </div>
+        <p class="region-backlink"><a href="#top">Back to regions</a></p>
+    </section>
+{/for}
+
+<p class="region-total">Total JUGs: {=site.collections.jugs.size}</p>
+<script src="{=site.url('/assets/search.js')}"></script>

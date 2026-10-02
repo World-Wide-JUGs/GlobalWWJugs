@@ -1,6 +1,6 @@
 ---
 name: "NLJUG"
-country: The Netherlands
+country:  Netherlands
 website: https://nljug.org/
 twitter: nljug
 location: 52.383839,4.6078595

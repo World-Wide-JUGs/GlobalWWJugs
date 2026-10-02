@@ -1,6 +1,6 @@
 ---
 name:     "St. Louis Java Users Group"
-country:  USA
+country:  United States
 website:  https://stljug.github.io
 calendar: https://www.meetup.com/GatewayJUG/events/ical/
 meetup:   https://www.meetup.com/GatewayJUG/

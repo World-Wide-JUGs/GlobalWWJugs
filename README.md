@@ -26,11 +26,20 @@ java -jar target/quarkus-app/quarkus-run.jar
 ```
 The generated site is written to `target/roq`.
 
-# JUGS Map & Directory
-Visit [the main page](https://world-wide-jugs.github.io/GlobalWWJugs/)
+# JUGS Map, Regions & Directory
+Visit [the main page](https://world-wide-jugs.github.io/GlobalWWJugs/), browse the [map](https://world-wide-jugs.github.io/GlobalWWJugs/map.html), or view the [regional directory](https://world-wide-jugs.github.io/GlobalWWJugs/regions.html).
+
+The regional directory normalizes common country aliases such as `USA`, `UK`, and `The Netherlands`, then assigns each JUG to a deterministic geographic region. The canonical country values are stored directly in the JUG frontmatter. The country-to-region mapping is maintained in `src/main/resources/jugs/country-regions.properties`; new country values must be added there when new JUG records are introduced. Unknown or worldwide entries are retained under `Other / Unassigned` rather than being omitted.
+
+## Country and region data
+
+- Use the canonical country name from `country-regions.properties`; aliases such as `USA`, `UK`, `UAE`, `DO`, `Ivory Coast`, `Macedonia`, `Czech Republic`, and `The Netherlands` are normalized to their canonical values.
+- A JUG needs `name`, `country`, `website`, and `location`. `region` is optional and should only be used for an explicit exception; otherwise the region is derived from `country`.
+- Regions are displayed in this order: Africa, Asia, Europe, Middle East, North America, Oceania, South America, and Other / Unassigned.
+- Country cards are grouped within regions and ordered by JUG count. Keep country values consistent so grouping and counts remain correct.
 
 # Adding a JUG
-For adding a new JUG you only need to submit a PR that should include a new `.md` file saved in the `content/jugs` folder that should contain all the mandatory information (_name, website_ and _location_ for locating in the map). Check the existing files in `content/jugs` to see the available properties.
+For adding a new JUG, submit a PR with a new `.md` file in `content/jugs` containing the required fields (`name`, `country`, `website`, and `location`). Check the existing files in `content/jugs` for optional properties such as social links, calendar, meetup, and `region` overrides.
 
 For locating your JUG properly in the map, it is recommended opening [the map](https://world-wide-jugs.github.io/GlobalWWJugs/map.html) with your browser, go to its console and click in the place you desire. You should see the coordinates you can use for storing it in your `.md` file. Alternatively you can use [latlong.net](https://www.latlong.net/) or any other latitude and longitude finder.
 

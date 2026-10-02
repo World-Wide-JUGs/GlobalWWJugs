@@ -1,6 +1,6 @@
 ---
 name:     "Seattle JUG"
-country:  USA
+country:  United States
 website:  https://seajug.org
 twitter:  seattlejug
 location: 47.6205476, -122.3493031

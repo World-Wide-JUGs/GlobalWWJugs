@@ -1,6 +1,6 @@
 ---
 name: "Macedonian Java User Group"
-country: Macedonia
+country:  North Macedonia
 website: http://jug.mk
 twitter: JavaUserGroupMK
 location: 41.99657724303503, 21.43192072537813

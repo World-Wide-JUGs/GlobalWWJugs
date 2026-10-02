@@ -1,6 +1,6 @@
 ---
 name:     "Chicago Java User’s Group"
-country:  USA
+country:  United States
 website:  https://www.meetup.com/ChicagoJUG/
 meetup:   https://www.meetup.com/ChicagoJUG/
 twitter:  cjug

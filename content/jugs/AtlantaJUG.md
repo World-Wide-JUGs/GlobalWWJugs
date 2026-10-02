@@ -1,6 +1,6 @@
 ---
 name:     "Atlanta JUG"
-country:  USA
+country:  United States
 website:  https://ajug.org
 calendar: https://www.meetup.com/atlantajug/events/ical/
 meetup:   https://www.meetup.com/atlantajug/
