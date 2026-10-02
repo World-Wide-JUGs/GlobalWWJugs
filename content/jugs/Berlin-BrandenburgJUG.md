@@ -7,5 +7,5 @@ meetup:   https://www.meetup.com/jug-bb/
 twitter:  
 location: 52.3644, 13.5093
 founded_date:
-contact: Oliver Fischer *
+contact: Oliver Fischer ; Sandra Ahlgrimm
 ---
