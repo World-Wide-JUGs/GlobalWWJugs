@@ -4,8 +4,8 @@ country:  Germany
 website:  http://www.jug-berlin-brandenburg.de/
 calendar: https://www.meetup.com/jug-bb/events/ical/
 meetup:   https://www.meetup.com/jug-bb/
-twitter:  
+linkedin: https://www.linkedin.com/company/jugbb/ 
 location: 52.3644, 13.5093
 founded_date:
-contact: Oliver Fischer *
+contact: Oliver Fischer ; Sandra Ahlgrimm
 ---
