@@ -1,6 +1,6 @@
 ---
 name:     "Apeldoorn Java User Group"
-country:  The Netherlands
+country:  Netherlands
 website:  https://www.meetup.com/apeldoornjug/
 meetup:   https://www.meetup.com/apeldoornjug/
 twitter:  ApeldoornJUG

@@ -1,6 +1,6 @@
 ---
 name:     "Nashville JUG"
-country:  USA
+country:  United States
 website:  https://www.meetup.com/nashvillejug/
 meetup:   https://www.meetup.com/nashvillejug/
 twitter:  nashvillejug

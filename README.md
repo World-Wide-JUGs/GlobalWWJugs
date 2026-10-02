@@ -26,8 +26,10 @@ java -jar target/quarkus-app/quarkus-run.jar
 ```
 The generated site is written to `target/roq`.
 
-# JUGS Map & Directory
-Visit [the main page](https://world-wide-jugs.github.io/GlobalWWJugs/)
+# JUGS Map, Regions & Directory
+Visit [the main page](https://world-wide-jugs.github.io/GlobalWWJugs/), browse the [map](https://world-wide-jugs.github.io/GlobalWWJugs/map.html), or view the [regional directory](https://world-wide-jugs.github.io/GlobalWWJugs/regions.html).
+
+The regional directory normalizes common country aliases such as `USA`, `UK`, and `The Netherlands`, then assigns each JUG to a deterministic geographic region. The canonical country values are stored directly in the JUG frontmatter. The country-to-region mapping is maintained in `src/main/resources/jugs/country-regions.properties`; new country values must be added there when new JUG records are introduced. Unknown or worldwide entries are retained under `Other / Unassigned` rather than being omitted.
 
 # Adding a JUG
 For adding a new JUG you only need to submit a PR that should include a new `.md` file saved in the `content/jugs` folder that should contain all the mandatory information (_name, website_ and _location_ for locating in the map). Check the existing files in `content/jugs` to see the available properties.

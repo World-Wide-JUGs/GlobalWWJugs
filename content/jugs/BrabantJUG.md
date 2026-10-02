@@ -1,6 +1,6 @@
 ---
 name:     "Brabant Java User Group"
-country:  The Netherlands
+country:  Netherlands
 website:  https://www.meetup.com/brabant-jug/
 meetup:   https://www.meetup.com/brabant-jug/
 twitter:  BrabantJug

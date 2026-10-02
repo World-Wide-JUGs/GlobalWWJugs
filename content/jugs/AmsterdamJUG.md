@@ -1,6 +1,6 @@
 ---
 name:     "Amsterdam Java User Group"
-country:  The Netherlands
+country:  Netherlands
 website:  https://www.meetup.com/amsterdam-java-user-group/
 meetup:   https://www.meetup.com/amsterdam-java-user-group/
 twitter:  AmsterdamJUG

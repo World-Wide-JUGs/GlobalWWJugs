@@ -1,6 +1,6 @@
 ---
 name:     "London Java Community"
-country:  UK
+country:  United Kingdom
 website:  https://londonjavacommunity.co.uk/
 calendar: https://www.meetup.com/londonjavacommunity/events/ical/
 meetup:   https://www.meetup.com/londonjavacommunity/

@@ -1,6 +1,6 @@
 ---
 name:     "Twin Cities Java User Group"
-country:  USA
+country:  United States
 website:  https://meetup.com/tcjug-intertech/
 location: 44.9778, -93.2650
 founded_date:

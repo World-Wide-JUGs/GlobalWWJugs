@@ -1,6 +1,6 @@
 ---
 name:     "Nijmegen Java User Group"
-country:  The Netherlands
+country:  Netherlands
 calendar: https://www.meetup.com/nijmegen-java-user-group/events/ical/
 website:  https://www.meetup.com/nijmegen-java-user-group/
 meetup:   https://www.meetup.com/nijmegen-java-user-group/

@@ -1,6 +1,6 @@
 ---
 name:     "Boston Java Users ACM Chapter"
-country:  USA
+country:  United States
 website:  https://www.meetup.com/nejug1/
 calendar: https://www.meetup.com/nejug1/events/ical/
 meetup:   https://www.meetup.com/nejug1/

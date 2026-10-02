@@ -1,6 +1,6 @@
 ---
 name:     "Miami JUG"
-country:  USA
+country:  United States
 website:  https://www.mjug.org/
 calendar: https://www.meetup.com/miami-java-user-group/events/ical/
 meetup:   https://www.meetup.com/miami-java-user-group/

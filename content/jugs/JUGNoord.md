@@ -1,6 +1,6 @@
 ---
 name:     "JUG Noord"
-country:  The Netherlands
+country:  Netherlands
 website:  https://www.meetup.com/jug-noord/
 meetup:   https://www.meetup.com/jug-noord/
 twitter:  JUGNoord

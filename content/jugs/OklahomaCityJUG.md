@@ -1,6 +1,6 @@
 ---
 name:     "Oklahoma City JUG (Java User Group)"
-country:  USA
+country:  United States
 website:  https://okcjug.org/
 meetup:   https://www.meetup.com/oklahoma-city-java-user-group/
 location: 35.467560, -97.516426
