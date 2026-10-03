@@ -25,6 +25,7 @@
           <a class="page-link" href="/GlobalWWJugs/about/">About</a>
           <a class="page-link" href="/GlobalWWJugs/map.html">Map</a>
           <a class="page-link" href="/GlobalWWJugs/regions.html">Regions</a>
+          <a class="page-link" href="/GlobalWWJugs/list.html">List</a>
           <a class="page-link" href="/GlobalWWJugs/search.html">Search</a>
           <a class="page-link" href="/GlobalWWJugs/index.html">Home</a>
         </div>
@@ -140,6 +141,14 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
                 Date founded: <br/>
                 Country: Kazakhstan<br/>
                     <a href="https://facebook.com/astanajug" target="_blank">Website</a><br/>
+            </p></article>
+        </li>
+        <li>
+            <article><p>
+                <h2>Athens Java User Group</h2>
+                Date founded: <br/>
+                Country: Greece<br/>
+                    <a href="https://www.meetup.com/Athens-Java-User-Group/" target="_blank">Website</a><br/>
             </p></article>
         </li>
         <li>
@@ -292,7 +301,7 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
                 <h2>Brno Java User Group</h2>
                 Date founded: <br/>
                 Country: Czechia<br/>
-                    <a href="https://meetup.com/brno-java-meetup/" target="_blank">Website</a><br/>
+                    <a href="https://www.brjug.cz/" target="_blank">Website</a><br/>
             </p></article>
         </li>
         <li>
@@ -1242,7 +1251,7 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
         <li>
             <article><p>
                 <h2>Java User Group Muenster</h2>
-                Date founded: 13.12.2008<br/>
+                Date founded: 2008-12-13<br/>
                 Country: Germany<br/>
                     <a href="https://www.jug-muenster.de/" target="_blank">Website</a><br/>
             </p></article>
@@ -1386,7 +1395,7 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
         <li>
             <article><p>
                 <h2>Java User Group Switzerland</h2>
-                Date founded: 18.06.1997<br/>
+                Date founded: 1997-06-18<br/>
                 Country: Switzerland<br/>
                     <a href="http://www.jug.ch" target="_blank">Website</a><br/>
             </p></article>
@@ -2070,6 +2079,14 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
         </li>
         <li>
             <article><p>
+                <h2>Prague Java User Group</h2>
+                Date founded: <br/>
+                Country: Czechia<br/>
+                    <a href="https://praguejavausergroup.cz/" target="_blank">Website</a><br/>
+            </p></article>
+        </li>
+        <li>
+            <article><p>
                 <h2>Prayagraj Java User Group</h2>
                 Date founded: <br/>
                 Country: India<br/>
@@ -2548,11 +2565,26 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
 </ul>
 
 <p style="margin-top: 20px; font-style: italic; color: #666;">
-    Total JUGs: 303
+    Total JUGs: 305
 </p>
 
     </div>
   </main>
+
+  <a class="back-to-top" href="#" aria-label="Back to top">Top</a>
+  <script>
+    (() => {
+      const topLink = document.querySelector('.back-to-top');
+      if (!topLink) return;
+      const updateTopLink = () => topLink.classList.toggle('is-visible', window.scrollY > 300);
+      window.addEventListener('scroll', updateTopLink, { passive: true });
+      topLink.addEventListener('click', event => {
+        event.preventDefault();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      updateTopLink();
+    })();
+  </script>
 
   <footer class="site-footer h-card">
     <data class="u-url" value="/GlobalWWJugs/"></data>

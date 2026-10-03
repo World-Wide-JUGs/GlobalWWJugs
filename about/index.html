@@ -25,6 +25,7 @@
           <a class="page-link" href="/GlobalWWJugs/about/">About</a>
           <a class="page-link" href="/GlobalWWJugs/map.html">Map</a>
           <a class="page-link" href="/GlobalWWJugs/regions.html">Regions</a>
+          <a class="page-link" href="/GlobalWWJugs/list.html">List</a>
           <a class="page-link" href="/GlobalWWJugs/search.html">Search</a>
           <a class="page-link" href="/GlobalWWJugs/index.html">Home</a>
         </div>
@@ -47,6 +48,21 @@
 
     </div>
   </main>
+
+  <a class="back-to-top" href="#" aria-label="Back to top">Top</a>
+  <script>
+    (() => {
+      const topLink = document.querySelector('.back-to-top');
+      if (!topLink) return;
+      const updateTopLink = () => topLink.classList.toggle('is-visible', window.scrollY > 300);
+      window.addEventListener('scroll', updateTopLink, { passive: true });
+      topLink.addEventListener('click', event => {
+        event.preventDefault();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      updateTopLink();
+    })();
+  </script>
 
   <footer class="site-footer h-card">
     <data class="u-url" value="/GlobalWWJugs/"></data>
