@@ -1,0 +1,33 @@
+<details class="jug-details">
+    <summary>
+        <span class="jug-title">{=it.data('name')}{#if it.data('country')} <span class="jug-list-country" title="{=it.data('country')}"><span class="country-flag" aria-hidden="true">{=it.countryFlag}</span>{=it.data('country')}</span>{/if}</span>
+        <span class="jug-title-links">
+            {#if it.data('website')}<a href="{=it.data('website')}" target="_blank" rel="noopener noreferrer">Website</a>{/if}
+            {#if it.data('meetup')}<a href="{=it.data('meetup')}" target="_blank" rel="noopener noreferrer">Meetup</a>{/if}
+            {#if it.data('calendar')}<a href="{=it.data('calendar')}" target="_blank" rel="noopener noreferrer">Calendar</a>{/if}
+            {#if it.linkUrl('linkedin')}<a href="{=it.linkUrl('linkedin')}" target="_blank" rel="noopener noreferrer">LinkedIn</a>{/if}
+        </span>
+    </summary>
+    <dl class="jug-data">
+        {#if it.data('country')}<dt>Country</dt><dd>{=it.data('country')}</dd>{/if}
+        {#if it.data('email')}<dt>Email</dt><dd><a href="mailto:{=it.data('email')}">{=it.data('email')}</a></dd>{/if}
+        {#if it.data('website')}<dt>Website</dt><dd><a href="{=it.data('website')}" target="_blank" rel="noopener noreferrer">{=it.data('website')}</a></dd>{/if}
+        {#if it.data('calendar')}<dt>Calendar</dt><dd><a href="{=it.data('calendar')}" target="_blank" rel="noopener noreferrer">{=it.data('calendar')}</a></dd>{/if}
+        {#if it.data('meetup')}<dt>Meetup</dt><dd><a href="{=it.data('meetup')}" target="_blank" rel="noopener noreferrer">{=it.data('meetup')}</a></dd>{/if}
+        {#if it.linkUrl('twitter')}<dt>Twitter</dt><dd><a href="{=it.linkUrl('twitter')}" target="_blank" rel="noopener noreferrer">{=it.data('twitter')}</a></dd>{/if}
+        {#if it.linkUrl('mastodon')}<dt>Mastodon</dt><dd><a href="{=it.linkUrl('mastodon')}" target="_blank" rel="noopener noreferrer">{=it.data('mastodon')}</a></dd>{/if}
+        {#if it.linkUrl('bluesky')}<dt>Bluesky</dt><dd><a href="{=it.linkUrl('bluesky')}" target="_blank" rel="noopener noreferrer">{=it.data('bluesky')}</a></dd>{/if}
+        {#if it.linkUrl('facebook')}<dt>Facebook</dt><dd><a href="{=it.linkUrl('facebook')}" target="_blank" rel="noopener noreferrer">{=it.data('facebook')}</a></dd>{/if}
+        {#if it.linkUrl('github')}<dt>GitHub</dt><dd><a href="{=it.linkUrl('github')}" target="_blank" rel="noopener noreferrer">{=it.data('github')}</a></dd>{/if}
+        {#if it.linkUrl('instagram')}<dt>Instagram</dt><dd><a href="{=it.linkUrl('instagram')}" target="_blank" rel="noopener noreferrer">{=it.data('instagram')}</a></dd>{/if}
+        {#if it.linkUrl('linkedin')}<dt>LinkedIn</dt><dd><a href="{=it.linkUrl('linkedin')}" target="_blank" rel="noopener noreferrer">{=it.data('linkedin')}</a></dd>{/if}
+        {#if it.linkUrl('telegram')}<dt>Telegram</dt><dd><a href="{=it.linkUrl('telegram')}" target="_blank" rel="noopener noreferrer">{=it.data('telegram')}</a></dd>{/if}
+        {#if it.linkUrl('twitch')}<dt>Twitch</dt><dd><a href="{=it.linkUrl('twitch')}" target="_blank" rel="noopener noreferrer">{=it.data('twitch')}</a></dd>{/if}
+        {#if it.linkUrl('youtube')}<dt>YouTube</dt><dd><a href="{=it.linkUrl('youtube')}" target="_blank" rel="noopener noreferrer">{=it.data('youtube')}</a></dd>{/if}
+        {#if it.linkUrl('kktix')}<dt>KKTIX</dt><dd><a href="{=it.linkUrl('kktix')}" target="_blank" rel="noopener noreferrer">{=it.data('kktix')}</a></dd>{/if}
+        {#if it.data('location')}<dt>Coordinates</dt><dd>{=it.data('location')}</dd>{/if}
+        {#if it.data('founded_date')}<dt>Founded date</dt><dd>{=it.data('founded_date')}</dd>{/if}
+        {#if it.data('contact')}<dt>Contact</dt><dd>{=it.data('contact')}</dd>{/if}
+        <dt>Source</dt><dd><a href="{=it.sourceUrl}" target="_blank" rel="noopener noreferrer">Markdown file on GitHub</a></dd>
+    </dl>
+</details>

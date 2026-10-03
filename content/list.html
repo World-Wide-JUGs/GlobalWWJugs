@@ -1,0 +1,23 @@
+---
+title: List
+layout: default
+link: /list.html
+---
+
+<script src="{=site.url('/assets/search.js')}"></script>
+
+<p>Alphabetical list of all Java User Groups.</p>
+
+<label class="directory-search-label" for="jug-search">Search JUGs</label>
+<input class="directory-search" type="search" id="jug-search" placeholder="Search by JUG name or country..." autocomplete="off">
+<div id="search-results" class="search-results" aria-live="polite">Type to search JUGs</div>
+
+<ul id="jug-list" class="alphabetical-jug-list" data-show-all="true">
+    {#for jug in site.collections.jugs.sortBy('name')}
+        <li class="alphabetical-jug-row">
+            {#jug-details jug /}
+        </li>
+    {/for}
+</ul>
+
+<p class="region-total">Total JUGs: {=site.collections.jugs.size}</p>

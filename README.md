@@ -35,7 +35,8 @@ The regional directory normalizes common country aliases such as `USA`, `UK`, an
 
 - Use the canonical country name from `country-regions.properties`; aliases such as `USA`, `UK`, `UAE`, `DO`, `Ivory Coast`, `Macedonia`, `Czech Republic`, and `The Netherlands` are normalized to their canonical values.
 - A JUG needs `name`, `country`, `website`, and `location`. `region` is optional and should only be used for an explicit exception; otherwise the region is derived from `country`.
-- Regions are displayed in this order: Africa, Asia, Europe, Middle East, North America, Oceania, South America, and Other / Unassigned.
+- Regions are displayed in this order: Africa, Asia, Europe, Middle East, North America, Central America, Caribbean, Oceania, South America, and Other / Unassigned.
+- The directory follows the UN Statistics Division M49 distinction between North America, Central America, and the Caribbean, with the project convention that North America contains Canada, Mexico, and the United States. See the [UNSD M49 classification](https://unstats.un.org/unsd/methodology/m49/).
 - Country cards are grouped within regions and ordered by JUG count. Keep country values consistent so grouping and counts remain correct.
 
 # Adding a JUG

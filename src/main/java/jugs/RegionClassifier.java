@@ -18,6 +18,8 @@ final class RegionClassifier {
             "Europe",
             "Middle East",
             "North America",
+            "Central America",
+            "Caribbean",
             "Oceania",
             "South America",
             FALLBACK_REGION);

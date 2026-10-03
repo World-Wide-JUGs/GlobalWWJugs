@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchResults = document.getElementById('search-results');
     const jugs = Array.from(document.querySelectorAll('.region-jug'));
     const countries = Array.from(document.querySelectorAll('.country-section'));
+    const countrySummaries = Array.from(document.querySelectorAll('.country-summary'));
     const regions = Array.from(document.querySelectorAll('.region-section'));
     const regionCards = Array.from(document.querySelectorAll('[data-region-card]'));
     const countryCards = Array.from(document.querySelectorAll('[data-country-card]'));
@@ -47,11 +48,16 @@ document.addEventListener('DOMContentLoaded', function() {
             setCardState(document.querySelector(`[data-country-card="${country.id}"]`), visible, visible, true);
         });
 
+        countrySummaries.forEach(function(summary) {
+            setVisible(summary, summary.querySelector('[data-country-card]:not([hidden])') !== null);
+        });
+
         regions.forEach(function(region) {
             const visible = Array.from(region.querySelectorAll('.country-section')).some(function(country) {
                 return !country.hidden;
             });
             setVisible(region, visible);
+            region.classList.toggle('is-active', visible);
             setCardState(document.querySelector(`[data-region-card="${region.id}"]`), visible, visible, true);
         });
 
@@ -71,26 +77,32 @@ document.addEventListener('DOMContentLoaded', function() {
         const selectedCountryId = activeCountryId;
         jugs.forEach(function(jug) {
             const country = jug.closest('.country-section');
-            setVisible(jug, !selectedCountryId || country.id === selectedCountryId);
+            setVisible(jug, Boolean(selectedRegionId) && (!selectedCountryId || country.id === selectedCountryId));
         });
 
         countries.forEach(function(country) {
             const inSelectedRegion = !selectedRegionId || country.closest('.region-section').id === selectedRegionId;
-            const visible = inSelectedRegion && (!selectedCountryId || country.id === selectedCountryId);
+            const visible = Boolean(selectedRegionId) && inSelectedRegion && (!selectedCountryId || country.id === selectedCountryId);
             setVisible(country, visible);
-            setCardState(document.querySelector(`[data-country-card="${country.id}"]`), visible, selectedCountryId === country.id, false);
+            setCardState(document.querySelector(`[data-country-card="${country.id}"]`), Boolean(selectedRegionId) && inSelectedRegion, selectedCountryId === country.id, false);
+        });
+
+        countrySummaries.forEach(function(summary) {
+            setVisible(summary, Boolean(selectedRegionId));
         });
 
         regions.forEach(function(region) {
-            const visible = !selectedRegionId || region.id === selectedRegionId;
+            const visible = Boolean(selectedRegionId) && region.id === selectedRegionId;
             setVisible(region, visible);
-            setCardState(document.querySelector(`[data-region-card="${region.id}"]`), visible, region.id === selectedRegionId, false);
+            region.classList.toggle('is-active', visible);
+            const cardVisible = !selectedRegionId || region.id === selectedRegionId;
+            setCardState(document.querySelector(`[data-region-card="${region.id}"]`), cardVisible, region.id === selectedRegionId, false);
         });
 
         if (searchResults) {
             searchResults.textContent = selectedCountryId || selectedRegionId
                 ? 'Showing the selected directory section'
-                : `Showing all ${jugs.length} JUGs`;
+                : 'Select a region or search for a JUG';
         }
     }
 
@@ -106,16 +118,47 @@ document.addEventListener('DOMContentLoaded', function() {
         activeRegionId = regionForCountry(countryId);
         searchInput.value = '';
         applyNavigation();
+        const firstJug = document.querySelector(`#${countryId} .region-jug:not([hidden])`);
+        if (firstJug) {
+            requestAnimationFrame(function() {
+                firstJug.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            });
+        }
+    }
+
+    if (jugs.length === 0) {
+        const legacyList = document.getElementById('jug-list');
+        if (!legacyList) return;
+        const items = Array.from(legacyList.children);
+        const showAll = legacyList.dataset.showAll === 'true';
+        items.forEach(function(item) { setVisible(item, showAll); });
+        searchInput.addEventListener('input', function() {
+            const term = searchInput.value.toLowerCase().trim();
+            let visibleCount = 0;
+            items.forEach(function(item) {
+                const visible = term === '' ? showAll : item.textContent.toLowerCase().includes(term);
+                setVisible(item, visible);
+                if (visible) visibleCount++;
+            });
+            if (searchResults) {
+                searchResults.textContent = term === ''
+                    ? (showAll ? `Showing all ${items.length} JUGs` : 'Type to search JUGs')
+                    : `Found ${visibleCount} JUG${visibleCount === 1 ? '' : 's'} matching "${searchInput.value.trim()}"`;
+            }
+        });
+        return;
     }
 
     regionCards.forEach(function(card) {
-        card.addEventListener('click', function() {
+        card.addEventListener('click', function(event) {
+            event.preventDefault();
             activateRegion(card.dataset.regionCard);
         });
     });
 
     countryCards.forEach(function(card) {
-        card.addEventListener('click', function() {
+        card.addEventListener('click', function(event) {
+            event.preventDefault();
             activateCountry(card.dataset.countryCard);
         });
     });
@@ -129,6 +172,12 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    document.querySelectorAll('.jug-details summary a').forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.stopPropagation();
+        });
+    });
+
     searchInput.addEventListener('input', function() {
         activeRegionId = null;
         activeCountryId = null;
@@ -137,27 +186,16 @@ document.addEventListener('DOMContentLoaded', function() {
         else applySearch(term);
     });
 
-    if (jugs.length === 0) {
-        const legacyList = document.getElementById('jug-list');
-        if (!legacyList) return;
-        const items = Array.from(legacyList.children);
-        items.forEach(function(item) { setVisible(item, false); });
-        searchInput.addEventListener('input', function() {
-            const term = searchInput.value.toLowerCase().trim();
-            let visibleCount = 0;
-            items.forEach(function(item) {
-                const visible = term !== '' && item.textContent.toLowerCase().includes(term);
-                setVisible(item, visible);
-                if (visible) visibleCount++;
-            });
-            if (searchResults) {
-                searchResults.textContent = term === ''
-                    ? 'Type to search JUGs'
-                    : `Found ${visibleCount} JUG${visibleCount === 1 ? '' : 's'} matching "${searchInput.value.trim()}"`;
-            }
-        });
-        return;
+    const initialTarget = window.location.hash.slice(1);
+    const initialElement = initialTarget && document.getElementById(initialTarget);
+    if (initialElement && initialElement.classList.contains('country-section')) {
+        activateCountry(initialTarget);
+    } else if (initialElement && initialElement.classList.contains('region-section')) {
+        activateRegion(initialTarget);
+    } else {
+        if (initialTarget) {
+            window.history.replaceState(null, document.title, window.location.pathname + window.location.search);
+        }
+        applyNavigation();
     }
-
-    applyNavigation();
 });

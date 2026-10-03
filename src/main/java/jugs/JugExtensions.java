@@ -20,6 +20,35 @@ import io.quarkus.qute.TemplateExtension;
 @TemplateExtension
 public class JugExtensions {
 
+    private static final Map<String, String> COUNTRY_CODES = Map.ofEntries(
+            Map.entry("Albania", "AL"), Map.entry("Angola", "AO"), Map.entry("Argentina", "AR"),
+            Map.entry("Armenia", "AM"), Map.entry("Australia", "AU"), Map.entry("Austria", "AT"),
+            Map.entry("Bangladesh", "BD"), Map.entry("Belarus", "BY"), Map.entry("Belgium", "BE"),
+            Map.entry("Bolivia", "BO"), Map.entry("Brazil", "BR"), Map.entry("Bulgaria", "BG"),
+            Map.entry("Canada", "CA"), Map.entry("Chile", "CL"), Map.entry("China", "CN"),
+            Map.entry("Colombia", "CO"), Map.entry("Costa Rica", "CR"), Map.entry("Croatia", "HR"),
+            Map.entry("Cyprus", "CY"), Map.entry("Czechia", "CZ"), Map.entry("Denmark", "DK"),
+            Map.entry("Dominican Republic", "DO"), Map.entry("Ecuador", "EC"), Map.entry("El Salvador", "SV"),
+            Map.entry("Finland", "FI"), Map.entry("France", "FR"), Map.entry("Germany", "DE"),
+            Map.entry("Ghana", "GH"), Map.entry("Greece", "GR"), Map.entry("Guatemala", "GT"),
+            Map.entry("Hong Kong", "HK"), Map.entry("Hungary", "HU"), Map.entry("Iceland", "IS"),
+            Map.entry("India", "IN"), Map.entry("Iran", "IR"), Map.entry("Ireland", "IE"),
+            Map.entry("Israel", "IL"), Map.entry("Italy", "IT"), Map.entry("Côte d'Ivoire", "CI"),
+            Map.entry("Japan", "JP"), Map.entry("Kazakhstan", "KZ"), Map.entry("Kenya", "KE"),
+            Map.entry("Latvia", "LV"), Map.entry("Lebanon", "LB"), Map.entry("Lithuania", "LT"),
+            Map.entry("Luxembourg", "LU"), Map.entry("Malaysia", "MY"), Map.entry("Mexico", "MX"),
+            Map.entry("Morocco", "MA"), Map.entry("Netherlands", "NL"), Map.entry("New Zealand", "NZ"),
+            Map.entry("Nicaragua", "NI"), Map.entry("Nigeria", "NG"), Map.entry("North Macedonia", "MK"),
+            Map.entry("Norway", "NO"), Map.entry("Pakistan", "PK"), Map.entry("Panama", "PA"),
+            Map.entry("Peru", "PE"), Map.entry("Philippines", "PH"), Map.entry("Poland", "PL"),
+            Map.entry("Portugal", "PT"), Map.entry("Romania", "RO"), Map.entry("Russia", "RU"),
+            Map.entry("Saudi Arabia", "SA"), Map.entry("Serbia", "RS"), Map.entry("Singapore", "SG"),
+            Map.entry("South Africa", "ZA"), Map.entry("Spain", "ES"), Map.entry("Sudan", "SD"),
+            Map.entry("Sweden", "SE"), Map.entry("Switzerland", "CH"), Map.entry("Taiwan", "TW"),
+            Map.entry("Tunisia", "TN"), Map.entry("Turkey", "TR"), Map.entry("Ukraine", "UA"),
+            Map.entry("United Arab Emirates", "AE"), Map.entry("United Kingdom", "GB"),
+            Map.entry("United States", "US"), Map.entry("Worldwide", "UN"));
+
     private static String field(DocumentPage page, String key) {
         Object value = page.data(key);
         return value == null ? "" : value.toString();
@@ -85,6 +114,65 @@ public class JugExtensions {
                         .thenComparingInt(region -> RegionClassifier.regionIndex(region.getName()))
                         .thenComparing(RegionGroup::getName, String.CASE_INSENSITIVE_ORDER))
                 .toList();
+    }
+
+    /** Resolves stored social handles to safe HTTPS links while preserving stored URLs. */
+    static String linkUrl(DocumentPage page, String key) {
+        String value = field(page, key).strip();
+        if (value.isEmpty()) {
+            return "";
+        }
+        if (value.startsWith("https://") || value.startsWith("http://")) {
+            return value;
+        }
+        String handle = value.startsWith("@") ? value.substring(1).strip() : value;
+        if (handle.isEmpty()) {
+            return "";
+        }
+        return switch (key) {
+            case "twitter" -> "https://twitter.com/" + handle;
+            case "bluesky" -> "https://bsky.app/profile/" + handle;
+            case "facebook" -> "https://www.facebook.com/" + handle;
+            case "github" -> "https://github.com/" + handle;
+            case "instagram" -> "https://www.instagram.com/" + handle;
+            case "linkedin" -> "https://www.linkedin.com/" + (handle.contains("/") ? handle : "company/" + handle);
+            case "telegram" -> "https://t.me/" + handle;
+            case "twitch" -> "https://www.twitch.tv/" + handle;
+            case "youtube" -> "https://www.youtube.com/@" + handle;
+            case "kktix" -> handle.contains(".kktix.cc") ? "https://" + handle + (handle.endsWith("/") ? "" : "/") : "https://" + handle + ".kktix.cc/";
+            case "mastodon" -> mastodonUrl(handle);
+            default -> "";
+        };
+    }
+
+    private static String mastodonUrl(String value) {
+        int separator = value.lastIndexOf('@');
+        return separator > 0 && separator < value.length() - 1
+                ? "https://" + value.substring(separator + 1) + "/@" + value.substring(0, separator)
+                : "";
+    }
+
+    /** Returns the Unicode country flag for a normalized country value. */
+    static String countryFlag(DocumentPage page) {
+        String code = COUNTRY_CODES.get(RegionClassifier.normalizeCountry(field(page, "country")));
+        if (code == null) {
+            return "🌍";
+        }
+        if (code.equals("UN")) {
+            return "🌐";
+        }
+        return code.chars()
+                .mapToObj(letter -> String.valueOf(Character.toChars(0x1F1E6 + letter - 'A')))
+                .reduce("", String::concat);
+    }
+
+    /** Link to the complete Markdown record in the repository. */
+    static String sourceUrl(DocumentPage page) {
+        String filename = page.baseFileName();
+        if (!filename.endsWith(".md")) {
+            filename += ".md";
+        }
+        return "https://github.com/World-Wide-JUGs/GlobalWWJugs/blob/master/content/jugs/" + filename;
     }
 
     /** First component of the "location" field (used as-is by the map, matching the original template). */

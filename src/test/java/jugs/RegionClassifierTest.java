@@ -23,6 +23,10 @@ class RegionClassifierTest {
     @Test
     void classifiesCountriesIntoStableRegions() {
         assertEquals("North America", RegionClassifier.regionForCountry("USA"));
+        assertEquals("North America", RegionClassifier.regionForCountry("Canada"));
+        assertEquals("North America", RegionClassifier.regionForCountry("Mexico"));
+        assertEquals("Central America", RegionClassifier.regionForCountry("Costa Rica"));
+        assertEquals("Caribbean", RegionClassifier.regionForCountry("Dominican Republic"));
         assertEquals("Europe", RegionClassifier.regionForCountry("Germany"));
         assertEquals("Middle East", RegionClassifier.regionForCountry("United Arab Emirates"));
         assertEquals("Other / Unassigned", RegionClassifier.regionForCountry("Worldwide"));
@@ -37,6 +41,8 @@ class RegionClassifierTest {
                 "Europe",
                 "Middle East",
                 "North America",
+                "Central America",
+                "Caribbean",
                 "Oceania",
                 "South America",
                 "Other / Unassigned"), RegionClassifier.regionOrder());

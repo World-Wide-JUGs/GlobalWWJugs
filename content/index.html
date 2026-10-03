@@ -36,31 +36,7 @@ link: /index.html
                     <h3>{=country.name} <span class="country-count">({=country.count})</span></h3>
                     <ul class="region-list">
                         {#for jug in country.jugs}
-                            <li class="region-jug"><details class="jug-details"><summary><span class="jug-title">{=jug.data('name')}</span><span class="jug-title-links">
-                                {#if jug.data('website')}<a href="{=jug.data('website')}" target="_blank" rel="noopener noreferrer">Website</a>{/if}
-                                {#if jug.data('meetup')}<a href="{=jug.data('meetup')}" target="_blank" rel="noopener noreferrer">Meetup</a>{/if}
-                                {#if jug.data('calendar')}<a href="{=jug.data('calendar')}" target="_blank" rel="noopener noreferrer">Calendar</a>{/if}
-                                {#if jug.data('linkedin')}<a href="{=jug.data('linkedin')}" target="_blank" rel="noopener noreferrer">LinkedIn</a>{/if}
-                            </span></summary><dl class="jug-data">
-                                {#if jug.data('country')}<dt>Country</dt><dd>{=jug.data('country')}</dd>{/if}
-                                {#if jug.data('email')}<dt>Email</dt><dd><a href="mailto:{=jug.data('email')}">{=jug.data('email')}</a></dd>{/if}
-                                {#if jug.data('website')}<dt>Website</dt><dd><a href="{=jug.data('website')}" target="_blank" rel="noopener noreferrer">{=jug.data('website')}</a></dd>{/if}
-                                {#if jug.data('calendar')}<dt>Calendar</dt><dd><a href="{=jug.data('calendar')}" target="_blank" rel="noopener noreferrer">{=jug.data('calendar')}</a></dd>{/if}
-                                {#if jug.data('meetup')}<dt>Meetup</dt><dd><a href="{=jug.data('meetup')}" target="_blank" rel="noopener noreferrer">{=jug.data('meetup')}</a></dd>{/if}
-                                {#if jug.data('twitter')}<dt>Twitter</dt><dd>{=jug.data('twitter')}</dd>{/if}
-                                {#if jug.data('mastodon')}<dt>Mastodon</dt><dd>{=jug.data('mastodon')}</dd>{/if}
-                                {#if jug.data('bluesky')}<dt>Bluesky</dt><dd>{=jug.data('bluesky')}</dd>{/if}
-                                {#if jug.data('facebook')}<dt>Facebook</dt><dd>{=jug.data('facebook')}</dd>{/if}
-                                {#if jug.data('github')}<dt>GitHub</dt><dd>{=jug.data('github')}</dd>{/if}
-                                {#if jug.data('instagram')}<dt>Instagram</dt><dd>{=jug.data('instagram')}</dd>{/if}
-                                {#if jug.data('linkedin')}<dt>LinkedIn</dt><dd>{=jug.data('linkedin')}</dd>{/if}
-                                {#if jug.data('telegram')}<dt>Telegram</dt><dd>{=jug.data('telegram')}</dd>{/if}
-                                {#if jug.data('twitch')}<dt>Twitch</dt><dd>{=jug.data('twitch')}</dd>{/if}
-                                {#if jug.data('youtube')}<dt>YouTube</dt><dd>{=jug.data('youtube')}</dd>{/if}
-                                {#if jug.data('location')}<dt>Location</dt><dd>{=jug.data('location')}</dd>{/if}
-                                {#if jug.data('founded_date')}<dt>Founded date</dt><dd>{=jug.data('founded_date')}</dd>{/if}
-                                {#if jug.data('contact')}<dt>Contact</dt><dd>{=jug.data('contact')}</dd>{/if}
-                            </dl></details></li>
+                            <li class="region-jug">{#jug-details jug /}</li>
                         {/for}
                     </ul>
                 </section>
