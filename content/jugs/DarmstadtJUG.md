@@ -1,11 +1,22 @@
 ---
-name:     "Java User Group Darmstadt"
-country:  Germany
+name: "Java User Group Darmstadt"
+country: Germany
 email: info@jug-da.de
-website:  http://www.jug-da.de/
+website: http://www.jug-da.de/
 calendar: http://www.jug-da.de/events.ics
-twitter:  
+twitter:
 location: 49.8728, 8.6512
 founded_date:
-contact: Niko Köbler ; Gerd Aschemann ; Falk Sippach 
+contact: Niko Köbler ; Gerd Aschemann ; Falk Sippach
+meetup:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

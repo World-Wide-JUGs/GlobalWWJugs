@@ -1,12 +1,22 @@
 ---
-name:     "Java User Group Hamburg"
-country:  Germany
-email:  info@jug-hh.de
-website:  https://www.meetup.com/jug-hamburg/
+name: "Java User Group Hamburg"
+country: Germany
+email: info@jug-hh.de
+website: https://www.meetup.com/jug-hamburg/
 calendar: https://www.meetup.com/jug-hamburg/events/ical/
-meetup:   https://www.meetup.com/jug-hamburg/
-twitter:  
+meetup: https://www.meetup.com/jug-hamburg/
+twitter:
 location: 53.5488, 9.9872
 founded_date:
 contact: Uwe Sauerbrei ; Bennet Schulz
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

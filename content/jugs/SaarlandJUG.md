@@ -1,12 +1,22 @@
 ---
-name:     "Java User Group Saarland"
-country:  Germany
-email:  
-website:  https://www.meetup.com/Java-User-Group-Saarland-jugsaar/
+name: "Java User Group Saarland"
+country: Germany
+email:
+website: https://www.meetup.com/Java-User-Group-Saarland-jugsaar/
 calendar: https://www.meetup.com/Java-User-Group-Saarland-jugsaar/events/ical/
-meetup:   https://www.meetup.com/Java-User-Group-Saarland-jugsaar/
-twitter:  
+meetup: https://www.meetup.com/Java-User-Group-Saarland-jugsaar/
+twitter:
 location: 49.3964, 7.0230
 founded_date:
 contact: Thomas Darimont
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

@@ -1,10 +1,22 @@
 ---
-name:     "Belgian Java User Group"
-country:  Belgium
-website:  https://bejug.github.io/
-meetup:   https://www.meetup.com/belgian-java-user-group
-twitter:  BeJUG
+name: "Belgian Java User Group"
+country: Belgium
+website: https://bejug.github.io/
+meetup: https://www.meetup.com/belgian-java-user-group
+twitter: BeJUG
 mastodon: https://foojay.social/@BeJUG
 location: 50.846816259061896, 4.352442201048654
 founded_date: 1996-01-01
+email:
+calendar:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

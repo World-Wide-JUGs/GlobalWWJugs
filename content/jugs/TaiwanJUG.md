@@ -1,10 +1,22 @@
 ---
-name:     "Taiwan Java User Group"
-country:  Taiwan
-website:  https://www.twjug.org/
-meetup:   https://www.meetup.com/taiwanjug/
-kktix:    https://twjug.kktix.cc/
-twitter:  taiwanjug
+name: "Taiwan Java User Group"
+country: Taiwan
+website: https://www.twjug.org/
+meetup: https://www.meetup.com/taiwanjug/
+kktix: https://twjug.kktix.cc/
+twitter: taiwanjug
 facebook: twjug
 location: 25.040237, 121.520502
+email:
+calendar:
+mastodon:
+bluesky:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+founded_date:
+contact:
 ---

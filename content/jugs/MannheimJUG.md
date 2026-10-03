@@ -1,11 +1,22 @@
 ---
-name:     "Java User Group Mannheim"
-country:  Germany
-email:   info@majug.de
-website:  http://majug.de/
+name: "Java User Group Mannheim"
+country: Germany
+email: info@majug.de
+website: http://majug.de/
 calendar: http://www.majug.de/events.ics
-twitter:  
+twitter:
 location: 49.4875, 8.4660
 founded_date:
 contact: Walery Strauch; Wolfgang Schell; Gregor Trefs
+meetup:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

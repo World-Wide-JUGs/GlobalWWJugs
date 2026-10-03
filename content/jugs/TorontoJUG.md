@@ -1,7 +1,22 @@
 ---
-name:     "Toronto Java User Group"
-country:  Canada
-website:  https://www.meetup.com/toronto-java-users-group/
-meetup:   https://www.meetup.com/toronto-java-users-group/
+name: "Toronto Java User Group"
+country: Canada
+website: https://www.meetup.com/toronto-java-users-group/
+meetup: https://www.meetup.com/toronto-java-users-group/
 location: 43.657764, -79.402487
+email:
+calendar:
+twitter:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+founded_date:
+contact:
 ---

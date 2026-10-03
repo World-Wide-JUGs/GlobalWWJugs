@@ -1,11 +1,22 @@
 ---
-name:     "Java User Group Saxony"
-country:  Germany
-email:  team@jugsaxony.org
-website:  https://jugsaxony.org
+name: "Java User Group Saxony"
+country: Germany
+email: team@jugsaxony.org
+website: https://jugsaxony.org
 calendar: https://backoffice.jugsaxony.org/calendars/events.ics
-twitter:  
+twitter:
 location: 51.1045, 13.2017
 founded_date:
-contact: Torsten Busch ; Falk Hartmann 
+contact: Torsten Busch ; Falk Hartmann
+meetup:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

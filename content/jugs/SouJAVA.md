@@ -1,7 +1,22 @@
 ---
-name:     "SouJAVA (Sociedade de Usuários Java)"
-country:  Brazil
-website:  https://soujava.org.br
+name: "SouJAVA (Sociedade de Usuários Java)"
+country: Brazil
+website: https://soujava.org.br
 location: -23.5505, -46.6333
 founded_date:
+email:
+calendar:
+meetup:
+twitter:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

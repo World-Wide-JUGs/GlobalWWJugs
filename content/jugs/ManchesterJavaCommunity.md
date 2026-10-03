@@ -1,9 +1,22 @@
 ---
-name:     "Manchester Java Community"
-country:  United Kingdom
-website:  https://www.meetup.com/ManchesterUK-Java-Community/
-meetup:   https://www.meetup.com/ManchesterUK-Java-Community/
-twitter:  mcrjava
+name: "Manchester Java Community"
+country: United Kingdom
+website: https://www.meetup.com/ManchesterUK-Java-Community/
+meetup: https://www.meetup.com/ManchesterUK-Java-Community/
+twitter: mcrjava
 location: 53.4808, -2.2426
 founded_date: 2013-05-23
+email:
+calendar:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

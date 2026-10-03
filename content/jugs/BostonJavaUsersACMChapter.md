@@ -1,11 +1,22 @@
 ---
-name:     "Boston Java Users ACM Chapter"
-country:  United States
-website:  https://www.meetup.com/nejug1/
+name: "Boston Java Users ACM Chapter"
+country: United States
+website: https://www.meetup.com/nejug1/
 calendar: https://www.meetup.com/nejug1/events/ical/
-meetup:   https://www.meetup.com/nejug1/
+meetup: https://www.meetup.com/nejug1/
 location: 42.5048, -71.1956
-twitter:  BostonJavaUsers
+twitter: BostonJavaUsers
 founded_date: 1995
-contact:  bjuacm-board@googlegroups.com
+contact: bjuacm-board@googlegroups.com
+email:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

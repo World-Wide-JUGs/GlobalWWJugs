@@ -1,11 +1,22 @@
 ---
-name:     "Java User Group Karlsruhe"
-country:  Germany
-website:  http://jug-ka.de/
+name: "Java User Group Karlsruhe"
+country: Germany
+website: http://jug-ka.de/
 calendar: https://www.meetup.com/Java-User-Group-Karlsruhe/events/ical/
-meetup:   https://www.meetup.com/Java-User-Group-Karlsruhe/
-twitter:  
+meetup: https://www.meetup.com/Java-User-Group-Karlsruhe/
+twitter:
 location: 49.0069, 8.4037
 founded_date:
 contact: Michael Prieß
+email:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

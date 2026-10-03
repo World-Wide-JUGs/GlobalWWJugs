@@ -1,12 +1,22 @@
 ---
-name:     "Java User Group Dortmund"
-country:  Germany
-email:  
-website:  https://www.meetup.com/JUG-Dortmund/
+name: "Java User Group Dortmund"
+country: Germany
+email:
+website: https://www.meetup.com/JUG-Dortmund/
 calendar: https://www.meetup.com/JUG-Dortmund/events/ical/
-meetup:   https://www.meetup.com/JUG-Dortmund/
-twitter:  
+meetup: https://www.meetup.com/JUG-Dortmund/
+twitter:
 location: 51.5136, 7.4653
 founded_date:
-contact: Ansgar Schulze Everding ; Sandra Parsick 
+contact: Ansgar Schulze Everding ; Sandra Parsick
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

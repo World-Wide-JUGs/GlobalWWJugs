@@ -1,9 +1,9 @@
 ---
-name: "Brno Java User Group"
+name: "Prague Java User Group"
 country: Czechia
-website: https://www.brjug.cz/
-meetup: https://www.meetup.com/brno-java/
-location: 49.1951, 16.6068
+website: https://praguejavausergroup.cz/
+meetup: https://www.meetup.com/prague-java/
+location: 50.0755, 14.4378
 founded_date:
 email:
 calendar:

@@ -1,7 +1,22 @@
 ---
-name:     "Java User Group Passau"
-country:  Germany
-website:  https://jug-passau.de/
+name: "Java User Group Passau"
+country: Germany
+website: https://jug-passau.de/
 location: 48.5667, 13.4312
 founded_date:
+email:
+calendar:
+meetup:
+twitter:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

@@ -10,4 +10,13 @@ linkedin: https://www.linkedin.com/in/barranquillajug/
 location: 10.9603596, -74.792118
 founded_date: 2016-07-14
 contact: Geovanny Mendoza
+email:
+calendar:
+meetup:
+mastodon:
+bluesky:
+github:
+telegram:
+twitch:
+kktix:
 ---

@@ -1,10 +1,22 @@
 ---
-name:     "Warsaw Java Users Group"
-country:  Poland
-website:  https://warszawa.jug.pl
+name: "Warsaw Java Users Group"
+country: Poland
+website: https://warszawa.jug.pl
 calendar: https://www.meetup.com/Warszawa-JUG/events/ical/
-meetup:   https://www.meetup.com/Warszawa-JUG/
-twitter:  WarszawaJUG
+meetup: https://www.meetup.com/Warszawa-JUG/
+twitter: WarszawaJUG
 location: 52.229825, 21.011735
 founded_date: 2006-11-07
+email:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

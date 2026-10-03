@@ -1,10 +1,22 @@
 ---
-name:     "KnoxJava"
-country:  United States
-website:  https://knoxjava.org
+name: "KnoxJava"
+country: United States
+website: https://knoxjava.org
 calendar: https://www.meetup.com/KnoxJava/events/ical/
-meetup:   https://www.meetup.com/KnoxJava/
-twitter:  KnoxJava
+meetup: https://www.meetup.com/KnoxJava/
+twitter: KnoxJava
 location: 35.964668, -83.926453
 founded_date: 2018-01-01
+email:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

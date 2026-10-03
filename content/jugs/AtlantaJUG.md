@@ -1,10 +1,22 @@
 ---
-name:     "Atlanta JUG"
-country:  United States
-website:  https://ajug.org
+name: "Atlanta JUG"
+country: United States
+website: https://ajug.org
 calendar: https://www.meetup.com/atlantajug/events/ical/
-meetup:   https://www.meetup.com/atlantajug/
-twitter:  atlantajug
+meetup: https://www.meetup.com/atlantajug/
+twitter: atlantajug
 location: 33.9325621, -84.3517143
 founded_date: 2000-01-01
+email:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

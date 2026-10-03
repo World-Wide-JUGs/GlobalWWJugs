@@ -1,12 +1,22 @@
 ---
-name:     "Java User Group Mainz"
-country:  Germany
-email:  
-website:  https://www.meetup.com/JUG-Mainz/
+name: "Java User Group Mainz"
+country: Germany
+email:
+website: https://www.meetup.com/JUG-Mainz/
 calendar: https://www.meetup.com/JUG-Mainz/events/ical/
-meetup:   https://www.meetup.com/JUG-Mainz/
-twitter:  
+meetup: https://www.meetup.com/JUG-Mainz/
+twitter:
 location: 49.9929, 8.2473
 founded_date:
-contact: Mikhail Golubev ; Tim Zöller 
+contact: Mikhail Golubev ; Tim Zöller
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

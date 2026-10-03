@@ -1,12 +1,22 @@
 ---
-name:     "Java User Group Duesseldorf Rhein"
-country:  Germany
-email:  jug@bendisposto.de
-website:  http://rheinjug.de/
+name: "Java User Group Duesseldorf Rhein"
+country: Germany
+email: jug@bendisposto.de
+website: http://rheinjug.de/
 calendar: https://www.meetup.com/rheinJUG/events/ical/
-meetup:   https://www.meetup.com/rheinJUG/
-twitter:  
+meetup: https://www.meetup.com/rheinJUG/
+twitter:
 location: 51.233334, 6.783333
 founded_date:
-contact: Jens Bendisposto ; Lukas Ladenberger 
+contact: Jens Bendisposto ; Lukas Ladenberger
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

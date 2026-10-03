@@ -1,8 +1,22 @@
 ---
-name:     "Arnhem Java User Group"
-country:  Netherlands
+name: "Arnhem Java User Group"
+country: Netherlands
 calendar: https://www.meetup.com/arnhemjug/events/ical/
-website:  https://www.meetup.com/arnhemjug/
-meetup:   https://www.meetup.com/arnhemjug/
+website: https://www.meetup.com/arnhemjug/
+meetup: https://www.meetup.com/arnhemjug/
 location: 51.9911696, 5.8931666
+email:
+twitter:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+founded_date:
+contact:
 ---

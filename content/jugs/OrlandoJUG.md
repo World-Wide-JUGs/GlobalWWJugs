@@ -1,8 +1,22 @@
 ---
-name:     "Orlando JUG (Java User Group)"
-country:  United States
-website:  https://www.meetup.com/orlando-jug-java-user-group/
-meetup:   https://www.meetup.com/orlando-jug-java-user-group/
+name: "Orlando JUG (Java User Group)"
+country: United States
+website: https://www.meetup.com/orlando-jug-java-user-group/
+meetup: https://www.meetup.com/orlando-jug-java-user-group/
 location: 28.538400, -81.378900
 founded_date: 2025-09-03
+email:
+calendar:
+twitter:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---

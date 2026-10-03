@@ -1,11 +1,22 @@
 ---
-name:     "Java User Group Ostfalen"
-country:  Germany
-email:  
-website:  http://www.jug-ostfalen.de/
+name: "Java User Group Ostfalen"
+country: Germany
+email:
+website: http://www.jug-ostfalen.de/
 calendar: http://www.jug-ostfalen.de/events.ics
-twitter:  
+twitter:
 location: 52.2323, 10.8388
 founded_date:
-contact: Jens Schauder ; Oliver Milke ; Gerrit Meier 
+contact: Jens Schauder ; Oliver Milke ; Gerrit Meier
+meetup:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

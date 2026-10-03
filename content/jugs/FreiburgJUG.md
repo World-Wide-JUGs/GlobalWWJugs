@@ -1,12 +1,22 @@
 ---
-name:     "Java User Group Freiburg"
-country:  Germany
-email:  
-website:  https://jugfr.de/
+name: "Java User Group Freiburg"
+country: Germany
+email:
+website: https://jugfr.de/
 calendar: https://www.meetup.com/Java-User-Group-Freiburg/events/ical/
-meetup:   https://www.meetup.com/Java-User-Group-Freiburg/
-twitter:  
+meetup: https://www.meetup.com/Java-User-Group-Freiburg/
+twitter:
 location: 51.233334, 6.783333
 founded_date:
 contact: Michael Heinrichs
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
 ---

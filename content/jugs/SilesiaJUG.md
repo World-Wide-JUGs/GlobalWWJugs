@@ -1,7 +1,22 @@
 ---
-name:     "Silesia Java User Group"
-country:  Poland
-website:  https://meetup.com/silesia-jug/
+name: "Silesia Java User Group"
+country: Poland
+website: https://meetup.com/silesia-jug/
 location: 50.2649, 19.0238
 founded_date:
+email:
+calendar:
+meetup:
+twitter:
+mastodon:
+bluesky:
+facebook:
+github:
+instagram:
+linkedin:
+telegram:
+twitch:
+youtube:
+kktix:
+contact:
 ---
