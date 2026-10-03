@@ -1,7 +1,11 @@
 ---
-name:     "Triangle Java User Group"
+name:     "Triangle Java Users Group"
 country:  United States
-website:  https://meetup.com/Triangle-Java-Users-Group/
-location: 35.7915, -78.7811
+website:  https://trijug.dev/
+calendar: https://www.meetup.com/triangle-java-users-group/events/ical/
+meetup:   https://www.meetup.com/triangle-java-users-group/
+bluesky:  trijug.dev
+location: 35.8268, -78.7963
 founded_date:
+contact: Todd Ginsberg
 ---
