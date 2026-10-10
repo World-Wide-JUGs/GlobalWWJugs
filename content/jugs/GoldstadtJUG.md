@@ -4,9 +4,9 @@ country: Germany
 email:
 website: https://gitlab.com/groups/jugpf
 calendar: https://jugpf.gitlab.io/gitlab-pages/calendar.ics
-twitter:
+twitter: mkarg
 location: 48.8922, 8.6946
-founded_date:
+founded_date: 2016-06-30
 contact: Markus Karg
 meetup:
 mastodon:
@@ -19,4 +19,5 @@ telegram:
 twitch:
 youtube:
 kktix:
+event_list: content/jugs/GoldstadtJUG_events.json
 ---
