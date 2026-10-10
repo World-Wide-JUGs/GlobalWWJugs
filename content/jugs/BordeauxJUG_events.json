@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "BordeauxJUG",
+  "name": "Bordeaux JUG",
+  "country": "France",
+  "source_file": "content/jugs/BordeauxJUG.md",
+  "fetched_at": "2026-10-10T16:53:16+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/BordeauxJUG/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/BordeauxJUG/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/BordeauxJUG/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

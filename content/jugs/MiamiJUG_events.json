@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "MiamiJUG",
+  "name": "Miami JUG",
+  "country": "United States",
+  "source_file": "content/jugs/MiamiJUG.md",
+  "fetched_at": "2026-10-10T16:53:39+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/miami-java-user-group/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/miami-java-user-group/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/miami-java-user-group/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

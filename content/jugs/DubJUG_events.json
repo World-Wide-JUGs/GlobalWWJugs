@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "DubJUG",
+  "name": "DubJUG",
+  "country": "Ireland",
+  "source_file": "content/jugs/DubJUG.md",
+  "fetched_at": "2026-10-10T16:53:22+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/dublinjavausergroup/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/dublinjavausergroup/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/dublinjavausergroup/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316897890@meetup.com",
+      "start": "2026-10-14T17:15:00+00:00",
+      "title": "DubJUG 269: Docker's John Feeney & Oracle's Heather VanCura",
+      "url": "https://www.meetup.com/dublinjavausergroup/events/316897890/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/dublinjavausergroup/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

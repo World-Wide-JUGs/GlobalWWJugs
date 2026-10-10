@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "BrnoJUG",
+  "name": "Brno Java User Group",
+  "country": "Czechia",
+  "source_file": "content/jugs/BrnoJUG.md",
+  "fetched_at": "2026-10-10T16:53:19+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/brno-java/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/brno-java/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "fetch_error",
+  "errors": [
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/brno-java/events/ical/",
+      "error": "HTTP status 404"
+    }
+  ]
+}

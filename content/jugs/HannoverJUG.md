@@ -19,4 +19,5 @@ telegram:
 twitch:
 youtube:
 kktix:
+event_list: content/jugs/HannoverJUG_events.json
 ---

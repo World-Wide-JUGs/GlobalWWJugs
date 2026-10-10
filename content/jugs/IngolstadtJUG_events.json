@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "id": "IngolstadtJUG",
+  "name": "Java User Group Ingolstadt",
+  "country": "Germany",
+  "source_file": "content/jugs/IngolstadtJUG.md",
+  "fetched_at": "2026-10-10T16:53:31+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    }
+  ],
+  "events": [
+    {
+      "start": "2020-06-09T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Java-Treff",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2020-07-14T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "Online",
+      "title": "Java-Treff | Vom Entwicklerleben ohne Maus",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2020-08-11T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "title": "Sommerfest (geplant, jedoch ungewiss)",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2020-10-13T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Java-Treff: Kafka Special with Jakub Scholz (Red Hat)",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2020-11-10T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Neuerungen in Java 15 mit Jochen Bürkle & Software Esoterik mit Bernd Stübinger",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2020-12-08T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Cyber Security für Entwickler von und mit Simon Trockel (MediaMarktSaturn Technology)",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2021-01-12T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Modern Reactive Java by Julien Ponge (Red Hat)",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2021-02-09T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Mitglieder Hauptversammlung",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2021-07-13T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Quarkus World Tour Stop",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2021-09-14T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Java-Treff: GitOps mit Schlomo Schapiro",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2021-11-09T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Java Mission Control & Flight Recorder; Kotlin spezial",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2021-12-14T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Investigating the Performance of Reactive Libraries in a Quarkus Micro-Service",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-01-11T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Jahreshauptversammlung",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-02-08T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "GitOps Principles - Deutsche Übersetzung",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-04-12T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Cryostat - Kubernetes native JDK Flight Recording",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-05-10T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Cliff Notes: What Java Developers Need to Know About Graph Databases",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-08-08T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Cloud Cost Monitor - Ein FinOps-Tool stellt sich vor",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-09-13T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Apache Pinot - Realtime Analytics with Alexander Pucher",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-10-11T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Analytical data API architecture using PostgreSQL magic",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2022-11-08T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Kotlin Multiplatform mit Sebastian Sellmair",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2023-01-10T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Energiewende unter Kontrolle mit IoT im eigenen Cloud-Projekt",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2023-02-14T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Mitglieder Hauptversammlung 2023",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2023-03-14T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Zero Trust",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2023-09-12T16:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Natan Yellin: The Robusta Monitoring Platform",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2023-11-14T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Menschen befähigen - wie finden Quereinsteiger den Weg in ihr erstes Projekt?",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2024-01-16T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "title": "Mitgliederhauptversammlung 2024",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2024-02-13T17:30:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Double-Feature: Postgres HA mit Patroni & Teleport mit Richard Steinbrück (Userlike)",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2024-05-14T15:00:00+00:00",
+      "uid": "5efcimtmf2alchb47f2aim3ori@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Java-Treff: JCP 25 Year Anniversary",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2025-02-11T17:30:00+00:00",
+      "uid": "fmvtntjk89cftqikas5fkb7s9i@google.com",
+      "location": "https://meet.google.com/get-jzpw-qxm",
+      "title": "Java-Treff",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2025-03-13T17:30:00+00:00",
+      "uid": "7br4rnm5dmv7ejl3m6l6lu2tsu@google.com",
+      "location": "BOB'S Rock & Bowl Ingolstadt, Münchener Str. 231, 85051 Ingolstadt, Deutschland",
+      "title": "Java-Treff",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "start": "2025-04-08T16:30:00+00:00",
+      "uid": "19p5hq5n13gsfl1koc0uho5l3k@google.com",
+      "location": "Restaurant Granada Ingolstadt",
+      "title": "Java-Treff",
+      "source_kind": "calendar",
+      "source_url": "https://calendar.google.com/calendar/ical/jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com/public/basic.ics"
+    }
+  ],
+  "status": "ok"
+}

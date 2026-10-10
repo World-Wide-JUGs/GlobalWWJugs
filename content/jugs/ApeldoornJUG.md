@@ -19,4 +19,5 @@ youtube:
 kktix:
 founded_date:
 contact:
+event_list: content/jugs/ApeldoornJUG_events.json
 ---

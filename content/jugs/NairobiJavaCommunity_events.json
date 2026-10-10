@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "NairobiJavaCommunity",
+  "name": "Nairobi Java User Group",
+  "country": "Kenya",
+  "source_file": "content/jugs/NairobiJavaCommunity.md",
+  "fetched_at": "2026-10-10T16:53:41+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/nairobi-jvm/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/nairobi-jvm/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "fetch_error",
+  "errors": [
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/nairobi-jvm/events/ical/",
+      "error": "HTTP status 404"
+    }
+  ]
+}

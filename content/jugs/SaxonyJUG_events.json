@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "SaxonyJUG",
+  "name": "Java User Group Saxony",
+  "country": "Germany",
+  "source_file": "content/jugs/SaxonyJUG.md",
+  "fetched_at": "2026-10-10T16:53:51+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://backoffice.jugsaxony.org/calendars/events.ics"
+    }
+  ],
+  "events": [
+    {
+      "start": "2026-09-10T16:00:00+00:00",
+      "title": "Softwarearchitektur im Team in Eigenregie bewerten. Mit LASR an einem Nachmittag. (Stefan Zörner)",
+      "uid": "6aa834e3-9347-4e2c-9b00-9cbec7c7b11f",
+      "url": "https://jugsaxony.org/timeline/2026/9/10/LASR",
+      "location": "Xceptance Software Technologies GmbH, Leutragraben 2-4, 07743 Jena",
+      "source_kind": "calendar",
+      "source_url": "https://backoffice.jugsaxony.org/calendars/events.ics"
+    }
+  ],
+  "status": "ok"
+}

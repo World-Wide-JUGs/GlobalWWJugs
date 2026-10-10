@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "AtlantaJUG",
+  "name": "Atlanta JUG",
+  "country": "United States",
+  "source_file": "content/jugs/AtlantaJUG.md",
+  "fetched_at": "2026-10-10T16:53:10+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/atlantajug/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/atlantajug/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/atlantajug/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316037276@meetup.com",
+      "start": "2026-10-20T22:30:00+00:00",
+      "title": "Building a 4,000-Component Monorepo: How Spotify Uses AI to Scale Backend Dev",
+      "url": "https://www.meetup.com/atlantajug/events/316037276/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/atlantajug/events/ical/"
+    },
+    {
+      "uid": "event_316430418@meetup.com",
+      "start": "2026-11-17T23:30:00+00:00",
+      "title": "Knowns and Unknowns: Testing AI-Generated Code",
+      "url": "https://www.meetup.com/atlantajug/events/316430418/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/atlantajug/events/ical/"
+    },
+    {
+      "uid": "event_316436426@meetup.com",
+      "start": "2026-12-15T23:30:00+00:00",
+      "title": "Refactoring to Modernize Java Applications Using AI.",
+      "url": "https://www.meetup.com/atlantajug/events/316436426/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/atlantajug/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

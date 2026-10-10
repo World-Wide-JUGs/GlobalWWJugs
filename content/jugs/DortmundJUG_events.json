@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "DortmundJUG",
+  "name": "Java User Group Dortmund",
+  "country": "Germany",
+  "source_file": "content/jugs/DortmundJUG.md",
+  "fetched_at": "2026-10-10T16:53:22+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/JUG-Dortmund/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/JUG-Dortmund/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/JUG-Dortmund/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316869289@meetup.com",
+      "start": "2026-11-11T17:00:00+00:00",
+      "title": "Neuerungen in Java und Open Source Finanzierung",
+      "url": "https://www.meetup.com/jug-dortmund/events/316869289/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/JUG-Dortmund/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+name: Update JUG events
+
+on:
+  schedule:
+    - cron: "17 3 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-jug-events
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Validate event updater
+        run: bash -n scripts/update_events.sh && bash tests/test_update_events.sh
+
+      - name: Build persisted per-JUG event history
+        run: bash scripts/update_events.sh
+
+      - name: Commit refreshed per-JUG event history
+        run: |
+          if git diff --quiet -- 'content/jugs/*_events.json'; then
+            echo "No event-index changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 'content/jugs/*_events.json'
+          git commit -m "chore(events): refresh persisted JUG event index"
+          git push

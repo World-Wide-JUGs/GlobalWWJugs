@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ThueringenJUG",
+  "name": "Java User Group Thueringen",
+  "country": "Germany",
+  "source_file": "content/jugs/ThueringenJUG.md",
+  "fetched_at": "2026-10-10T16:53:55+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/jugthde/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/jugthde/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/jugthde/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

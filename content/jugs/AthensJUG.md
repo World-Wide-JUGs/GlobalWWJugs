@@ -19,4 +19,5 @@ twitch:
 youtube:
 kktix:
 contact:
+event_list: content/jugs/AthensJUG_events.json
 ---

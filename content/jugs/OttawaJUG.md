@@ -19,4 +19,5 @@ youtube:
 kktix:
 founded_date:
 contact:
+event_list: content/jugs/OttawaJUG_events.json
 ---

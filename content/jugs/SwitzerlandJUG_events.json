@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "SwitzerlandJUG",
+  "name": "Java User Group Switzerland",
+  "country": "Switzerland",
+  "source_file": "content/jugs/SwitzerlandJUG.md",
+  "fetched_at": "2026-10-10T16:53:53+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "http://www.jug.ch"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

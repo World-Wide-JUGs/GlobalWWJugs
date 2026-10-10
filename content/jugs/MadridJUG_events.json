@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "MadridJUG",
+  "name": "Madrid Java User Group",
+  "country": "Spain",
+  "source_file": "content/jugs/MadridJUG.md",
+  "fetched_at": "2026-10-10T16:53:37+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/madridjug/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/madridjug/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/madridjug/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316884651@meetup.com",
+      "start": "2026-10-21T17:00:00+00:00",
+      "title": "Valhalla, Now!",
+      "url": "https://www.meetup.com/madridjug/events/316884651/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/madridjug/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

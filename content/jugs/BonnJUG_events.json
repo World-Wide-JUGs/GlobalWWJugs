@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "BonnJUG",
+  "name": "Java User Group Bonn",
+  "country": "Germany",
+  "source_file": "content/jugs/BonnJUG.md",
+  "fetched_at": "2026-10-10T16:53:15+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/de-DE/JUG-Bonn/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/de-DE/JUG-Bonn/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

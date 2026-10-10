@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "OberpfalzJUG",
+  "name": "Java User Group Oberpfalz",
+  "country": "Germany",
+  "source_file": "content/jugs/OberpfalzJUG.md",
+  "fetched_at": "2026-10-10T16:53:45+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/jug-oberpfalz/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/jug-oberpfalz/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/jug-oberpfalz/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316909309@meetup.com",
+      "start": "2026-10-12T18:00:00+00:00",
+      "title": "New Jakarta Standard, First Implementation: Jakarta Agentic AI on Payara, Live",
+      "url": "https://www.meetup.com/jug-oberpfalz/events/316909309/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-oberpfalz/events/ical/"
+    },
+    {
+      "uid": "event_316383834@meetup.com",
+      "start": "2026-10-26T08:00:00+00:00",
+      "title": "JCON USA 2026 at IBM TechXchange",
+      "url": "https://www.meetup.com/jug-oberpfalz/events/316383834/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-oberpfalz/events/ical/"
+    },
+    {
+      "uid": "event_316514677@meetup.com",
+      "start": "2026-10-27T16:30:00+00:00",
+      "title": "AI Trends That Actually Matter: Lessons from 100+ Hours of AI Live Coding",
+      "url": "https://www.meetup.com/jug-oberpfalz/events/316514677/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-oberpfalz/events/ical/"
+    },
+    {
+      "uid": "event_313226995@meetup.com",
+      "start": "2026-11-11T17:00:00+00:00",
+      "title": "JUGO - TBD - save the date",
+      "url": "https://www.meetup.com/jug-oberpfalz/events/313226995/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-oberpfalz/events/ical/"
+    },
+    {
+      "uid": "event_315679270@meetup.com",
+      "start": "2027-04-26T10:00:00+00:00",
+      "title": "JCON EUROPE 2027",
+      "url": "https://www.meetup.com/jug-oberpfalz/events/315679270/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-oberpfalz/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

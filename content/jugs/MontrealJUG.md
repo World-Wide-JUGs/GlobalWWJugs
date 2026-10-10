@@ -19,4 +19,5 @@ linkedin:
 telegram:
 kktix:
 contact:
+event_list: content/jugs/MontrealJUG_events.json
 ---

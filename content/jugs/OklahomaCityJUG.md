@@ -19,5 +19,6 @@ twitch:
 youtube:
 kktix:
 contact:
+event_list: content/jugs/OklahomaCityJUG_events.json
 ---
 

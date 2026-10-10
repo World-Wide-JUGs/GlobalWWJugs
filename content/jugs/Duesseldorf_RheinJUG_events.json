@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "Duesseldorf_RheinJUG",
+  "name": "Java User Group Duesseldorf Rhein",
+  "country": "Germany",
+  "source_file": "content/jugs/Duesseldorf_RheinJUG.md",
+  "fetched_at": "2026-10-10T16:53:23+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/rheinJUG/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/rheinJUG/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/rheinJUG/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "fetch_error",
+  "errors": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/rheinJUG/events/ical/",
+      "error": "HTTP status 404"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/rheinJUG/events/ical/",
+      "error": "HTTP status 404"
+    }
+  ]
+}

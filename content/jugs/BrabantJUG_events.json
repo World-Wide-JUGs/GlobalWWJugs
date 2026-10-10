@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "BrabantJUG",
+  "name": "Brabant Java User Group",
+  "country": "Netherlands",
+  "source_file": "content/jugs/BrabantJUG.md",
+  "fetched_at": "2026-10-10T16:53:18+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/brabant-jug/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/brabant-jug/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316812291@meetup.com",
+      "start": "2026-10-29T16:30:00+00:00",
+      "title": "BrabantJUG @ the/experts",
+      "url": "https://www.meetup.com/brabant-jug/events/316812291/",
+      "source_kind": "meetup-ical",
+      "source_url": "https://www.meetup.com/brabant-jug/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "NicaraguaJUG",
+  "name": "JUG NICARAGUA",
+  "country": "Nicaragua",
+  "source_file": "content/jugs/NicaraguaJUG.md",
+  "fetched_at": "2026-10-10T16:53:42+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/jug-nicaragua/events/calendar/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/jug-nicaragua/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/jug-nicaragua/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

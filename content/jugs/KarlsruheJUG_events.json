@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "KarlsruheJUG",
+  "name": "Java User Group Karlsruhe",
+  "country": "Germany",
+  "source_file": "content/jugs/KarlsruheJUG.md",
+  "fetched_at": "2026-10-10T16:53:33+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/Java-User-Group-Karlsruhe/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/Java-User-Group-Karlsruhe/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/Java-User-Group-Karlsruhe/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316709983@meetup.com",
+      "start": "2026-11-11T17:30:00+00:00",
+      "title": "  From Code to Context – Wie KI Softwaresysteme wirklich verstehen kann",
+      "url": "https://www.meetup.com/java-user-group-karlsruhe/events/316709983/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Karlsruhe/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

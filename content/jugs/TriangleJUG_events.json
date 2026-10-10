@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "TriangleJUG",
+  "name": "Triangle Java Users Group",
+  "country": "United States",
+  "source_file": "content/jugs/TriangleJUG.md",
+  "fetched_at": "2026-10-10T16:53:57+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/triangle-java-users-group/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/triangle-java-users-group/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/triangle-java-users-group/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

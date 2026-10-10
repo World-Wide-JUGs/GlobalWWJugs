@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "TrierJUG",
+  "name": "Java User Group Trier",
+  "country": "Germany",
+  "source_file": "content/jugs/TrierJUG.md",
+  "fetched_at": "2026-10-10T16:53:57+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/Java-User-Group-Trier-JUG-Trier/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/Java-User-Group-Trier-JUG-Trier/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/Java-User-Group-Trier-JUG-Trier/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

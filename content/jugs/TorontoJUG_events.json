@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "TorontoJUG",
+  "name": "Toronto Java User Group",
+  "country": "Canada",
+  "source_file": "content/jugs/TorontoJUG.md",
+  "fetched_at": "2026-10-10T16:53:56+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/toronto-java-users-group/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/toronto-java-users-group/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316707940@meetup.com",
+      "start": "2026-10-13T22:30:00+00:00",
+      "title": "7 Ways You Can Build an Amazing Dev Career in the AI Era",
+      "url": "https://www.meetup.com/toronto-java-users-group/events/316707940/",
+      "source_kind": "meetup-ical",
+      "source_url": "https://www.meetup.com/toronto-java-users-group/events/ical/"
+    },
+    {
+      "uid": "event_316878883@meetup.com",
+      "start": "2026-10-29T22:30:00+00:00",
+      "title": "Legacy Code Doesn't Have to Suck",
+      "url": "https://www.meetup.com/toronto-java-users-group/events/316878883/",
+      "source_kind": "meetup-ical",
+      "source_url": "https://www.meetup.com/toronto-java-users-group/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

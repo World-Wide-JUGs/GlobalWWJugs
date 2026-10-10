@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "Berlin-BrandenburgJUG",
+  "name": "Java User Group Berlin-Brandenburg",
+  "country": "Germany",
+  "source_file": "content/jugs/Berlin-BrandenburgJUG.md",
+  "fetched_at": "2026-10-10T16:53:13+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/jug-bb/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/jug-bb/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316809992@meetup.com",
+      "start": "2026-10-14T16:00:00+00:00",
+      "title": "GitHub Copilot DevDays at Deutsche Bank",
+      "url": "https://www.meetup.com/jug-bb/events/316809992/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_316084510@meetup.com",
+      "start": "2026-11-03T17:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/316084510/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_316084512@meetup.com",
+      "start": "2026-12-01T17:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/316084512/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_316084513@meetup.com",
+      "start": "2027-01-05T17:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/316084513/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_kvnqltykcdbdb@meetup.com",
+      "start": "2027-02-02T17:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/kvnqltykcdbdb/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_kvnqltykcfbdb@meetup.com",
+      "start": "2027-03-02T17:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/kvnqltykcfbdb/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_kvnqltykcgbjb@meetup.com",
+      "start": "2027-04-06T16:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/kvnqltykcgbjb/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_kvnqltykchbgb@meetup.com",
+      "start": "2027-05-04T16:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/kvnqltykchbgb/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_kvnqltykcjbcb@meetup.com",
+      "start": "2027-06-01T16:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/kvnqltykcjbcb/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    },
+    {
+      "uid": "event_kvnqltykckbjb@meetup.com",
+      "start": "2027-07-06T16:30:00+00:00",
+      "title": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+      "url": "https://www.meetup.com/jug-bb/events/kvnqltykckbjb/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-bb/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

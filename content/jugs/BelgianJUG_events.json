@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "BelgianJUG",
+  "name": "Belgian Java User Group",
+  "country": "Belgium",
+  "source_file": "content/jugs/BelgianJUG.md",
+  "fetched_at": "2026-10-10T16:53:12+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/belgian-java-user-group"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/belgian-java-user-group/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316884744@meetup.com",
+      "start": "2026-10-13T17:00:00+00:00",
+      "title": "Patterns and Anti-Patterns of Agentic Engineering with Victor Rentea",
+      "url": "https://www.meetup.com/belgian-java-user-group/events/316884744/",
+      "source_kind": "meetup-ical",
+      "source_url": "https://www.meetup.com/belgian-java-user-group/events/ical/"
+    },
+    {
+      "uid": "event_316783992@meetup.com",
+      "start": "2026-10-21T15:45:00+00:00",
+      "title": "Breaking changes, there's a test for that! & Black Cats",
+      "url": "https://www.meetup.com/belgian-java-user-group/events/316783992/",
+      "source_kind": "meetup-ical",
+      "source_url": "https://www.meetup.com/belgian-java-user-group/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

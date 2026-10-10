@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "AugsburgJUG",
+  "name": "Java User Group Augsburg",
+  "country": "Germany",
+  "source_file": "content/jugs/AugsburgJUG.md",
+  "fetched_at": "2026-10-10T16:53:11+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/Java-User-Group-Augsburg/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/Java-User-Group-Augsburg/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/Java-User-Group-Augsburg/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "fetch_error",
+  "errors": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/Java-User-Group-Augsburg/events/ical/",
+      "error": "HTTP status 404"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/Java-User-Group-Augsburg/events/ical/",
+      "error": "HTTP status 404"
+    }
+  ]
+}

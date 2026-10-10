@@ -19,4 +19,5 @@ telegram:
 twitch:
 kktix:
 contact:
+event_list: content/jugs/BordeauxJUG_events.json
 ---

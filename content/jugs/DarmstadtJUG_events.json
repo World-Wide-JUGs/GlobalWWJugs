@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "DarmstadtJUG",
+  "name": "Java User Group Darmstadt",
+  "country": "Germany",
+  "source_file": "content/jugs/DarmstadtJUG.md",
+  "fetched_at": "2026-10-10T16:53:21+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "http://www.jug-da.de/events.ics"
+    }
+  ],
+  "events": [
+    {
+      "uid": "20261107@jug-da.de",
+      "title": "JUG DA: Global Day of Code Retreat Frankfurt",
+      "location": "ING, 13. Stock, Theodor-Heuss-Allee 2, 60486 Frankfurt am Main",
+      "start": "2026-11-07T08:00:00+00:00",
+      "url": "https://www.jug-da.de/2026/11/global-day-of-code-retreat/",
+      "source_kind": "calendar",
+      "source_url": "http://www.jug-da.de/events.ics"
+    },
+    {
+      "uid": "20261119@jug-da.de",
+      "title": "JUG DA: ADHS in der IT: Vom Chaos zum Code (Joshua Töpfer)",
+      "location": "tbd",
+      "start": "2026-11-19T17:30:00+00:00",
+      "url": "https://www.jug-da.de/2026/11/ADHS/",
+      "source_kind": "calendar",
+      "source_url": "http://www.jug-da.de/events.ics"
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "LightweightMuenchenJUG",
+  "name": "Lightweight Java User Group München",
+  "country": "Germany",
+  "source_file": "content/jugs/LightweightMuenchenJUG.md",
+  "fetched_at": "2026-10-10T16:53:35+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/lightweight-java-user-group-munchen/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/lightweight-java-user-group-munchen/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/lightweight-java-user-group-munchen/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

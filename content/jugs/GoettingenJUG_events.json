@@ -1,0 +1,1390 @@
+{
+  "schema_version": 1,
+  "id": "GoettingenJUG",
+  "name": "Java User Group Göttingen (Java Stammtisch)",
+  "country": "Germany",
+  "source_file": "content/jugs/GoettingenJUG.md",
+  "fetched_at": "2026-10-10T16:53:26+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://java.de/cal/jug-goettingen.ics"
+    }
+  ],
+  "events": [
+    {
+      "uid": "5f0065c1-1365-4a65-a789-9939336f10b5",
+      "title": "Image-Processing und Bilderkennung, Franz-Josef Gasper",
+      "start": "2004-05-28T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "b502ecd6-2c77-445f-b704-1857d5adaf85",
+      "title": "XML, XSD und XSLT Teil 1, Axel Strube",
+      "start": "2004-06-25T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e4ec1fef-dbde-4dd2-940a-c06ac0502d15",
+      "title": "Eclipse 3.0, Patrick Hey",
+      "start": "2004-07-30T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4c2c39ff-4bb4-4c48-8cde-6bff50d6e2a1",
+      "title": "XML, XSD und XSLT Teil 2, Axel Strube",
+      "start": "2004-09-24T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3ba0d7d8-e167-4deb-8426-86cdbbe79b6b",
+      "title": "Automatische Prototyp-Erzeugung einer Datenbank-Anwendung Teil 1, Burkhard Lösel",
+      "start": "2004-10-22T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "027bcc79-b474-4af5-85bb-133a076d497d",
+      "title": "Kopplung von AutoCAD mit externer JAVA-Applikation, Franz-Josef Gasper",
+      "start": "2004-11-19T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "7524fafe-c561-4faf-9149-e3b21d82e69d",
+      "title": "Automatische Prototyp-Erzeugung einer Datenbank-Anwendung Teil 2, Burkhard Lösel",
+      "start": "2004-12-17T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "5ea8a631-157d-4223-b8cd-857d5f569f58",
+      "title": "J2EE Server Erweiterung mit M-Beans, Dr. Stefan Veltmaat",
+      "start": "2005-01-28T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1f8709a2-1657-4a11-8075-5474e9c51cf6",
+      "title": "Enterprise Java Beans (EJB), Prof. Robert Switzer",
+      "start": "2005-02-25T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "8a684c83-88c5-43d1-b314-825c0683c4da",
+      "title": "SAP Netweaver WebDynPro & J2EE Entwicklung, André Siegling",
+      "start": "2005-03-18T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e0be788e-2f21-4185-93b0-2c4251bca9f0",
+      "title": "JAVA 2D & Picollo, Burkhard Lösel",
+      "start": "2005-04-29T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "c14669ae-2c57-49b3-bfb9-6b0f7f2d7d3d",
+      "title": "JAVA-Message-Services, Prof. Robert Switzer",
+      "start": "2005-05-27T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "24f212ee-7cdc-4278-88c3-d1be31bc330f",
+      "title": "JAVA Server Faces, Dr. Stefan Veltmaat",
+      "start": "2005-06-24T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f537af2e-e0e1-4bfb-b971-10ec17584ee5",
+      "title": "Aspektorientierte Programmierung (AOP), Prof. Robert Switzer",
+      "start": "2005-08-26T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1e8e5cc9-ac97-4885-b1b6-a4e8db6aacbe",
+      "title": "Enterprise Java Beans 3.0 (EJB), Prof. Robert Switzer",
+      "start": "2005-09-30T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3dd53846-fafb-472c-bb75-08abd1ee170a",
+      "title": "Regelgesteuerte Prozesse und Rule Engines (JSR 94), Prof. Robert Switzer",
+      "start": "2005-10-28T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f865368c-719a-42a6-a7ce-4c1381a7b58a",
+      "title": "Business Process Management (BPM), Prof. Robert Switzer",
+      "start": "2005-11-25T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f93aa478-05ae-45c3-9932-531fa7991b75",
+      "title": "Test-Cases, Test-Suiten und Unit-Tests, Burkhard Lösel",
+      "start": "2006-01-27T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "85d620ed-7f48-4071-b724-7eb1047bc8e8",
+      "title": "Codegenerierung aus XML mittels XSLT, Franz-Josef Gasper",
+      "start": "2006-02-24T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4c11cf20-1f21-47b5-9e5d-f7a3c9e60326",
+      "title": "JAVA-3D-Grafik, Franz-Josef Gasper",
+      "start": "2006-06-30T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "745e7624-bfac-4f7d-a87b-899fd615c3c8",
+      "title": "Open source, am Beispiel von Cyclos, Tino Römer",
+      "start": "2006-09-29T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "aeac295a-839c-47c8-94b0-bf78506a0863",
+      "title": "Maven, das bessere Ant, Prof. Robert Switzer",
+      "start": "2006-10-27T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a6364d5f-d776-46ea-8fb1-9d6a15042ec0",
+      "title": "GWT - Google Web Toolkit, Ludwig Hunecke",
+      "start": "2006-11-17T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "b097264b-4409-46a1-b30b-020c4e5fa8ce",
+      "title": "Go Projekt, Franz-Josef Gasper",
+      "start": "2007-01-26T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3958b4d2-be3c-41c6-a7c9-be5af9976565",
+      "title": "NWDI - Einführung in die Netweaver Development Infrastructure, Ludwig Hunecke",
+      "start": "2007-03-23T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "2921a758-875d-43ec-b926-03c02e2aebf6",
+      "title": "Ameisenprogramm, Bernd Rümmeler",
+      "start": "2007-04-27T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "0e425d1d-fe1b-4fbd-938b-08661f820cc6",
+      "title": "SAP NetWeaver Portal, Martin Walter",
+      "start": "2007-06-01T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "293cf527-1143-4b5f-9261-90c9d00fdca0",
+      "title": "T9-Algorithmus, Oleg Khutoryansky",
+      "start": "2007-06-29T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "50fa3e06-4479-4bb8-8f1f-5d9ea071144b",
+      "title": "QT Jambi - GUI-Framework, Thomas Grabietz",
+      "start": "2007-07-27T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "44310c93-0b1d-4e43-90cd-c01adb242c14",
+      "title": "Grafik-Animation mit Java (2D-Grafik), Burkhard Lösel",
+      "start": "2007-09-28T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f1390542-c1b1-49b6-8c55-4c13131e2108",
+      "title": "Java und der Rest der Welt, Franz-Josef Gasper",
+      "start": "2007-10-06T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "5bfd8491-06bc-4c6f-88fb-5fa42ecf1e73",
+      "title": "Allgemeine Diskussion, Planung einer JEE6 Vortragsreihe",
+      "start": "2010-02-26T17:00:00+00:00",
+      "location": "BUPNET GmbH, Am Leinekanal 3, Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "499aa19f-8f1b-405e-8f1e-bd15da863511",
+      "title": "JEE 6 Web-Profile, Thomas Dirks, Michael Buckendahl, Sönke Sprenger und Thomas Grabietz",
+      "start": "2010-03-26T17:00:00+00:00",
+      "location": "Sycor AG - Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "9c14c588-8a8d-495e-aa40-919b8bab42ea",
+      "title": "Java EE 6: Was gibt's neues im EJB-Container?, Sönke Sprenger",
+      "start": "2010-04-30T16:00:00+00:00",
+      "location": "Sycor-AG, Stephansplatz, Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f8ce82c7-21d4-46d4-b6bd-e85c141f9ddf",
+      "title": "OpenCMS, Jens-Michael Lohse",
+      "start": "2010-05-28T16:00:00+00:00",
+      "location": "Sycor-AG, Stephansplatz, Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "8cc519ac-ad6c-416f-a4f9-715bd7d9e268",
+      "title": "Ruby On Rails, Ulrich Kloodt",
+      "start": "2010-06-25T16:00:00+00:00",
+      "location": "BUPNET-GmbH, Am Leinekanal 3, 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1c564d34-47c9-4199-b85f-0257e3942d7e",
+      "title": "XML-Parsermodelle, Mathias Velten",
+      "start": "2010-08-27T16:00:00+00:00",
+      "location": "BUPNET GmbH, am Leinekanal, Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e3c1dd6e-70a9-4021-8a44-dfa6a04407d9",
+      "title": "Typo3 Enterprise CMS, Ingo Pfenningstorf",
+      "start": "2010-10-06T16:00:00+00:00",
+      "location": "BUPNET-Hall, Am Leinekanal 3, Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "7cf0f2db-4ecc-440b-b269-51a648a243d3",
+      "title": "Clojure, funktionales Programmieren in Java, Stefan Kamphausen",
+      "start": "2010-11-03T17:00:00+00:00",
+      "location": "BUPNET-Hall, Am Leinekanal 3, Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f08b07d5-137e-406c-b9cb-27fdad3ba462",
+      "title": "Rund ums Apfelmänchen, Tania Garfias-Macedo",
+      "start": "2010-12-01T17:00:00+00:00",
+      "location": "Mathe-Institut, Sitzungszimmer, Bunsenstraße 3-5, Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3f6545ca-db80-4960-998a-a1705439c422",
+      "title": "RMI-Observer Pattern",
+      "start": "2011-03-02T17:00:00+00:00",
+      "location": "BUPNET-Göttingen, Am Leinekanal 3, 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "c9fbb7be-8014-4181-81d6-bb9464ffeb5c",
+      "title": "Stammtisch mit Eclipse-RCP",
+      "start": "2011-04-13T16:00:00+00:00",
+      "location": "BUPNET GmbH, Am Leinekanal 3, 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a92717cf-a05a-4be4-bbc5-bbc4cbbfa9a2",
+      "title": "Axis2, Thomas Grabietz",
+      "start": "2011-07-13T16:00:00+00:00",
+      "location": "37073 Goettingen BUPNET Hall, Am Leinekanal 3",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "603f669b-529a-4a37-a856-3772e9c9d538",
+      "title": "Sourcetalk",
+      "start": "2011-08-30T08:00:00+00:00",
+      "location": "37073 Goettingen Math. Institut , Bunsenstr. 3-5",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3f9459d4-861e-444c-a008-654a935bc35a",
+      "title": "Sourcetalk",
+      "start": "2011-08-31T07:00:00+00:00",
+      "location": "37073 Goettingen Math. Institut , Bunsenstr. 3-5",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "bce4a895-54e4-4ed9-9f0d-f611bdcd85fc",
+      "title": "Sourcetalk",
+      "start": "2011-09-01T08:00:00+00:00",
+      "location": "37073 Goettingen Math. Institut , Bunsenstr. 3-5",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "5593ccf8-4422-4cc1-a2d6-58eea6818784",
+      "title": "Java im Multiagentcontest 2011, David Goltzsche und Sven Reglitzki",
+      "start": "2011-10-05T16:00:00+00:00",
+      "location": "BUPNET Hall, Am Leinekanal 3, 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "c36da799-7a88-4b80-b49b-403c9d74fc88",
+      "title": "Java und HPC: Geschichte, Gegenwart und Zukunft, Dr. Johannes Dieterich",
+      "start": "2011-11-02T17:00:00+00:00",
+      "location": "37073 Goettingen Bupnet Hall Leinekanal 4",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "acf44303-25b6-4fad-9a35-db197d7370b3",
+      "title": "Java-Stammtisch  im Sausalitos",
+      "start": "2011-11-02T19:00:00+00:00",
+      "location": "37073 Goettingen, Sausalitos Hospitalstraße 35",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e3a3fa23-f7e4-4453-a0fd-e0bee7322ef7",
+      "title": "WS-Security, Authentifizierung und Autorisierung, Thomas Grabietz",
+      "start": "2011-12-07T17:00:00+00:00",
+      "location": "37073 Goettingen Bupnet Hall Leinekanal 4",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a8a14ebd-4917-7243-9190-3af5658ea80c",
+      "title": "Einfuehrung in Scala, Marco Wunderlich (flavia-it)",
+      "start": "2012-01-04T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "640464a7-8ef2-af46-9726-e22fd3216895",
+      "title": "Java Stammtisch",
+      "start": "2012-01-04T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstr. 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e5e665e5-c082-42c2-bcfc-064318cee75c",
+      "title": "Implementation einer Workflow Engine, Wulf Riebensahm",
+      "start": "2012-02-01T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "305d21de-a114-4189-99e2-0a1d29ee98ec",
+      "title": "Java Stammtisch",
+      "start": "2012-02-01T19:00:00+00:00",
+      "location": "37073 Goettingen, Sausalitos Hospitalstraße 35",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a778bd73-6dbd-46cf-8540-602cea7579c7",
+      "title": "Painless Testing, Johannes Seitz (Namics)",
+      "start": "2012-03-07T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "0970c059-2a89-4460-a90b-5569773016de",
+      "title": "Java Stammtisch",
+      "start": "2012-03-07T19:00:00+00:00",
+      "location": "37073 Goettingen, Sausalitos Hospitalstraße 35",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "ed539f59-be08-449a-83e3-4356246fa934",
+      "title": "Java EE und Cloud Computing - die Oracle Sicht, Peter Doschkinow & Michael Braeuer (Oracle)",
+      "start": "2012-04-04T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e640ee44-9f39-488a-bed4-aa750a75d28a",
+      "title": "Java Stammtisch",
+      "start": "2012-04-04T18:00:00+00:00",
+      "location": "37073 Goettingen, Sausalitos Hospitalstrasse 35",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f79e790b-4a18-4ae6-856a-9ce43bf9929e",
+      "title": "Busy",
+      "start": "2012-05-02T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e74de38f-4b1d-4bb3-93e8-c44a3607311e",
+      "title": "Busy",
+      "start": "2012-05-02T18:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a66536e2-a881-0046-b8dd-27c4667bf16f",
+      "title": "Busy",
+      "start": "2012-06-06T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e273e73a-30ce-414d-aa68-f919bff450d9",
+      "title": "Busy",
+      "start": "2012-06-06T18:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1cb6b8ce-2519-1249-8b59-001d8d9144f2",
+      "title": "Source Talk Tage",
+      "start": "2012-08-28T08:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "331ea731-2b07-0548-ad82-10008bdb1922",
+      "title": "Source Talk Tage - Social Event",
+      "start": "2012-08-28T17:00:00+00:00",
+      "location": "37073 Goettingen, Burgstrasse 46, Apex",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e3cb2c2c-24db-184e-be2c-a4ff98f2447b",
+      "title": "Source Talk Tage",
+      "start": "2012-08-29T08:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "0c4d789f-a305-754a-8e5a-f3fffac2c910",
+      "title": "Busy",
+      "start": "2012-10-10T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "404507e9-1265-4e9d-bd04-de4bb8997b15",
+      "title": "Busy",
+      "start": "2012-10-10T18:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "ea194b06-98a5-544e-a26b-98c7bf135540",
+      "title": "Busy",
+      "start": "2012-11-07T17:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "ff1b838f-0e5f-f048-8d25-36906dfdbae8",
+      "title": "Busy",
+      "start": "2012-11-07T19:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "6755dc7b-84e6-411e-aaa7-63c389b98d74",
+      "title": "Java Vortrag; Tim Oliver Kaiser: Das neue C++11",
+      "start": "2012-12-19T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "b0c5eff3-4626-4148-a953-f60a11217362",
+      "title": "Java-Stammtisch",
+      "start": "2012-12-19T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "5d1eeca9-fc53-49e6-9f10-97c6279cea98",
+      "title": "Java Vortrag: Jan Engelhardt: Java-Pakete im Open Build Service/Glusterfs/Clusterverwaltung mit ssh",
+      "start": "2013-01-16T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5, Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "30483ac6-41e4-4bf5-92dd-06048eeed847",
+      "title": "Java Stammtisch",
+      "start": "2013-01-16T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "86d9a98c-9764-4a71-8090-b06f528e81a2",
+      "title": "Sebastian Hardt, Johannes Unterstein  (Micromata):Java Security - Sicherheit in Java-Webanwendungen",
+      "start": "2013-01-31T16:00:00+00:00",
+      "location": "Amalie-Wündisch-Str. 3, 34131 Kassel (Kombinatsgaststätte \"Zur Marbachshöhe\")",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "36bfcf5a-a260-45e0-9461-4d8b5ba98ced",
+      "title": "Java Vortrag: Sven Reglitzki : Gradle",
+      "start": "2013-02-20T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e6f0efe1-6a7f-49e7-9388-13abb8946c4e",
+      "title": "Java-Stammtisch Goettingen",
+      "start": "2013-02-20T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "97f143b0-38f8-5d44-9c19-b073afbc9b65",
+      "title": "Andreas Wilhelm: Menues mit Android: Mathias Velten: cassandra",
+      "start": "2013-03-13T10:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "7a94b0b4-f165-470a-b465-fb4e096dec35",
+      "title": "Java-Stammtisch Goettingen",
+      "start": "2013-03-13T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "db64cb64-de99-1340-96db-cfc431ac6f4c",
+      "title": "Hubertus Rehbaum: Verwendung von Sockets in Java zu Ansteuerung von Hardware und VR Systemen",
+      "start": "2013-04-17T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "19f974a4-1cd0-4877-acae-dbad7ecb6b80",
+      "title": "Java-Stammtisch",
+      "start": "2013-04-17T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e7208c8a-0c2c-466b-b60d-05c866fafe30",
+      "title": "Java Vortrag: Wilhelm Pflueger/Stefan Crepon: Echt Zeit für JavaScript?",
+      "start": "2013-05-22T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "032d6895-3f54-4cd9-b78c-f74a8a03dce1",
+      "title": "Java Stammtisch",
+      "start": "2013-05-22T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4e5d5ad8-24fe-47b2-bd84-f1fba3d9adae",
+      "title": "Java-Vortrag:  Peter Doschkinow, Michael Braeuer: HTML5 und Bleeding-Edge Java Enterprise Technologien aus Oracle Sicht",
+      "start": "2013-06-12T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "dac84de4-d910-45db-a030-8c1f2ceb0dc1",
+      "title": "Java Stammtisch",
+      "start": "2013-06-12T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "03337fa5-0d58-4ce4-8c90-ced0b6b6ba9d",
+      "title": "Source Talk Tage",
+      "start": "2013-10-01T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e5183bd6-9884-4200-a6de-4d4c1726995f",
+      "title": "Source Talk Tage",
+      "start": "2013-10-02T00:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "b91f0e59-1e1a-444d-9014-fb46bdd6f0f3",
+      "title": "Java-Vortrag: Andreas Wilhelm: Neues in Android 4.x mit Schwerpunkt Sicherheit",
+      "start": "2013-10-23T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "adf1f32c-f3d3-4da0-815f-5924e5c31fcf",
+      "title": "Java-Stammtisch",
+      "start": "2013-10-23T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "8fb7ae6b-054c-4d21-93de-1d25e4cd4257",
+      "title": "Sven Reglitzki, Marko Wunderlich (flavia-IT): SOFEA in the Wild",
+      "start": "2013-11-27T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "0ef068d1-566c-48b4-ba55-d3331d553370",
+      "title": "Stefan Koospal: Es muss nicht immer Nagios sein",
+      "start": "2014-01-22T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "8574d3e9-d80e-4732-9182-f5597ea22b5c",
+      "title": "Java-Stammtisch",
+      "start": "2014-01-22T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "6b0d71e6-a660-40e0-91c1-264a0fca0e5a",
+      "title": "Jan Engelhardt: Multiplatform-Anwendungen mit C++",
+      "start": "2014-03-19T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "142e3577-4b36-4f73-8d56-1a93a85bbaaa",
+      "title": "Java-Stammtisch",
+      "start": "2014-03-19T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "6ba2a106-06a9-436d-b9f0-1495d7b55e02",
+      "title": "Java-Vortrag: Andreas Wilhelm: Continuous Integration mit Maven und Codeship",
+      "start": "2014-04-23T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "16cd1461-062a-4695-ae40-7cd83323eb10",
+      "title": "Java-Stammtisch",
+      "start": "2014-04-23T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "af94cb96-a50f-4eb7-b881-6225f6eb8970",
+      "title": "JUG Mitgliederversammlung",
+      "start": "2014-04-26T10:30:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3f1984d9-8412-46d1-ac77-47ee7a75b7f5",
+      "title": "Java-Vortrag: Sven Ruppert: JDK8 / Streams",
+      "start": "2014-05-28T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a94b86ce-b12e-479a-b847-ce358f3774a8",
+      "title": "Java-Stammtisch",
+      "start": "2014-05-28T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "520445b7-3963-487e-bb78-e7fc0846018b",
+      "title": "Sven Ruppert: IoT TinkerForge",
+      "start": "2014-06-18T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "8a796ed0-9937-4fc3-a772-0e998ce3cba4",
+      "title": "Java-Stammtisch",
+      "start": "2014-06-18T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "7fe8cab0-4d2e-4b7e-bf09-aba05d6e1afd",
+      "title": "Sven Reglitzki: SOFEA - Clientkonfigurartion",
+      "start": "2014-07-09T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f8e3c8af-550e-4467-ba3f-e69b79bb796a",
+      "title": "Java-Stammtisch",
+      "start": "2014-07-09T18:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "647986e7-2753-4e39-912c-250ffe29b64f",
+      "title": "Source Talk Tage",
+      "start": "2014-08-26T07:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "45f22f0f-eff9-45e6-afba-34e31e4879ed",
+      "title": "Source Talk Tage",
+      "start": "2014-08-27T07:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "8785be76-c685-504a-b303-ecc5971be6c1",
+      "title": "Training: Sven Ruppert: IoT TinkerForge - faellt leider aus",
+      "start": "2014-10-16T07:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut HS 6",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "203d9335-56c8-4053-8e37-0968d13602a2",
+      "title": "Dr. Jochen Schulz: Haskell - die funktionale Programmiersprache in der Praxis",
+      "start": "2014-10-22T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e5a5d7c7-b4b4-fa49-b550-3756900e1745",
+      "title": "Markus Eisele:Don't be that guy! Developer Security Awareness",
+      "start": "2015-01-14T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "6214894d-24e2-4d68-a406-43b97298067e",
+      "title": "Java-Stammtisch",
+      "start": "2015-01-14T19:00:00+00:00",
+      "location": "37073 Goettingen, Hospitalstrasse 35, Sausalitos",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f08bba18-1834-ff4f-8356-9e44a5907af9",
+      "title": "Yann Cebron: IntelliJ Plugin Development",
+      "start": "2015-02-18T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "032a4649-de8f-3e46-b617-5ef0a66884e2",
+      "title": "Jan Engelhardt: Analyse und Loesungsansaetze zur Einschraenkung von Arbitrary Code Execution",
+      "start": "2015-03-18T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1eb955a5-d0c4-0b45-8505-9671959799de",
+      "title": "JUG Deutschland e.V. Mitgliederversammlung",
+      "start": "2015-04-18T12:00:00+00:00",
+      "location": "Math. Institut Bunsenstr. 3-5 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "406d1cd7-609e-4e1c-9a77-b89222511493",
+      "title": "Frank Pientka: Kryptokalypse now - Apache Tomcat aber sicher!",
+      "start": "2015-04-22T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3838dcc4-bd28-4597-9d3d-9d3ab4f9c253",
+      "title": "Bennet Schulz:  JavaFX 8 - begin, test, migrate",
+      "start": "2015-05-06T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "05eaec23-217b-4a21-b51f-d9b3f1dad643",
+      "title": "Sandro Kock: Webanwendungen mittels Web Components und Polymer.js entwickeln",
+      "start": "2015-06-10T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "56145510-82b0-4354-8e86-1b40d30da427",
+      "title": "Sven Ruppert: CDI Pattern",
+      "start": "2015-07-15T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f254edfa-e4d1-4f55-900a-634f3d717085",
+      "title": "Bernd Mueller: Byte-Code, Class-Loader und Class-Transformer",
+      "start": "2015-11-25T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "c78e3c59-c7ff-4094-8b07-5a908faa3c26",
+      "title": "Peter Doschkinow , Michael Braeuer (beide Oracle): Microservices Technologie-Enabler",
+      "start": "2015-12-16T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a92a0421-40c7-4bd4-a831-f63ad8397277",
+      "title": "Martin Schaefer: \"Das Van-Halen Dilemma\" oder Test Driven Migration",
+      "start": "2016-01-20T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a18eb040-d389-459e-a523-4126168f4d4a",
+      "title": "Malte Wildt: Groovy-basierte Testframework Spock",
+      "start": "2016-02-17T17:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f97a4f26-1da3-4e0d-abd8-5b78e761e6be",
+      "title": "Workshop Sven Ruppert: CDI Pattern",
+      "start": "2016-03-23T08:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a92869a6-717e-46e6-8416-7a34d17d5ac1",
+      "title": "Tobias Kilian: Live Coding mit Akka",
+      "start": "2016-04-20T16:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "916beaad-e2ad-42ab-a090-e16d4d573100",
+      "title": "Mitgliederversammlung",
+      "start": "2016-04-23T11:00:00+00:00",
+      "location": "37073 Goettingen, Bunsenstr. 3-5 , Math. Institut",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "c46313ef-0b8c-4346-b5df-b7e9d45a2836",
+      "title": "Application Performance Management mit Inspect (Alexander Wert)",
+      "start": "2016-06-15T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "55d5b92d-bdad-477b-b13e-8c3b220d2a41",
+      "title": "Monolithen zaehmen leicht gemacht (Bennet Schulz)",
+      "start": "2016-08-10T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "5c55d818-a6d8-4822-8ea8-71f8f3cd07a2",
+      "title": "Docker fuer Javaentwickler (Mathias Velten)",
+      "start": "2016-09-21T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "cbb5f47b-4b44-407a-bbdd-e109b1ee8390",
+      "title": "Frameworks for Scaling Legacy Systems (Sven Ruppert)",
+      "start": "2016-10-27T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "76e83855-11c0-45a4-945a-b7510c0b9791",
+      "title": "Frege - JVM Programme mit mathematischem Fundament (Dierk Koenig)",
+      "start": "2016-11-23T17:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4e363896-b6f7-4bdf-b2e9-0834dc3df954",
+      "title": "Kostenfreier Workshop - Functional-Reactive with Core Java (Sven Ruppert)",
+      "start": "2016-12-23T08:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "25e67a31-0a4b-4373-85b1-784f0f25edd3",
+      "title": "Statische Codeanalyse mit SonarQube (Josha von Gizycki)",
+      "start": "2017-01-18T17:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "eac094e4-ba26-41c3-849b-bb770c094ad1",
+      "title": "BPMN - Ein Prozess lernt laufen (Oliver Hock)",
+      "start": "2017-03-15T17:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "01caaa6e-c16c-4df7-82b3-7fb59c5d0385",
+      "title": "Docker for Beginners (Stefan Koospal)",
+      "start": "2017-04-26T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "ba030f02-79c8-4823-adea-4a4684296bb6",
+      "title": "Why a Python developer started missing Java (Jan Michal)",
+      "start": "2017-05-31T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "2205d73b-547e-49c9-ad0a-469c2eddb4c9",
+      "title": "Node-RED, Programmanpassungen mit der Maus (Sandro Kock)",
+      "start": "2017-07-12T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "d588c943-809a-420d-8e17-475246305485",
+      "title": "Das Netzwerk von Docker (Stefan Koospal)",
+      "start": "2017-08-16T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "99735ab3-7b75-074f-ab11-7b377453c1c0",
+      "title": "Monitoring Applications with Prometheus (Mathias Velten)",
+      "start": "2017-12-13T17:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1794383a-6ae5-48c2-a57b-f83e2154488f",
+      "title": "Wenn ich sitz gehts, wenn ich lieg is ganz wech (Martin Schäfer)",
+      "start": "2018-01-17T17:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "2fd4c358-8a71-4d1f-b6e1-9e85630925ab",
+      "title": "Workshop - Praktische Einfuehrung Docker (Stefan Koospal)",
+      "start": "2018-02-14T17:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "2048df28-4b2a-475a-850b-e9af31b2d6e2",
+      "title": "Spring Data JDBC: The new kid on the block (Jens Schauder)",
+      "start": "2018-04-18T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5 , 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "ad9473f0-4603-4f89-aa43-443701d2a8fa",
+      "title": "SIT - studentischen Informatiktage",
+      "start": "2018-05-25T13:00:00+00:00",
+      "location": "Institut für Informatik (Department of Computer Science),Goldschmidtstraße 7,37077 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "5b4c392a-d4c7-4d95-bcd9-409367898498",
+      "title": "SIT - Studentische Informatiktage",
+      "start": "2018-05-26T10:00:00+00:00",
+      "location": "Institut für Informatik (Department of Computer Science),Goldschmidtstraße 7,37077 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "7df66361-b7de-4b24-ba3d-8c08ce7ee921",
+      "title": "SIT - studentischen Informatiktage",
+      "start": "2018-05-27T10:00:00+00:00",
+      "location": "Institut für Informatik (Department of Computer Science),Goldschmidtstraße 7,37077 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "23782dcf-81cc-4c74-818d-1889b39a08ec",
+      "title": "Rust - ein versuchter Einstieg (Dennis Kanngießer)",
+      "start": "2018-07-18T16:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "9b4bbeb6-7880-bf48-b42b-022a3b93c364",
+      "title": "Datenbanken in Containern (Johannes Unterstein)",
+      "start": "2018-11-14T17:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "c2c6e9cb-8f0f-2249-9e98-b87221ecc864",
+      "title": "IntelliJ IDEA Trickkiste - Ein Entwickler packt aus (Yann Cébron)",
+      "start": "2019-01-16T17:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "d2821631-4f18-4648-8f05-737a3686f358",
+      "title": "Bashing - Eine kleine Einfuehrung in die Bash (Stefan Koospal)",
+      "start": "2019-02-13T17:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e954b50e-060c-0a44-b71f-49a1487e6478",
+      "title": "NIXOS - das etwas andere Linux (Christoph Ruegge)",
+      "start": "2019-06-19T16:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "b959eb0e-0966-1545-9d4d-47904087b3bc",
+      "title": "(Noch einfacheres) Java-CI mit TestContainers (Martin Schäfer)",
+      "start": "2019-07-17T16:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "d4e52257-d8e4-714a-babe-a3e550b98a74",
+      "title": "Jenkins X - Continuously Delivery for the Kloud (Gerd Aschemann)",
+      "start": "2019-08-21T16:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4d49f310-b7b6-6149-8ad1-b9446b4f5621",
+      "title": "7 Impulse, wie ihr Akzeptanz für eure Lösungen schafft(Damman,Reinicke)",
+      "start": "2019-08-29T16:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "705fbeb7-bd6b-074f-a3f7-6e4028eee0fa",
+      "title": "Prozessorchestrierung und Systemintegration mit Camunda(Dr. Björn Decker)",
+      "start": "2019-10-23T16:00:00+00:00",
+      "location": "Prof. Schumann GmbH, Weender Landstr. 23,  37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "639eef84-2c26-2348-ae54-0b2ce5f68587",
+      "title": "Mit Gitlab DockerSwarm steuern (Martin Heide, Lennart Kramer)",
+      "start": "2019-11-20T17:00:00+00:00",
+      "location": "Prof. Schumann GmbH, Weender Landstr. 23, 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1db01f22-f523-9e48-a4f7-7bc8ffbeac91",
+      "title": "Von DockerSwarm zu Kubernetes (Lennart Kramer)",
+      "start": "2019-12-18T17:00:00+00:00",
+      "location": "Mathematisches Institut, Bunsenstr. 3-5 , 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "17d28a61-5c28-344e-8ed3-a33f72d3cb4e",
+      "title": "Zeitzonen in Client Server Umgebung (Lukas Perek)",
+      "start": "2020-01-15T17:00:00+00:00",
+      "location": "Prof. Schumann GmbH, Weender Landstr. 23, 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "a42abd0c-088d-b745-9d1d-0c57394195ae",
+      "title": "Kubernetes produktiv zum Laufen bringen (Lennart Kramer)",
+      "start": "2020-01-15T18:00:00+00:00",
+      "location": "Prof. Schumann GmbH, Weender Landstr. 23, 37073 Göttingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1676864c-7588-c24f-bed3-014e6c74bd94",
+      "title": "Psychologie vs Code, nicht IT-ler sind auch Gespraechspartner (Isabelle Rotter)",
+      "start": "2022-06-22T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5, 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "12cd5391-9945-aa40-a1fb-dd96ba55ca4d",
+      "title": "Einführung in Ansible (Lennart Kramer)",
+      "start": "2022-08-03T16:00:00+00:00",
+      "location": "Math. Institut, Bunsenstr. 3-5, 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "984e3b6a-1b98-4c2f-a9f9-1a45202d5978",
+      "title": "Cloud Native und Enterprise Java? Hold my Beer! (Lars Röwekamp)",
+      "start": "2022-09-07T16:00:00+00:00",
+      "location": "Schumann Campus, Jutta Limbach 1, 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "95442a29-f2ad-469c-905f-7bd660ce09e0",
+      "title": "Codequalitaet: KISS und Clean Code (Burkhard Loesel)",
+      "start": "2022-10-12T15:45:00+00:00",
+      "location": "Schumann Campus, Jutta Limbach 1, 37073 Goettingen",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "7eb5347e-05ec-4636-ae1c-c854db0a1022",
+      "title": "Kotlin für Java Entwickler (Jonas Dittrich)",
+      "location": "Solvians GmbH, Tuchmacherweg 8, 37079 Göttingen",
+      "start": "2022-11-02T16:45:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "EX1EQ8CWTVIAF8VCRWZO8",
+      "title": "Container Config und Start mit Gitlab CI/CD und Kubernetes (Lennart Kramer)",
+      "location": "Math. Institut und online , Bunsenstr. 3-5, 37073 Goettingen",
+      "start": "2022-12-21T17:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "P9A3OX45ZTRQX4G3Q04K",
+      "title": "Rechner verwalten mit OPSI (Marvin von Roden)",
+      "location": "Math. Institut , Bunsenstr. 3-5, 37073 Goettingen",
+      "start": "2023-04-19T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "MZIH8MSI39SURBVMY7JU",
+      "title": "How hogrefe use web components for digital\npsychological assessments (Christian Thies)",
+      "location": "Hogrefe Verlag, Merkelstr. 3, 37085 Göttingen",
+      "start": "2023-05-03T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "B7LJ8E3B8JZ7X005GLLN",
+      "title": "Serverless mit TypeScript als Java-Entwickler? Unser Weg zu einem „API as a Service“ Produkt in der Cloud",
+      "location": "Schumann, Jutta-Limbach-Straße 1, 37073 Göttingen",
+      "start": "2023-07-19T15:45:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "HVTRSFY0T3SYE2UDK2PQ",
+      "title": "Quarkus: Java auf Speed (Christian Schröder, Solvians)",
+      "location": "Solvians GmbH, Tuchmacherweg 8, 37079 Göttingen",
+      "start": "2023-08-30T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4W4ATAR1C5RO07QPP6H9UR",
+      "title": "Führung im Forum Wissen",
+      "location": "Berliner Str. 28, 37073 Göttingen, Deutschland",
+      "start": "2023-12-05T17:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "J2TQCVPTTDEWBUKHJOO77",
+      "title": "Transformational IT Leadership\n– Enable yourself and your teams in the Cloud Native Age (Benjamin Nothdurft)",
+      "location": "Prof. Schumann GmbH, Jutta-Limbach-Straße 1, 37073 Göttingen, Deutschland",
+      "start": "2023-12-05T18:30:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "GIKJSWH4V87GHSJD8GSSF",
+      "title": "JUG auf dem Weihnachtsmarktt",
+      "location": "Markt 9, 37073 Göttingen, Deutschland",
+      "start": "2023-12-05T20:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "DGC3GGKQ9J7EVDPSORZXQK",
+      "title": "Highway to Cloudland - Vortrag von Sven Ruppert",
+      "location": "xplace GmbH,  Tuchmacherweg 12,  37079 Göttingen",
+      "start": "2024-04-30T15:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "WVQQF6J8LQE8F9MTMID1JW",
+      "title": "Java 21 u. 22 - Die neuen Features (Falk Sippach)",
+      "location": "Hogrefe Verlag, Merkelstr. 3, 37085 Göttingen",
+      "start": "2024-05-16T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "2S6YWYFVZTJU5LQCZQD8P",
+      "title": "Data-Oriented Programming with Java (Nicolai Parlog)",
+      "location": "Prof. Schumann GmbH, Jutta-Limbach-Straße 1, 37073 Göttingen",
+      "start": "2024-08-21T16:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "QNPLTUEFMYGU7RM87XE77",
+      "title": "JavaForumNord",
+      "location": "HCC, Theodor-Heuss-Platz 1-3, 30175 Hannover",
+      "start": "2024-09-10T06:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "1XU756AM7G7WQNTYLCRH3N",
+      "title": "Künstliche Intelligenz in Bewegung",
+      "location": "GWDG, Burckhardtweg 4, 37077 Göttingen",
+      "start": "2024-10-23T09:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "XALRM17NGBZUE0EWOG65K",
+      "title": "Verteilte Systeme mit Conflict-Free Replicated Data Types ( Dr.-Ing. Tobias Baum, Set GmbH)",
+      "location": "Prof. Schumann GmbH\nJutta-Limbach-Straße 1, 37073, Göttingen",
+      "start": "2025-04-09T15:45:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "Y21RTAXDOR2LQMVU2WEDD",
+      "title": "Quo Vadis User? Eine Einfuehrung in Policy-based Authentifizierung und Autorisierung (Jonas Dittrich)",
+      "location": "Prof. Schumann GmbH Jutta-Limbach-Straße 1, 37073, Göttingen",
+      "start": "2025-10-08T15:45:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "ULESIGK8LYLTTFELSKYH8H",
+      "title": "\"Instaparse Revisited\" (Stefan Kamphausen)",
+      "location": "eddyson GmbH - 23|25, Groner Landstraße, 37081 Göttingen",
+      "start": "2026-07-15T15:45:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "SJZXCR9DM8POHRY1I5GN1M",
+      "title": "\"Agenten für die Business Domain\" (Fabian Walther)",
+      "location": "Prof. Schumann GmbH Jutta-Limbach-Straße 1, 37073, Göttingen",
+      "start": "2026-08-19T15:45:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "43JM0DC3MCJKK78955C81S",
+      "title": "Es muss nicht immer Microservice sein: Architekturen im Vergleich (Thomas Ruhroth)",
+      "location": "Prof. Schumann GmbH Jutta-Limbach-Straße 1, 37073, Göttingen",
+      "start": "2026-10-21T15:45:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "https://java.de/cal/jug-goettingen.ics"
+    }
+  ],
+  "status": "ok"
+}

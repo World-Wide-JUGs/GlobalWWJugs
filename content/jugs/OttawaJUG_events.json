@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "OttawaJUG",
+  "name": "Ottawa Java User Group",
+  "country": "Canada",
+  "source_file": "content/jugs/OttawaJUG.md",
+  "fetched_at": "2026-10-10T16:53:48+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/ottawa-java-user-group/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/ottawa-java-user-group/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316856068@meetup.com",
+      "start": "2026-10-14T22:00:00+00:00",
+      "title": "7 Ways You Can Build an Amazing Dev Career in the AI Era",
+      "url": "https://www.meetup.com/ottawa-java-user-group/events/316856068/",
+      "source_kind": "meetup-ical",
+      "source_url": "https://www.meetup.com/ottawa-java-user-group/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

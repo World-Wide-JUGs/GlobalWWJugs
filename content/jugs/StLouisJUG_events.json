@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "StLouisJUG",
+  "name": "St. Louis Java Users Group",
+  "country": "United States",
+  "source_file": "content/jugs/StLouisJUG.md",
+  "fetched_at": "2026-10-10T16:53:52+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/GatewayJUG/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/GatewayJUG/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/GatewayJUG/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_315805152@meetup.com",
+      "start": "2026-11-13T00:30:00+00:00",
+      "title": "Testing the Untestable: Reliably testing AI-Infused Applications",
+      "url": "https://www.meetup.com/gatewayjug/events/315805152/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/GatewayJUG/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

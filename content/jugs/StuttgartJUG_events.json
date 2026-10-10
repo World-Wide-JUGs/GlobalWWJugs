@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "StuttgartJUG",
+  "name": "Java User Group Stuttgart",
+  "country": "Germany",
+  "source_file": "content/jugs/StuttgartJUG.md",
+  "fetched_at": "2026-10-10T16:53:53+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/de-DE/jugstuttgart/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/de-DE/jugstuttgart/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/de-DE/jugstuttgart/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

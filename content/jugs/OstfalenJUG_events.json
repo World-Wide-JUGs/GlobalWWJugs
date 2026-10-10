@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "OstfalenJUG",
+  "name": "Java User Group Ostfalen",
+  "country": "Germany",
+  "source_file": "content/jugs/OstfalenJUG.md",
+  "fetched_at": "2026-10-10T16:53:47+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "http://www.jug-ostfalen.de/events.ics"
+    }
+  ],
+  "events": [
+    {
+      "uid": "20260924@jug-ostfalen.de",
+      "location": "Cloudogu GmbH; Garküche 1; 38100 Braunschweig",
+      "title": "Vom Monolithen zum Modulithen: Spring Modulith in der Praxis (Nils Hartmann)",
+      "start": "2026-09-24T19:00:00+00:00",
+      "source_kind": "calendar",
+      "source_url": "http://www.jug-ostfalen.de/events.ics"
+    }
+  ],
+  "status": "ok"
+}

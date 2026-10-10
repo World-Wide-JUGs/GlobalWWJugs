@@ -19,4 +19,5 @@ twitch:
 youtube:
 founded_date:
 contact:
+event_list: content/jugs/TaiwanJUG_events.json
 ---

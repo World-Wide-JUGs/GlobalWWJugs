@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "MuensterJUG",
+  "name": "Java User Group Muenster",
+  "country": "Germany",
+  "source_file": "content/jugs/MuensterJUG.md",
+  "fetched_at": "2026-10-10T16:53:40+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/de-DE/java-usergroup-munster/events/calendar/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

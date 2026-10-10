@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "MontrealJUG",
+  "name": "Montréal Java User Group",
+  "country": "Canada",
+  "source_file": "content/jugs/MontrealJUG.md",
+  "fetched_at": "2026-10-10T16:53:40+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/montreal-jug/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/montreal-jug/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/montreal-jug/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316859533@meetup.com",
+      "start": "2026-10-15T21:30:00+00:00",
+      "title": "Developer Career Masterplan with Bruno Souza",
+      "url": "https://www.meetup.com/montreal-jug/events/316859533/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/montreal-jug/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

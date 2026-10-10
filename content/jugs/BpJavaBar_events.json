@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "BpJavaBar",
+  "name": "Budapest JavaBár",
+  "country": "Hungary",
+  "source_file": "content/jugs/BpJavaBar.md",
+  "fetched_at": "2026-10-10T16:53:17+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/bpjavabar/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/bpjavabar/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "fetch_error",
+  "errors": [
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/bpjavabar/events/ical/",
+      "error": "HTTP status 404"
+    }
+  ]
+}

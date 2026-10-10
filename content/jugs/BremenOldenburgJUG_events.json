@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "BremenOldenburgJUG",
+  "name": "Java User Group Bremen Oldenburg",
+  "country": "Germany",
+  "source_file": "content/jugs/BremenOldenburgJUG.md",
+  "fetched_at": "2026-10-10T16:53:18+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/jugbremen/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/jugbremen/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/jugbremen/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

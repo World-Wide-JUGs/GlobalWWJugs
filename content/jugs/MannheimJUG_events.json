@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "MannheimJUG",
+  "name": "Java User Group Mannheim",
+  "country": "Germany",
+  "source_file": "content/jugs/MannheimJUG.md",
+  "fetched_at": "2026-10-10T16:53:38+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "http://www.majug.de/events.ics"
+    }
+  ],
+  "events": [
+    {
+      "start": "2025-01-22T18:00:00+00:00",
+      "uid": "20250122-Zero-to-OpenTelemetry@majug.de",
+      "location": "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim",
+      "title": "Zero to OpenTelemetry (Michele Mancioppi)",
+      "url": "https://www.majug.de/2025/01/22/Zero-to-OpenTelemetry/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2025-03-27T18:00:00+00:00",
+      "uid": "20250327-XZ-the-day-the-internet-almost-died@majug.de",
+      "location": "andrena objects, Eastsite ELYSIUM, Konrad-Zuse-Ring 23, 68163 Mannheim",
+      "title": "XZ: The day the internet (almost) died (Reinier Zwitserloot & Roel Spilker)",
+      "url": "https://www.majug.de/2025/03/27/XZ-the-day-the-internet-almost-died/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2025-04-30T17:00:00+00:00",
+      "uid": "20250430-cloud-native-with-quarkus@majug.de",
+      "location": "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim",
+      "title": "Unleash the Power of Cloud-Native Java with Quarkus (András Fejes)",
+      "url": "https://www.majug.de/2025/04/30/cloud-native-with-quarkus/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2025-07-02T17:00:00+00:00",
+      "uid": "20250702-architekturverantwortung-weniger-rede-mehr-machen@majug.de",
+      "location": "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim",
+      "title": "Architekturverantwortung: Weniger reden – mehr machen! (Tom Asel)",
+      "url": "https://www.majug.de/2025/07/02/architekturverantwortung-weniger-rede-mehr-machen/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2025-10-29T18:00:00+00:00",
+      "uid": "20251029-neuerungen-in-java-21-bis-25-value-objects@majug.de",
+      "location": "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim",
+      "title": "Die Neuerungen in Java 21 bis 25 / Value Objects (Falk Sippach)",
+      "url": "https://www.majug.de/2025/10/29/neuerungen-in-java-21-bis-25-value-objects/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2025-11-27T18:00:00+00:00",
+      "uid": "20251127-microservice-trade-off@majug.de",
+      "location": "BridgingIT GmbH, N7 5-6, 68161 Mannheim",
+      "title": "Der Microservice Trade-Off (Arnold Franke)",
+      "url": "https://www.majug.de/2025/11/27/microservice-trade-off/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2026-01-22T18:00:00+00:00",
+      "uid": "20260122-workshop-quarkus-langchain4j@majug.de",
+      "location": "Technische Hochschule Mannheim, Speyerer Str. 4, 68163 Mannheim, Room A108",
+      "title": "Workshop: Bringing AI to Java: from Function Calls to Context-Aware Applications (Andras Fejes)",
+      "url": "https://www.majug.de/2026/01/22/workshop-quarkus-langchain4j/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2026-04-30T17:00:00+00:00",
+      "uid": "20260430-was-ich-aus-9-produktions@majug.de",
+      "location": "Technische Hochschule Mannheim, Gebäude A, 2. Stock, Raum A206",
+      "title": "Was ich aus 9 Produktionsanwendungen mit Claude Code gelernt habe",
+      "url": "https://www.majug.de/2026/04/30/was-ich-aus-9-produktions/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2026-10-01T17:00:00+00:00",
+      "uid": "20261001-valueobjects-valhalla-java-for-ai@majug.de",
+      "location": "Room S3, SAP SE, Building WDF05, Dietmar-Hopp-Allee 20, 69190 Walldorf",
+      "title": "Value Objects and Project Valhalla + Java for AI",
+      "url": "https://www.majug.de/2026/10/01/valueobjects-valhalla-java-for-ai/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    },
+    {
+      "start": "2026-10-22T17:00:00+00:00",
+      "uid": "20261022-vom-ingress-bis-zum-index@majug.de",
+      "location": "Technische Hochschule Mannheim, Gebäude A, 2. Stock, Raum A206",
+      "title": "Vom Ingress bis zum Index: Wo verteilte Systeme unter Last brechen",
+      "url": "https://www.majug.de/2026/10/22/vom-ingress-bis-zum-index/",
+      "source_kind": "calendar",
+      "source_url": "http://www.majug.de/events.ics"
+    }
+  ],
+  "status": "ok"
+}

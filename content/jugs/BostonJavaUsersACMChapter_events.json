@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "BostonJavaUsersACMChapter",
+  "name": "Boston Java Users ACM Chapter",
+  "country": "United States",
+  "source_file": "content/jugs/BostonJavaUsersACMChapter.md",
+  "fetched_at": "2026-10-10T16:53:17+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/nejug1/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/nejug1/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/nejug1/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316852993@meetup.com",
+      "start": "2026-10-22T22:00:00+00:00",
+      "title": "Developer Career Masterplan",
+      "url": "https://www.meetup.com/nejug1/events/316852993/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/nejug1/events/ical/"
+    },
+    {
+      "uid": "event_316908989@meetup.com",
+      "start": "2026-12-14T23:00:00+00:00",
+      "title": "Test Driving Code with the Help of AI by Dr. Venkat S",
+      "url": "https://www.meetup.com/nejug1/events/316908989/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/nejug1/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

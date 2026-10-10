@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "AlpesJUG",
+  "name": "Alpes JUG",
+  "country": "France",
+  "source_file": "content/jugs/AlpesJUG.md",
+  "fetched_at": "2026-10-10T16:53:07+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/alpesjug/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/alpesjug/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

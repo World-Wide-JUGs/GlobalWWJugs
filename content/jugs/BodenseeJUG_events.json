@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "BodenseeJUG",
+  "name": "Java User Group Bodensee",
+  "country": "Germany",
+  "source_file": "content/jugs/BodenseeJUG.md",
+  "fetched_at": "2026-10-10T16:53:15+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/JUG-Bodensee/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/JUG-Bodensee/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/JUG-Bodensee/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

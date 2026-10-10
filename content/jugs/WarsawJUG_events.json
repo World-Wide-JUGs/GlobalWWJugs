@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "WarsawJUG",
+  "name": "Warsaw Java Users Group",
+  "country": "Poland",
+  "source_file": "content/jugs/WarsawJUG.md",
+  "fetched_at": "2026-10-10T16:54:00+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/Warszawa-JUG/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/Warszawa-JUG/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/Warszawa-JUG/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316852070@meetup.com",
+      "start": "2026-10-15T16:00:00+00:00",
+      "title": "332. WJUG – Piwowarek/Fedorka Netflix Edition",
+      "url": "https://www.meetup.com/warszawa-jug/events/316852070/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Warszawa-JUG/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

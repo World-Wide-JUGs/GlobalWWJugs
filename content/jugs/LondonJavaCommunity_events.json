@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "LondonJavaCommunity",
+  "name": "London Java Community",
+  "country": "United Kingdom",
+  "source_file": "content/jugs/LondonJavaCommunity.md",
+  "fetched_at": "2026-10-10T16:53:36+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/londonjavacommunity/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/londonjavacommunity/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/londonjavacommunity/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_315973600@meetup.com",
+      "start": "2026-12-04T09:00:00+00:00",
+      "title": "LJC Winter Unconference 2026",
+      "url": "https://www.meetup.com/londonjavacommunity/events/315973600/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/londonjavacommunity/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

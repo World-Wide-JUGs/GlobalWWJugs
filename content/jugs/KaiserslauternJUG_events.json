@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "KaiserslauternJUG",
+  "name": "Java User Group Kaiserslautern",
+  "country": "Germany",
+  "source_file": "content/jugs/KaiserslauternJUG.md",
+  "fetched_at": "2026-10-10T16:53:32+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "http://java.de/cal/kaiserslautern.ics"
+    }
+  ],
+  "events": [],
+  "status": "fetch_error",
+  "errors": [
+    {
+      "kind": "calendar",
+      "url": "http://java.de/cal/kaiserslautern.ics",
+      "error": "HTTP status 404"
+    }
+  ]
+}

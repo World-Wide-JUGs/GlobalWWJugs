@@ -19,4 +19,5 @@ mastodon:
 bluesky:
 twitch:
 kktix:
+event_list: content/jugs/NicaraguaJUG_events.json
 ---

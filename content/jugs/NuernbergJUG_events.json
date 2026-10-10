@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "NuernbergJUG",
+  "name": "Java User Group Nuernberg",
+  "country": "Germany",
+  "source_file": "content/jugs/NuernbergJUG.md",
+  "fetched_at": "2026-10-10T16:53:44+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/JUG-Nurnberg/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/JUG-Nurnberg/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/JUG-Nurnberg/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

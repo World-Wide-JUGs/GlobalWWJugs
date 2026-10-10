@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "HannoverJUG",
+  "name": "Java User Group Hannover",
+  "country": "Germany",
+  "source_file": "content/jugs/HannoverJUG.md",
+  "fetched_at": "2026-10-10T16:53:29+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/Java-User-Group-Hannover/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_hrhcxtyjcnbnc@meetup.com",
+      "start": "2026-10-30T18:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtyjcnbnc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtyjcpbkc@meetup.com",
+      "start": "2026-11-27T18:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtyjcpbkc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtyjcqbhc@meetup.com",
+      "start": "2026-12-25T18:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtyjcqbhc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtykccbmc@meetup.com",
+      "start": "2027-01-29T18:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtykccbmc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtykcdbjc@meetup.com",
+      "start": "2027-02-26T18:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtykcdbjc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtykcfbjc@meetup.com",
+      "start": "2027-03-26T18:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtykcfbjc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtykcgbnc@meetup.com",
+      "start": "2027-04-30T17:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtykcgbnc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtykchblc@meetup.com",
+      "start": "2027-05-28T17:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtykchblc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtykcjbhc@meetup.com",
+      "start": "2027-06-25T17:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtykcjbhc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    },
+    {
+      "uid": "event_hrhcxtykckbnc@meetup.com",
+      "start": "2027-07-30T17:00:00+00:00",
+      "title": "Java Stammtisch",
+      "url": "https://www.meetup.com/java-user-group-hannover/events/hrhcxtykckbnc/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/Java-User-Group-Hannover/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

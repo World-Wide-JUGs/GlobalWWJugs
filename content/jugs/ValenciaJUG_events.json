@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ValenciaJUG",
+  "name": "Valencia Java User Group",
+  "country": "Spain",
+  "source_file": "content/jugs/ValenciaJUG.md",
+  "fetched_at": "2026-10-10T16:53:58+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/ValenciaJUG/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/ValenciaJUG/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

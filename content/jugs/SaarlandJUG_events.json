@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "SaarlandJUG",
+  "name": "Java User Group Saarland",
+  "country": "Germany",
+  "source_file": "content/jugs/SaarlandJUG.md",
+  "fetched_at": "2026-10-10T16:53:50+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/Java-User-Group-Saarland-jugsaar/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/Java-User-Group-Saarland-jugsaar/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/Java-User-Group-Saarland-jugsaar/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

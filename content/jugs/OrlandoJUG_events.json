@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "OrlandoJUG",
+  "name": "Orlando JUG (Java User Group)",
+  "country": "United States",
+  "source_file": "content/jugs/OrlandoJUG.md",
+  "fetched_at": "2026-10-10T16:53:47+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/orlando-jug-java-user-group/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/orlando-jug-java-user-group/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316905301@meetup.com",
+      "start": "2026-11-03T23:30:00+00:00",
+      "title": "Next-level AI Concepts for Devs: Agents, Tools, and MCP",
+      "url": "https://www.meetup.com/orlando-jug-java-user-group/events/316905301/",
+      "source_kind": "meetup-ical",
+      "source_url": "https://www.meetup.com/orlando-jug-java-user-group/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

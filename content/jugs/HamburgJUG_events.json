@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "HamburgJUG",
+  "name": "Java User Group Hamburg",
+  "country": "Germany",
+  "source_file": "content/jugs/HamburgJUG.md",
+  "fetched_at": "2026-10-10T16:53:28+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/jug-hamburg/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/jug-hamburg/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/jug-hamburg/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316580306@meetup.com",
+      "start": "2026-10-29T18:00:00+00:00",
+      "title": "Java auf Diät: Schlankere Spring Boot Container für mehr Sicherheit",
+      "url": "https://www.meetup.com/jug-hamburg/events/316580306/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-hamburg/events/ical/"
+    },
+    {
+      "uid": "event_316782036@meetup.com",
+      "start": "2026-11-12T18:00:00+00:00",
+      "title": "Mit Java, ohne kommerzielle LLMs, KI Aufgaben erkennen und lösen",
+      "url": "https://www.meetup.com/jug-hamburg/events/316782036/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/jug-hamburg/events/ical/"
+    }
+  ],
+  "status": "ok"
+}

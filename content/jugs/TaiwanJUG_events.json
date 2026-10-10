@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "TaiwanJUG",
+  "name": "Taiwan Java User Group",
+  "country": "Taiwan",
+  "source_file": "content/jugs/TaiwanJUG.md",
+  "fetched_at": "2026-10-10T16:53:54+00:00",
+  "sources": [
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/taiwanjug/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/taiwanjug/events/ical/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

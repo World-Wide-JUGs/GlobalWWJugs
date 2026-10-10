@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "ViennaJSUG",
+  "name": "Java Student User Group Austria (Java Vienna)",
+  "country": "Austria",
+  "source_file": "content/jugs/ViennaJSUG.md",
+  "fetched_at": "2026-10-10T16:53:59+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.meetup.com/java-vienna/events/ical/"
+    },
+    {
+      "kind": "meetup",
+      "url": "https://www.meetup.com/java-vienna/"
+    },
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/java-vienna/events/ical/"
+    }
+  ],
+  "events": [
+    {
+      "uid": "event_316166122@meetup.com",
+      "start": "2026-10-19T16:00:00+00:00",
+      "title": "\"Event-Driven Workflow Orchestration\" + TBA",
+      "url": "https://www.meetup.com/java-vienna/events/316166122/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/java-vienna/events/ical/"
+    },
+    {
+      "uid": "event_316166128@meetup.com",
+      "start": "2026-11-07T08:00:00+00:00",
+      "title": "Going to DevFest Vienna",
+      "url": "https://www.meetup.com/java-vienna/events/316166128/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/java-vienna/events/ical/"
+    },
+    {
+      "uid": "event_316166123@meetup.com",
+      "start": "2026-11-09T17:00:00+00:00",
+      "title": "November Meetup",
+      "url": "https://www.meetup.com/java-vienna/events/316166123/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/java-vienna/events/ical/"
+    },
+    {
+      "uid": "event_316166142@meetup.com",
+      "start": "2026-11-30T17:00:00+00:00",
+      "title": "December Meetup",
+      "url": "https://www.meetup.com/java-vienna/events/316166142/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/java-vienna/events/ical/"
+    },
+    {
+      "uid": "event_316166147@meetup.com",
+      "start": "2027-01-18T17:00:00+00:00",
+      "title": "January Meetup",
+      "url": "https://www.meetup.com/java-vienna/events/316166147/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/java-vienna/events/ical/"
+    },
+    {
+      "uid": "event_316693695@meetup.com",
+      "start": "2027-02-22T17:00:00+00:00",
+      "title": "maybe february meetup",
+      "url": "https://www.meetup.com/java-vienna/events/316693695/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/java-vienna/events/ical/"
+    },
+    {
+      "uid": "event_316693696@meetup.com",
+      "start": "2027-03-08T17:00:00+00:00",
+      "title": "maybe march meetup",
+      "url": "https://www.meetup.com/java-vienna/events/316693696/",
+      "source_kind": "calendar",
+      "source_url": "https://www.meetup.com/java-vienna/events/ical/"
+    }
+  ],
+  "status": "ok"
+}
