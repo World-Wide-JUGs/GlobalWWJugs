@@ -2,7 +2,7 @@
 name: "JUG CH Zürich"
 country: Switzerland
 website: https://www.jug.ch/
-calendar: https://www.jug.ch/events/
+calendar: https://www.jug.ch/events/zurich/
 location: 47.3769, 8.5472
 founded_date:
 email:
@@ -19,4 +19,5 @@ twitch:
 youtube:
 kktix:
 contact:
+event_list: content/jugs/ZurichJUG_events.json
 ---

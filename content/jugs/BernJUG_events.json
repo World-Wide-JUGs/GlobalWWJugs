@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "BernJUG",
+  "name": "JUG CH Bern",
+  "country": "Switzerland",
+  "source_file": "content/jugs/BernJUG.md",
+  "fetched_at": "2026-10-10T16:53:13+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.jug.ch/events/bern/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

@@ -2,7 +2,7 @@
 name: "JUG CH Basel"
 country: Switzerland
 website: https://www.jug.ch/
-calendar: https://www.jug.ch/events/
+calendar: https://www.jug.ch/events/basel/
 location: 47.5596, 7.5886
 founded_date:
 email:
@@ -19,4 +19,5 @@ twitch:
 youtube:
 kktix:
 contact:
+event_list: content/jugs/BaselJUG_events.json
 ---

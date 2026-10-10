@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ZurichJUG",
+  "name": "JUG CH Zürich",
+  "country": "Switzerland",
+  "source_file": "content/jugs/ZurichJUG.md",
+  "fetched_at": "2026-10-10T16:54:01+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.jug.ch/events/zurich/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

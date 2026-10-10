@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "BaselJUG",
+  "name": "JUG CH Basel",
+  "country": "Switzerland",
+  "source_file": "content/jugs/BaselJUG.md",
+  "fetched_at": "2026-10-10T16:53:11+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://www.jug.ch/events/basel/"
+    }
+  ],
+  "events": [],
+  "status": "ok"
+}

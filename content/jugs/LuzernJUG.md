@@ -2,7 +2,7 @@
 name: "JUG CH Luzern"
 country: Switzerland
 website: https://www.jug.ch/
-calendar: https://www.jug.ch/events/
+calendar: https://www.jug.ch/events/luzern/
 location: 47.0502, 8.3093
 founded_date:
 email:
@@ -19,4 +19,5 @@ twitch:
 youtube:
 kktix:
 contact:
+event_list: content/jugs/LuzernJUG_events.json
 ---
