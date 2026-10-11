@@ -4,13 +4,40 @@
   "name": "JUG CH Bern",
   "country": "Switzerland",
   "source_file": "content/jugs/BernJUG.md",
-  "fetched_at": "2026-10-10T16:53:13+00:00",
+  "fetched_at": "2026-10-11T13:11:07+00:00",
   "sources": [
     {
       "kind": "calendar",
       "url": "https://www.jug.ch/events/bern/"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1029"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1041"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "uid": "1029@www.jug.ch",
+      "start": "2026-10-28T17:00:00+00:00",
+      "title": "jug.ch: Kill your Tests",
+      "url": "https://www.jug.ch/html/events/html/events/2026/kill-your-tests_be.ht",
+      "location": "ern (vatter Business Center\\, Bärenplatz 2\\, 3011 Bern\\, Raum ",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1029"
+    },
+    {
+      "uid": "1041@www.jug.ch",
+      "start": "2026-11-10T17:00:00+00:00",
+      "title": "jug.ch: Raft von Hand: Was zwischen dem Paper und einem produktiv",
+      "url": "https://www.jug.ch/html/events/html/events/2026/raft-von-hand.html",
+      "location": "ern (vatter Business Center\\, Bärenplatz 2\\, 3011 Bern\\, Raum ",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1041"
+    }
+  ],
   "status": "ok"
 }

@@ -4,7 +4,7 @@
   "name": "Java User Group Frankfurt (Main)",
   "country": "Germany",
   "source_file": "content/jugs/FrankfurtMainJUG.md",
-  "fetched_at": "2026-10-10T16:53:24+00:00",
+  "fetched_at": "2026-10-11T13:11:31+00:00",
   "sources": [
     {
       "kind": "calendar",
@@ -13,12 +13,30 @@
   ],
   "events": [
     {
+      "uid": "bgsjhk624a6var5nhs0lvq5sqg@google.com",
+      "start": "2012-04-17T16:30:00+00:00",
+      "title": "Continuous Architecture Management: Erkennen und Verhindern von Str",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2012-04-17T16:30:00+00:00",
       "uid": "bgsjhk624a6var5nhs0lvq5sqg@google.com",
       "location": "Frankfurt, Deutsche Nationalbibliothek",
       "title": "Continuous Architecture Management: Erkennen und Verhindern von Struktureller Erosion (Ingmar Kellner)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "h2fmpohpa9p5h0r0t7j5kdmm1s@google.com",
+      "start": "2012-04-17T16:30:00+00:00",
+      "title": "Continuous Architecture Management: Erkennen und Verhindern von Str",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2012-04-17T16:30:00+00:00",
@@ -29,12 +47,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "jjnklqi2tn4teifo03ifc6qsmk@google.com",
+      "start": "2012-04-25T16:30:00+00:00",
+      "title": "Debugging Swing applications with SwingExplorer (Maxim Zakharenkov)",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2012-04-25T16:30:00+00:00",
       "uid": "jjnklqi2tn4teifo03ifc6qsmk@google.com",
       "location": "Frankfurt, Deutsche Nationalbibliothek",
       "title": "Debugging Swing applications with SwingExplorer (Maxim Zakharenkov)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "vhpqmbk6qb16df4gvapeqk15o4@google.com",
+      "start": "2012-06-27T16:30:00+00:00",
+      "title": "DNB SuMa - Solr im Einsatz (Grote\\, Seidel\\, Jäkel)",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2012-06-27T16:30:00+00:00",
@@ -45,12 +81,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "h6ab7ugdk43iipc6lk415nclcs@google.com",
+      "start": "2012-09-26T16:30:00+00:00",
+      "title": "Neuerung bei Java 7 (Wolfgang Weigend)",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2012-09-26T16:30:00+00:00",
       "uid": "h6ab7ugdk43iipc6lk415nclcs@google.com",
       "location": "Frankfurt, Deutsche Nationalbibliothek",
       "title": "Neuerung bei Java 7 (Wolfgang Weigend)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "qn15ui3jdlgront1aik222af2s@google.com",
+      "start": "2012-10-31T17:30:00+00:00",
+      "title": "Xtend - Eine Sprache von Java Entwicklern für Java  Entwickler (Seb",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2012-10-31T17:30:00+00:00",
@@ -61,12 +115,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "98jeq90eif2qo8gvreb9k4mpas@google.com",
+      "start": "2012-11-07T17:30:00+00:00",
+      "title": "Mit DevOps Krusten aufbrechen und Durchlaufzeiten minimieren (Micha",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2012-11-07T17:30:00+00:00",
       "uid": "98jeq90eif2qo8gvreb9k4mpas@google.com",
       "location": "Frankfurt, Deutsche Nationalbibliothek",
       "title": "Mit DevOps Krusten aufbrechen und Durchlaufzeiten minimieren (Michael Hüttermann)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3om84f4j5iumpuj33b3d57vh9g@google.com",
+      "start": "2012-11-28T17:30:00+00:00",
+      "title": "eFX\\, JavaFX und RCP (Sven Reimers)",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2012-11-28T17:30:00+00:00",
@@ -77,12 +149,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "u6fagno305tkn8no892k5tak3o@google.com",
+      "start": "2012-12-19T17:30:00+00:00",
+      "title": "Showdown: Enterprise Service Bus vs. leichtgewichtiges Integrations",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2012-12-19T17:30:00+00:00",
       "uid": "u6fagno305tkn8no892k5tak3o@google.com",
       "location": "Frankfurt, Deutsche Nationalbibliothek",
       "title": "Showdown: Enterprise Service Bus vs. leichtgewichtiges Integrationsframework (Kai Wähner)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "r2g3j708mg76890v8knn50tcmg@google.com",
+      "start": "2013-01-30T17:30:00+00:00",
+      "title": "SOA als Migrationsarchitektur (Niko Köbler\\, Heiko Spindler)",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2013-01-30T17:30:00+00:00",
@@ -93,12 +183,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "1qkr67q6ttnr2457spq6nl4p8s@google.com",
+      "start": "2013-02-27T17:30:00+00:00",
+      "title": "Locks are bad... (Martin Kühnert)",
+      "url": "rankfurt\\, Deutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2013-02-27T17:30:00+00:00",
       "uid": "1qkr67q6ttnr2457spq6nl4p8s@google.com",
       "location": "Frankfurt, Deutsche Nationalbibliothek",
       "title": "Locks are bad... (Martin Kühnert)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "34261ltamihlu7hdgk8l4s0f0k@google.com",
+      "start": "2013-03-27T17:30:00+00:00",
+      "title": "In 60 Minuten von der Excel- zur JEE-Anwendung (Konstantin Diener)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2013-03-27T17:30:00+00:00",
@@ -109,12 +217,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0prhfdvr5b6di1hdl45rju4lvs@google.com",
+      "start": "2013-04-24T16:30:00+00:00",
+      "title": "Spring Data JPA - Repositories done right (Oliver Gierke)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2013-04-24T16:30:00+00:00",
       "uid": "0prhfdvr5b6di1hdl45rju4lvs@google.com",
       "location": "Deutsche Nationalbibliothek",
       "title": "Spring Data JPA - Repositories done right (Oliver Gierke)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "cf64uefudchsv8ba6tmfq2fjhg@google.com",
+      "start": "2013-05-29T16:30:00+00:00",
+      "title": "Projekt Culturegraph: Datenvernetzung im Kultursektor (Markus M. Ge",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2013-05-29T16:30:00+00:00",
@@ -125,12 +251,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "e5buvqeaq1j9fmpahck9rg3edk@google.com",
+      "start": "2013-06-26T16:30:00+00:00",
+      "title": "Schnelle und leichtgewichtige Anwendungsentwicklung mit HTML5 und J",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2013-06-26T16:30:00+00:00",
       "uid": "e5buvqeaq1j9fmpahck9rg3edk@google.com",
       "location": "Deutsche Nationalbibliothek",
       "title": "Schnelle und leichtgewichtige Anwendungsentwicklung mit HTML5 und JEE/REST (Alexander Schwartz)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "mi7tmida34mruj9b1cgj2f7pbc@google.com",
+      "start": "2013-07-31T16:30:00+00:00",
+      "title": "Fehlervermeidung in Java-Programmen durch generierte Constraint-Kla",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2013-07-31T16:30:00+00:00",
@@ -141,12 +285,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2aatgqbmiithchls8ec3o1jo1s@google.com",
+      "start": "2013-08-15T16:30:00+00:00",
+      "title": "Writing and testing high frequency trading systems in Java (Peter L",
+      "url": "oinor\\, Windmühlstraße 1\\, 60329 Frankfurt",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2013-08-15T16:30:00+00:00",
       "uid": "2aatgqbmiithchls8ec3o1jo1s@google.com",
       "location": "Coinor, Windmühlstraße 1, 60329 Frankfurt",
       "title": "Writing and testing high frequency trading systems in Java (Peter Lawrey, Vanilla Java)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "svosboohmv019rd138a8bmmk4c@google.com",
+      "start": "2013-08-28T16:30:00+00:00",
+      "title": "Continuous Updating  (Robert Reiz)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2013-08-28T16:30:00+00:00",
@@ -157,12 +319,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7c6u95nvbo7uojic4t2t906fbc@google.com",
+      "start": "2013-09-25T16:30:00+00:00",
+      "title": "MongoDB (Uwe Seiler)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2013-09-25T16:30:00+00:00",
       "uid": "7c6u95nvbo7uojic4t2t906fbc@google.com",
       "location": "Deutsche Nationalbibliothek",
       "title": "MongoDB (Uwe Seiler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "r902k2umq7eb90sq2q463d3v5c@google.com",
+      "start": "2013-10-30T17:30:00+00:00",
+      "title": "Continuous Test Server – kontinuierliche Fachtests (Konstantin Dien",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2013-10-30T17:30:00+00:00",
@@ -173,12 +353,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "fj2r3ljkoas6l9kahb016v5h74@google.com",
+      "start": "2013-11-13T17:30:00+00:00",
+      "title": "Devops@Runtime mit MoSKito (Leon Rosenberg)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2013-11-13T17:30:00+00:00",
       "uid": "fj2r3ljkoas6l9kahb016v5h74@google.com",
       "location": "Deutsche Nationalbibliothek",
       "title": "Devops@Runtime mit MoSKito (Leon Rosenberg)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "8dpb8ac5kqoi8pa2rj4c3d0s0k@google.com",
+      "start": "2013-11-27T17:30:00+00:00",
+      "title": "vert.x (Norman Maurer)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2013-11-27T17:30:00+00:00",
@@ -189,12 +387,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "4qdsj01d4gi8clui5ujbu74rq0@google.com",
+      "start": "2013-12-18T17:30:00+00:00",
+      "title": "Event Sourcing - eine alternative Architektur für Domain Driven Des",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2013-12-18T17:30:00+00:00",
       "uid": "4qdsj01d4gi8clui5ujbu74rq0@google.com",
       "location": "Deutsche Nationalbibliothek",
       "title": "Event Sourcing - eine alternative Architektur für Domain Driven Design (Benjamin Reitzammer / Johannes Seitz)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "39vh43nqnkile4m072l42bekvc@google.com",
+      "start": "2014-01-29T17:30:00+00:00",
+      "title": "Neo4j (Axel Morgner)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2014-01-29T17:30:00+00:00",
@@ -205,12 +421,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "m6ci0ul12a6o7b9v34qqrh9ba0@google.com",
+      "start": "2014-02-26T17:30:00+00:00",
+      "title": "Java 8 - Moving Java forward (Wolfgang Weigend)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2014-02-26T17:30:00+00:00",
       "uid": "m6ci0ul12a6o7b9v34qqrh9ba0@google.com",
       "location": "Deutsche Nationalbibliothek",
       "title": "Java 8 - Moving Java forward (Wolfgang Weigend)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "ncfs01ia4t987or7c589ok9924@google.com",
+      "start": "2014-03-26T17:30:00+00:00",
+      "title": "Java8-Lambdas/Streams/JSR335 (Martin Lehmann)",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2014-03-26T17:30:00+00:00",
@@ -221,6 +455,15 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "ca3ouepjcbvrr3a33rmb17ukv4@google.com",
+      "start": "2014-03-27T17:30:00+00:00",
+      "title": "NightHacking mit Stephen Chin (@steveonjava) in Darmstadt",
+      "url": "iloty-Gebäude (Gebäude S2|02) der TU-Darmstadt in Raum C110",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2014-03-27T17:30:00+00:00",
       "uid": "ca3ouepjcbvrr3a33rmb17ukv4@google.com",
       "location": "Piloty-Gebäude (Gebäude S2|02) der TU-Darmstadt in Raum C110",
@@ -229,11 +472,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "25idrn9les6t8t09vm1rokjgpg@google.com",
+      "start": "2014-04-30T16:30:00+00:00",
+      "title": "JSR 354 - Money and Currency API for Java - Anatole Tresch",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2014-04-30T16:30:00+00:00",
       "uid": "25idrn9les6t8t09vm1rokjgpg@google.com",
       "title": "JSR 354 - Money and Currency API for Java - Anatole Tresch",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "bsi7cvkisdk86vlsu6ajnnq6oo@google.com",
+      "start": "2014-05-28T16:30:00+00:00",
+      "title": " Tipps und Tricks zum Umgang mit Komplexität (Ingmar Kellner)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee\\, Frankfurt am Main\\, D",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2014-05-28T16:30:00+00:00",
@@ -244,12 +505,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "gftv5egseqojpt6fea3pgm4t1s@google.com",
+      "start": "2014-06-04T16:30:00+00:00",
+      "title": "Ceylon Introduction (Gavin King)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee\\, Frankfurt am Main\\, D",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2014-06-04T16:30:00+00:00",
       "uid": "gftv5egseqojpt6fea3pgm4t1s@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee, Frankfurt am Main, Deutschland",
       "title": "Ceylon Introduction (Gavin King)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "go88fhnra309quni5b4luvisho@google.com",
+      "start": "2014-06-25T16:30:00+00:00",
+      "title": "WildFly 8 - the artist formerly known as JBoss AS (Harald Pehl)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee\\, Frankfurt am Main\\, D",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2014-06-25T16:30:00+00:00",
@@ -260,12 +539,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "qo8mdev0emc40n0j4uc54pah00@google.com",
+      "start": "2014-07-16T16:30:00+00:00",
+      "title": "Caching in Business Anwendungen:  Hintergründe\\, Patterns und Best ",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee\\, Frankfurt am Main\\, D",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2014-07-16T16:30:00+00:00",
       "uid": "qo8mdev0emc40n0j4uc54pah00@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee, Frankfurt am Main, Deutschland",
       "title": "Caching in Business Anwendungen:  Hintergründe, Patterns und Best Practices (Michael Plöd)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "43sbign8euneto079phbork904@google.com",
+      "start": "2014-09-24T16:30:00+00:00",
+      "title": "Fehler und Latenzen in verteilten Systemen vermeiden mit Hystrix (A",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee\\, Frankfurt am Main\\, D",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2014-09-24T16:30:00+00:00",
@@ -276,12 +573,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "54nca0mt8pqjn5v8e1qi3bgce0@google.com",
+      "start": "2014-10-29T17:30:00+00:00",
+      "title": "Project Avatar: more than just Node.js on the JVM -   Enterprise Ja",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, Frankfurt am Main\\,",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2014-10-29T17:30:00+00:00",
       "uid": "54nca0mt8pqjn5v8e1qi3bgce0@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, Frankfurt am Main, Deutschland",
       "title": "Project Avatar: more than just Node.js on the JVM -   Enterprise Java written in JavaScript (Niko Köbler, Heiko Spindler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "arasjdit255eavvo2vgip3br0s@google.com",
+      "start": "2014-11-26T17:30:00+00:00",
+      "title": "IoT und das SmartHome (Kai Kreuzer)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, Frankfurt am Main\\,",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2014-11-26T17:30:00+00:00",
@@ -292,12 +607,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "t7cchtr5c61aujb8p8flrmqhi4@google.com",
+      "start": "2014-12-17T17:30:00+00:00",
+      "title": "Freestyle JHipster",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, Frankfurt am Main\\,",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2014-12-17T17:30:00+00:00",
       "uid": "t7cchtr5c61aujb8p8flrmqhi4@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, Frankfurt am Main, Deutschland",
       "title": "Freestyle JHipster",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "66crn4mmfd444va1b92b0gr42k@google.com",
+      "start": "2015-01-17T07:30:00+00:00",
+      "title": "The Ultimate Tic Tac Toe Challenge",
+      "url": "armstadt\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-01-17T07:30:00+00:00",
@@ -308,12 +641,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "qen2j02uec0dndhaatd0ne9k3c@google.com",
+      "start": "2015-01-28T17:30:00+00:00",
+      "title": "Softwarearchitektur im Wandel (Kai Broszat)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-01-28T17:30:00+00:00",
       "uid": "qen2j02uec0dndhaatd0ne9k3c@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Softwarearchitektur im Wandel (Kai Broszat)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "43f2d33emdfv69pobdpjlpbgcs@google.com",
+      "start": "2015-02-25T17:30:00+00:00",
+      "title": "Architekturanalysen für Migration und Weiterentwicklung: Wie Sie Ih",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-02-25T17:30:00+00:00",
@@ -324,12 +675,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "72krifl4m2tcoefrvhol47tq68@google.com",
+      "start": "2015-02-25T17:30:00+00:00",
+      "title": "Architekturanalysen für Migration und Weiterentwicklung: Wie Sie Ih",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-02-25T17:30:00+00:00",
       "uid": "72krifl4m2tcoefrvhol47tq68@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Architekturanalysen für Migration und Weiterentwicklung: Wie Sie Ihr Altsystem wieder auf Spur bringen (Manuel Borg)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "h8k3bcl5u4j3v9858sna5dmvtc@google.com",
+      "start": "2015-02-25T17:30:00+00:00",
+      "title": "Architekturanalysen für Migration und Weiterentwicklung: Wie Sie Ih",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-02-25T17:30:00+00:00",
@@ -340,12 +709,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "or88r19qbjip02joikt9d4blhc@google.com",
+      "start": "2015-02-25T17:30:00+00:00",
+      "title": "Architekturanalysen für Migration und Weiterentwicklung: Wie Sie Ih",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-02-25T17:30:00+00:00",
       "uid": "or88r19qbjip02joikt9d4blhc@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Architekturanalysen für Migration und Weiterentwicklung: Wie Sie Ihr Altsystem wieder auf Spur bringen (Manuel Borg)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "planncifdn3ejs730ts6kib0pg@google.com",
+      "start": "2015-03-25T17:30:00+00:00",
+      "title": "Errai - The browser as a platform (Harald Pehl)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-03-25T17:30:00+00:00",
@@ -356,12 +743,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "ccn5ogdf8v2toh5cic7u41538g@google.com",
+      "start": "2015-04-29T16:30:00+00:00",
+      "title": "Das ist kein Spielzeug! Das Play!-Framework und Akka für reaktive u",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-04-29T16:30:00+00:00",
       "uid": "ccn5ogdf8v2toh5cic7u41538g@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Das ist kein Spielzeug! Das Play!-Framework und Akka für reaktive und skalierbare Web-Anwendungen (Martin Lehmann und Rüdiger Grammes)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "l776l8ujim7cc4u739sbv9guuc@google.com",
+      "start": "2015-05-27T16:30:00+00:00",
+      "title": "Built to last - Prinzipien für nachhaltige Softwarearchitekturen (F",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-05-27T16:30:00+00:00",
@@ -372,12 +777,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "a8t0kescg1ga6h3i55umiekurs@google.com",
+      "start": "2015-06-24T16:30:00+00:00",
+      "title": "Continuous Loadtesting mit Gatling (Jochen Mader)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-06-24T16:30:00+00:00",
       "uid": "a8t0kescg1ga6h3i55umiekurs@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Continuous Loadtesting mit Gatling (Jochen Mader)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "b9df439v2t5rp3u85398uuj5b0@google.com",
+      "start": "2015-07-29T16:30:00+00:00",
+      "title": "Caching mit Hibernate (Michael Plöd)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-07-29T16:30:00+00:00",
@@ -388,12 +811,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "fspipi8igh45jap9627v2uifgs@google.com",
+      "start": "2015-08-26T16:30:00+00:00",
+      "title": "Bean-Test - Java EE Anwendungen mit CDI testen (Qaiser Abbasi / Flo",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-08-26T16:30:00+00:00",
       "uid": "fspipi8igh45jap9627v2uifgs@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Bean-Test - Java EE Anwendungen mit CDI testen (Qaiser Abbasi / Florian Fladung)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "i7hijoi79dm1ao6mp6mc8nnvs0@google.com",
+      "start": "2015-09-30T16:30:00+00:00",
+      "title": "UnitTests und testbarer Code (Thomas Papendieck)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-09-30T16:30:00+00:00",
@@ -404,12 +845,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "o4or9shd4rmt09rkt7kh2lrtok@google.com",
+      "start": "2015-10-20T16:30:00+00:00",
+      "title": "50 minutes to develop a full Java EE application with Forge? Is tha",
+      "url": "odecentric\\, Kreuznacher Straße 30\\, 60486 Frankfurt am Main\\, De",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-10-20T16:30:00+00:00",
       "uid": "o4or9shd4rmt09rkt7kh2lrtok@google.com",
       "location": "codecentric, Kreuznacher Straße 30, 60486 Frankfurt am Main, Deutschland",
       "title": "50 minutes to develop a full Java EE application with Forge? Is that all? (Antonio Goncalves)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "ieab9bvhnkgk5m8lr7el26ki6c@google.com",
+      "start": "2015-10-28T17:30:00+00:00",
+      "title": "Focus on your Features - Dropwizard takes care of the REST (Felix B",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-10-28T17:30:00+00:00",
@@ -420,12 +879,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "m81dk8plvun6pboupumrkvh238@google.com",
+      "start": "2015-11-25T17:30:00+00:00",
+      "title": "Rock-Solid JEE (Sebastian Hennebrüder)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-11-25T17:30:00+00:00",
       "uid": "m81dk8plvun6pboupumrkvh238@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Rock-Solid JEE (Sebastian Hennebrüder)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "qubil0uiejobacaaa6vs8ak97k@google.com",
+      "start": "2015-12-16T17:30:00+00:00",
+      "title": "Performanceanalyse mit inspectIT (Mario Mann)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-12-16T17:30:00+00:00",
@@ -436,12 +913,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "oer317rre4js2r7garkgjphtps@google.com",
+      "start": "2016-01-27T17:30:00+00:00",
+      "title": "Fürs Karma: Konfiguration zur Laufzeit (Alexander Schwartz)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-01-27T17:30:00+00:00",
       "uid": "oer317rre4js2r7garkgjphtps@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Fürs Karma: Konfiguration zur Laufzeit (Alexander Schwartz)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "iup545oq08hp6obpo22gt5io98@google.com",
+      "start": "2016-02-24T17:30:00+00:00",
+      "title": "Lass die Affen testen - Das Ende der Bananensoftware (Dr. Jeremias ",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-02-24T17:30:00+00:00",
@@ -452,12 +947,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "d1nen9ettr55nadinocg0a3v88@google.com",
+      "start": "2016-03-30T16:30:00+00:00",
+      "title": "JDK 9 und die modulare Plattform Jigsaw (Wolfgang Weigend)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-03-30T16:30:00+00:00",
       "uid": "d1nen9ettr55nadinocg0a3v88@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "JDK 9 und die modulare Plattform Jigsaw (Wolfgang Weigend)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "bfc9sv1qmogks1dm733qqrf6n4@google.com",
+      "start": "2016-04-20T17:00:00+00:00",
+      "title": "Apache Software Foundation Roadshow",
+      "url": "odecentric\\, Kreuznacher Str. 30\\, 60486 Frankfurt am Main\\, Deut",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-04-20T17:00:00+00:00",
@@ -468,12 +981,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "s1j0u797qotnsmpq2jaa75h0m0@google.com",
+      "start": "2016-04-27T16:30:00+00:00",
+      "title": "So viel Zeit muss sein - Warum sich der Umstieg auf die neue Date T",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-04-27T16:30:00+00:00",
       "uid": "s1j0u797qotnsmpq2jaa75h0m0@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "So viel Zeit muss sein - Warum sich der Umstieg auf die neue Date Time API in Java 8 lohnt (Jens-Hagen Syrbe)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "vf8rsphbokdcqthhs1q5b4rfd4@google.com",
+      "start": "2016-05-25T16:30:00+00:00",
+      "title": "Interaktive Einführung in In-Memory Computing with Hazelcast (Chris",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-05-25T16:30:00+00:00",
@@ -484,12 +1015,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "cnfptbuk38qf60nl0dhhuakfk0@google.com",
+      "start": "2016-06-29T16:30:00+00:00",
+      "title": "NoSQL in transaktionalen Enterpriseszenarien (Christian Dedek)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-06-29T16:30:00+00:00",
       "uid": "cnfptbuk38qf60nl0dhhuakfk0@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "NoSQL in transaktionalen Enterpriseszenarien (Christian Dedek)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "lrtrac169itrrh962kpietvdl8@google.com",
+      "start": "2016-07-27T16:30:00+00:00",
+      "title": "Project Lombok Internals (Walery Strauch)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-07-27T16:30:00+00:00",
@@ -500,12 +1049,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "1ano1ros9spr605hhe8mg6druo@google.com",
+      "start": "2016-08-31T16:30:00+00:00",
+      "title": "Named Queries Strike Back - Director's Cut (Mario Vöhl)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-08-31T16:30:00+00:00",
       "uid": "1ano1ros9spr605hhe8mg6druo@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Named Queries Strike Back - Director's Cut (Mario Vöhl)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "lqd8q8305t20m457l8fj3l315k@google.com",
+      "start": "2016-09-14T15:00:00+00:00",
+      "title": "TDD by example (Thomas Papendieck / Ort: Codecentric)",
+      "url": "odecentric\\, Kreuznacher Str. 30\\, 60486 Frankfurt am Main\\, Deut",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-09-14T15:00:00+00:00",
@@ -516,12 +1083,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "rih32vvi06ehmkq178r9jeh7ek@google.com",
+      "start": "2016-09-28T16:30:00+00:00",
+      "title": "Und Action... Web-Anwendungen mit MVC (JSR-371) (Thilo Frotscher)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-09-28T16:30:00+00:00",
       "uid": "rih32vvi06ehmkq178r9jeh7ek@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Und Action... Web-Anwendungen mit MVC (JSR-371) (Thilo Frotscher)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "avsonrfc46bd5e9dh05heqqehs@google.com",
+      "start": "2016-10-26T16:30:00+00:00",
+      "title": "Continuous Delivery of Continuous Delivery (Gerd Aschemann)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-10-26T16:30:00+00:00",
@@ -532,12 +1117,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "dqbv9cf76umgr6rlvhv27od5kc@google.com",
+      "start": "2016-10-26T16:30:00+00:00",
+      "title": "Continuous Delivery of Continuous Delivery (Gerd Aschemann)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-10-26T16:30:00+00:00",
       "uid": "dqbv9cf76umgr6rlvhv27od5kc@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Continuous Delivery of Continuous Delivery (Gerd Aschemann)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "7bchvqtcmnrf4g2cj4db1lajqc@google.com",
+      "start": "2016-11-30T17:30:00+00:00",
+      "title": " How to Apply Big Data Analytics and Machine Learning to Real Time ",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-11-30T17:30:00+00:00",
@@ -548,12 +1151,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7supbmnq3vb1mehor7ksk7ep2s@google.com",
+      "start": "2016-12-21T17:30:00+00:00",
+      "title": "Ein Geduldsspiel! Das 1000-Module-Puzzle für Entwickler - Das neue ",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-12-21T17:30:00+00:00",
       "uid": "7supbmnq3vb1mehor7ksk7ep2s@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Ein Geduldsspiel! Das 1000-Module-Puzzle für Entwickler - Das neue Modulsystem Jigsaw in Java 9",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0bqle82n5gc6qc6kotqbdapq70@google.com",
+      "start": "2017-01-25T17:30:00+00:00",
+      "title": "Weniger ist mehr! - Serverless Cloud Architectures (Niko Köbler)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-01-25T17:30:00+00:00",
@@ -564,12 +1185,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "ut08fnph85ij14d7mbdn2842h8@google.com",
+      "start": "2017-01-25T17:30:00+00:00",
+      "title": "Weniger ist mehr! - Serverless Cloud Architectures (Niko Köbler)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-01-25T17:30:00+00:00",
       "uid": "ut08fnph85ij14d7mbdn2842h8@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Weniger ist mehr! - Serverless Cloud Architectures (Niko Köbler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3e3md9qapk32d88ttho5mh3i1c@google.com",
+      "start": "2017-03-29T16:30:00+00:00",
+      "title": "Unittests - aber richtig! (Thomas Papendieck)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-03-29T16:30:00+00:00",
@@ -580,12 +1219,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "3s6bp61umadnesvlu27s2bn06c@google.com",
+      "start": "2017-04-26T16:30:00+00:00",
+      "title": "Container orchestration on Mesos - DC/OS für Java-Entwickler (Jörg ",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-04-26T16:30:00+00:00",
       "uid": "3s6bp61umadnesvlu27s2bn06c@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Container orchestration on Mesos - DC/OS für Java-Entwickler (Jörg Schad, Johannes Unterstein)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "30cu2cl7sko8empk8bckuanpl0@google.com",
+      "start": "2017-05-31T16:30:00+00:00",
+      "title": "Schnelles Denken - Maschinelles Lernen mit Apache Spark 2 und Java ",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-05-31T16:30:00+00:00",
@@ -596,12 +1253,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "8a0nju8kn8udhj0e8p8h3gv6rg@google.com",
+      "start": "2017-05-31T16:30:00+00:00",
+      "title": "Schnelles Denken - Maschinelles Lernen mit Apache Spark 2 und Java ",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-05-31T16:30:00+00:00",
       "uid": "8a0nju8kn8udhj0e8p8h3gv6rg@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Schnelles Denken - Maschinelles Lernen mit Apache Spark 2 und Java 8 (Heiko Spindler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "8pksn1pmjrj8ih5qi339nan448@google.com",
+      "start": "2017-06-28T16:30:00+00:00",
+      "title": "Code Quality in Practice (Thorsten Maier)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-06-28T16:30:00+00:00",
@@ -612,12 +1287,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2fkhn962b6smmkqbn3qpa0ejes@google.com",
+      "start": "2017-07-26T16:30:00+00:00",
+      "title": "Einführung in Kotlin (Alexander Hanschke)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-07-26T16:30:00+00:00",
       "uid": "2fkhn962b6smmkqbn3qpa0ejes@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Einführung in Kotlin (Alexander Hanschke)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "ef5mkel5ojsm131fjm4nq6nt3o@google.com",
+      "start": "2017-08-30T16:30:00+00:00",
+      "title": "git effective (Thomas Papendieck)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-08-30T16:30:00+00:00",
@@ -628,12 +1321,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6k9v3a6oh5v2i181hhgjssn837@google.com",
+      "start": "2017-09-27T16:30:00+00:00",
+      "title": "Orchestrierung von Microservices (Bernd Rücker)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-09-27T16:30:00+00:00",
       "uid": "6k9v3a6oh5v2i181hhgjssn837@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Orchestrierung von Microservices (Bernd Rücker)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1jc8e58qttgnmchpko5tfladed@google.com",
+      "start": "2017-10-25T16:30:00+00:00",
+      "title": "TDLCR - Test Driven Legacy Code Refactoring (Falk Sippach)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-10-25T16:30:00+00:00",
@@ -644,12 +1355,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0pjhqf1m948129r2s4s2lr9e6g@google.com",
+      "start": "2017-11-29T17:30:00+00:00",
+      "title": "Logs mit Kontext - Log4j im Zusammenspiel mit Zipkin und Spring Sle",
+      "url": "eutsche Nationalbibliothek",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-11-29T17:30:00+00:00",
       "uid": "0pjhqf1m948129r2s4s2lr9e6g@google.com",
       "location": "Deutsche Nationalbibliothek",
       "title": "Logs mit Kontext - Log4j im Zusammenspiel mit Zipkin und Spring Sleuth (Alexander Schwartz)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "72dfn3i9h7o638vmcq0f4kecei@google.com",
+      "start": "2017-12-20T17:30:00+00:00",
+      "title": "Funktionale Programmierung mit Vavr und Resilience4j (Robert Winkle",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-12-20T17:30:00+00:00",
@@ -660,12 +1389,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6h6lum5fa1utrdpk0dh2ardq34@google.com",
+      "start": "2018-01-31T17:30:00+00:00",
+      "title": "Microservices Theorie und Praxis\\, ein Erfahrungsaustausch (Gernot ",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-01-31T17:30:00+00:00",
       "uid": "6h6lum5fa1utrdpk0dh2ardq34@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Microservices Theorie und Praxis, ein Erfahrungsaustausch (Gernot Schulmeister)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1cul0phm4n9e25unqmmsplnoj5@google.com",
+      "start": "2018-02-28T17:30:00+00:00",
+      "title": "Real Life REST (Michael Vitz)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-02-28T17:30:00+00:00",
@@ -676,12 +1423,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2nspake8bh2vspbs2ohe8ki12d@google.com",
+      "start": "2018-03-28T16:30:00+00:00",
+      "title": "Property-based testing: You won't look at your tests the same way e",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-03-28T16:30:00+00:00",
       "uid": "2nspake8bh2vspbs2ohe8ki12d@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Property-based testing: You won't look at your tests the same way ever again (Jan Stępień)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5jmq0m7eaia5km2298e6he35h0@google.com",
+      "start": "2018-04-25T16:30:00+00:00",
+      "title": "Blockchain jenseits von Bitcoin und Trading (Alexander Culum)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-04-25T16:30:00+00:00",
@@ -692,12 +1457,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5kuivao32hau4grh5vjpr780v2@google.com",
+      "start": "2018-05-30T16:30:00+00:00",
+      "title": "Bridging the Divide between Architecture and Code (Chris Chedgey)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-05-30T16:30:00+00:00",
       "uid": "5kuivao32hau4grh5vjpr780v2@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Bridging the Divide between Architecture and Code (Chris Chedgey)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "55t1r4a89bu99oerll1l4dr6n1@google.com",
+      "start": "2018-06-27T16:30:00+00:00",
+      "title": "JUnit 5 - Die Plattform (Johannes Link)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-06-27T16:30:00+00:00",
@@ -708,12 +1491,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0qm06gh8ti9mvt5lepm89nldq4@google.com",
+      "start": "2018-08-29T16:30:00+00:00",
+      "title": "Docs-as-Code\\, arc42\\, AsciiDoc\\, Gradle & Co. im Einsatz (Ralf Mül",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-08-29T16:30:00+00:00",
       "uid": "0qm06gh8ti9mvt5lepm89nldq4@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Docs-as-Code, arc42, AsciiDoc, Gradle & Co. im Einsatz (Ralf Müller)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "69127hr4jj9ep5nf7okttsqjj1@google.com",
+      "start": "2018-09-26T16:30:00+00:00",
+      "title": "OAuth 2.0: Mehr als Feenstaub der die Sicherheit bringt (Martin Fun",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-09-26T16:30:00+00:00",
@@ -724,12 +1525,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0l9krc32mampdkh23493mpoqt8@google.com",
+      "start": "2018-10-17T16:00:00+00:00",
+      "title": "Pivotal+Microsoft JUG Tour 2018",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-10-17T16:00:00+00:00",
       "uid": "0l9krc32mampdkh23493mpoqt8@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Pivotal+Microsoft JUG Tour 2018",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "51cceshhf4loe16dofgbdo4c51@google.com",
+      "start": "2018-11-07T17:30:00+00:00",
+      "title": "Microservices and OSGi - what's the difference (Achim Nierbeck)",
+      "url": "odecentric\\, Kreuznacher Str. 30\\, 60486 Frankfurt am Main\\, Deut",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-11-07T17:30:00+00:00",
@@ -740,12 +1559,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "22bi9kqoj7nr07fq1lhheqmrom@google.com",
+      "start": "2018-11-28T17:30:00+00:00",
+      "title": "Full-Stack Self-Contained Microservices Development with JHipster (",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-11-28T17:30:00+00:00",
       "uid": "22bi9kqoj7nr07fq1lhheqmrom@google.com",
       "location": "Deutsche Nationalbibliothek, 60318 Frankfurt am Main, Deutschland",
       "title": "Full-Stack Self-Contained Microservices Development with JHipster (Harjeet Singh)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1svuj1qqnl0q3ipnr68nou4msr@google.com",
+      "start": "2018-12-19T17:30:00+00:00",
+      "title": "Jenkins X - Continuously Driving the Kloud (Gerd Aschemann)",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-12-19T17:30:00+00:00",
@@ -756,11 +1593,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "016drog4lc5183k0eemo23ue91@google.com",
+      "start": "2019-01-30T17:30:00+00:00",
+      "title": "It's a JDK jungle out there - oder wie es mit den neuen   Java-Vers",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-01-30T17:30:00+00:00",
       "uid": "016drog4lc5183k0eemo23ue91@google.com",
       "title": "It's a JDK jungle out there - oder wie es mit den neuen   Java-Versionen geordnet weitergeht (Wolfgang Weigend)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "17vraqd3hpp5n6fj8ihbeqpvu5@google.com",
+      "start": "2019-02-27T17:30:00+00:00",
+      "title": "Spring Boot: Die Autoconfiguration endlich verständlich - mit Live ",
+      "url": "eutsche Nationalbibliothek\\, 60318 Frankfurt am Main\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-02-27T17:30:00+00:00",
@@ -771,6 +1626,15 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "574fqrj41bfejq1k2pacnqlqem@google.com",
+      "start": "2019-03-27T17:30:00+00:00",
+      "title": "Flow-basierte Programmierung mit Structr und Neo4j (Axel Morgner)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-03-27T17:30:00+00:00",
       "uid": "574fqrj41bfejq1k2pacnqlqem@google.com",
       "title": "Flow-basierte Programmierung mit Structr und Neo4j (Axel Morgner)",
@@ -778,11 +1642,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "3miqsvmr4r3q59ngn7g7e8ug66@google.com",
+      "start": "2019-04-24T16:30:00+00:00",
+      "title": "Let's Talk About Sex: Breeding Programs with Evolution -   Machine ",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-04-24T16:30:00+00:00",
       "uid": "3miqsvmr4r3q59ngn7g7e8ug66@google.com",
       "title": "Let's Talk About Sex: Breeding Programs with Evolution -   Machine Learning 2.0 (Heiko Spindler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0pi7kbf5gjegk1lf3h96rmvk55@google.com",
+      "start": "2019-05-29T16:30:00+00:00",
+      "title": "Sie brauchen doch gar keine Microservices (... oder?) (Martin Lehma",
+      "url": "nterschied & Macher GmbH\\, Stuttgarter Str. 25\\, 60329 Frankfurt ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-05-29T16:30:00+00:00",
@@ -793,12 +1675,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "69f6qb9dfuffbu9841orjb3k2p@google.com",
+      "start": "2019-06-26T16:30:00+00:00",
+      "title": "Ad Astra - Cloud Native Microservices mit Micronaut (Michael Hunger",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-06-26T16:30:00+00:00",
       "uid": "69f6qb9dfuffbu9841orjb3k2p@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Ad Astra - Cloud Native Microservices mit Micronaut (Michael Hunger)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5ne882v7d6s8im0nshpjt5i14t@google.com",
+      "start": "2019-07-31T16:30:00+00:00",
+      "title": "Java in the Age of Containers and Serverless (Markus Eisele)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-07-31T16:30:00+00:00",
@@ -809,12 +1709,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6js5lj7utch040p416esheiv2r@google.com",
+      "start": "2019-08-28T16:30:00+00:00",
+      "title": "Werkzeuge für wartbaren und fehlerarmen Code (Alexander Schwartz)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-08-28T16:30:00+00:00",
       "uid": "6js5lj7utch040p416esheiv2r@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Werkzeuge für wartbaren und fehlerarmen Code (Alexander Schwartz)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6832pdj3rlpjnvcbtdm1k85i9f@google.com",
+      "start": "2019-09-25T16:30:00+00:00",
+      "title": "Quarkus: Supersonic\\, Subatomic Java (Harald Pehl)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-09-25T16:30:00+00:00",
@@ -825,12 +1743,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6jengcoabb5dpt5cn4vr31kl99@google.com",
+      "start": "2019-10-30T17:30:00+00:00",
+      "title": "Refactoring mit der Mikado-Methode (Falk Sippack)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-10-30T17:30:00+00:00",
       "uid": "6jengcoabb5dpt5cn4vr31kl99@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "Refactoring mit der Mikado-Methode (Falk Sippack)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "048t48c2vn967ei85dm82sb3sn@google.com",
+      "start": "2019-11-27T17:30:00+00:00",
+      "title": "Java Next - New Releases\\, Amber\\, Valhalla\\, and More Goodies (Nic",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-11-27T17:30:00+00:00",
@@ -841,12 +1777,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7kq9rknb9junop0r2mlqmkb2ld@google.com",
+      "start": "2019-12-18T17:30:00+00:00",
+      "title": "10 Jahre JUGF: was bleibt\\, was wird anders?",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-12-18T17:30:00+00:00",
       "uid": "7kq9rknb9junop0r2mlqmkb2ld@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "10 Jahre JUGF: was bleibt, was wird anders?",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "7j3j98jpsb4lrt5q41r26d3hpu@google.com",
+      "start": "2020-01-29T17:30:00+00:00",
+      "title": "Komplexes verständlich machen und wirkungsvoll kommunizieren im tec",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2020-01-29T17:30:00+00:00",
@@ -857,12 +1811,30 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "61d9o7hv40ncvb8vgi1ffa7ao2@google.com",
+      "start": "2020-02-26T17:30:00+00:00",
+      "title": "JDK 13 und GraalVM im Java Ökosystem (Wolfgang Weigend)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2020-02-26T17:30:00+00:00",
       "uid": "61d9o7hv40ncvb8vgi1ffa7ao2@google.com",
       "location": "Deutsche Nationalbibliothek, Adickesallee 1, 60322 Frankfurt am Main, Deutschland",
       "title": "JDK 13 und GraalVM im Java Ökosystem (Wolfgang Weigend)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "62guck1ukm6o506hbf0c7vomv6@google.com",
+      "start": "2020-03-25T17:30:00+00:00",
+      "title": "ENTFÄLLT: Java After Eight (Nicolai Parlog)",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2020-03-25T17:30:00+00:00",
@@ -873,11 +1845,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5vkj2i54rkmqk7gnp5hs3ta8jn@google.com",
+      "start": "2020-09-30T16:30:00+00:00",
+      "title": "Just-in-Time-Patching Java Applications (Jan Müller)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2020-09-30T16:30:00+00:00",
       "uid": "5vkj2i54rkmqk7gnp5hs3ta8jn@google.com",
       "title": "Just-in-Time-Patching Java Applications (Jan Müller)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3p2rf34pg72hne5gt3q5077dcb@google.com",
+      "start": "2020-11-25T17:30:00+00:00",
+      "title": "Ultraschnelle Java In-Memory Datenbankanwendungen mit MicroStream (",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2020-11-25T17:30:00+00:00",
@@ -887,11 +1877,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7ksgdfh5qrkh3m2bj190op83i7@google.com",
+      "start": "2020-12-16T17:30:00+00:00",
+      "title": "Open Application Model: Wie baut man eine Application-Centric-Platf",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2020-12-16T17:30:00+00:00",
       "uid": "7ksgdfh5qrkh3m2bj190op83i7@google.com",
       "title": "Open Application Model: Wie baut man eine Application-Centric-Platform? (Mazda Fahandezh Saadi)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "571doc29uadenvrp28uuetkcdk@google.com",
+      "start": "2021-01-27T17:30:00+00:00",
+      "title": "Das Java Quiz - Was ihr schon immer über Java wußtet\\, aber euch ni",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2021-01-27T17:30:00+00:00",
@@ -901,11 +1909,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2smf4h7pq7pdslfad8hvid3mds@google.com",
+      "start": "2021-02-24T17:30:00+00:00",
+      "title": "Blockchain Indizierung mit Apache Storm (Maximilian Schmidt)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2021-02-24T17:30:00+00:00",
       "uid": "2smf4h7pq7pdslfad8hvid3mds@google.com",
       "title": "Blockchain Indizierung mit Apache Storm (Maximilian Schmidt)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "46fgi8j4j7pa44gl2d669rduvt@google.com",
+      "start": "2021-03-31T16:30:00+00:00",
+      "title": "Resilient Software Design Patterns (Thorsten Maier)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2021-03-31T16:30:00+00:00",
@@ -915,11 +1941,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7g6aiv3p77bd85csqpl2rqioll@google.com",
+      "start": "2021-04-29T16:30:00+00:00",
+      "title": "Wie gut kennst du das Collections Framework? (Thilo Frotscher)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2021-04-29T16:30:00+00:00",
       "uid": "7g6aiv3p77bd85csqpl2rqioll@google.com",
       "title": "Wie gut kennst du das Collections Framework? (Thilo Frotscher)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0t56h4r0dgjamk409cerpoejl2@google.com",
+      "start": "2021-05-26T16:30:00+00:00",
+      "title": "GraalVM 21 Feature Update der universellen VM (Wolfgang Weigend)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2021-05-26T16:30:00+00:00",
@@ -929,11 +1973,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2brd96529mj1a17kg19hmt0f9u@google.com",
+      "start": "2021-06-16T16:30:00+00:00",
+      "title": "Why Don't They Just...?! The Deliberations Behind Evolving Java (Ni",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2021-06-16T16:30:00+00:00",
       "uid": "2brd96529mj1a17kg19hmt0f9u@google.com",
       "title": "Why Don't They Just...?! The Deliberations Behind Evolving Java (Nicolai Parlog)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5v474ar4maql5bdj74vc4au2t4@google.com",
+      "start": "2021-06-30T16:30:00+00:00",
+      "title": "Die GraalVM ist ein polyglotter native Speaker (Dr. Rüdiger Grammes",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2021-06-30T16:30:00+00:00",
@@ -943,11 +2005,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5gti2a3n2lbjvatl9cs6j89h0s@google.com",
+      "start": "2021-07-28T16:30:00+00:00",
+      "title": "API-first Ansatz: Moderne Architekturen für Open Banking APIs",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2021-07-28T16:30:00+00:00",
       "uid": "5gti2a3n2lbjvatl9cs6j89h0s@google.com",
       "title": "API-first Ansatz: Moderne Architekturen für Open Banking APIs",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "70357pe98ahufen5mieh4i0t2q@google.com",
+      "start": "2021-08-25T16:30:00+00:00",
+      "title": "MicroStream: High-Performance Java Persistence in Real-World Anwend",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2021-08-25T16:30:00+00:00",
@@ -957,11 +2037,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2s0frlmh9a1qn11e2dtanjmq41@google.com",
+      "start": "2021-09-29T16:30:00+00:00",
+      "title": "Den eigenen Code sprechen lassen mit Java Text-to-Speech (Pascal Mo",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2021-09-29T16:30:00+00:00",
       "uid": "2s0frlmh9a1qn11e2dtanjmq41@google.com",
       "title": "Den eigenen Code sprechen lassen mit Java Text-to-Speech (Pascal Moll)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "40l2japivmipdn3f8pgq6grtdc@google.com",
+      "start": "2021-10-27T16:30:00+00:00",
+      "title": "Extending Exasol with Java (Sebastian Bär)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2021-10-27T16:30:00+00:00",
@@ -972,11 +2070,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7rj0cn6i9adf5ppni8d6lda8q4@google.com",
+      "start": "2021-11-24T17:30:00+00:00",
+      "title": "Property-based Testing mit Java (Johannes Link)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2021-11-24T17:30:00+00:00",
       "uid": "7rj0cn6i9adf5ppni8d6lda8q4@google.com",
       "title": "Property-based Testing mit Java (Johannes Link)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "14729d1kklegq4umj84ee388q2@google.com",
+      "start": "2021-12-22T17:30:00+00:00",
+      "title": "Kubernetes Murder Mystery (Alexander Schwartz)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2021-12-22T17:30:00+00:00",
@@ -986,11 +2102,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "3kli1lcf64aqkk3fr8ip7f5lml@google.com",
+      "start": "2022-01-26T18:00:00+00:00",
+      "title": "Hands-on mit Quarkus (Thilo Frotscher)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-01-26T18:00:00+00:00",
       "uid": "3kli1lcf64aqkk3fr8ip7f5lml@google.com",
       "title": "Hands-on mit Quarkus (Thilo Frotscher)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1e8de91gg5c1tk06juehgh9m3v@google.com",
+      "start": "2022-02-23T17:30:00+00:00",
+      "title": "Infrastructure as Code – Korrektheit beweisen statt testen (Gerd As",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2022-02-23T17:30:00+00:00",
@@ -1000,11 +2134,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "03aa4ocg72o4gt78jkdkorh25i@google.com",
+      "start": "2022-03-30T16:30:00+00:00",
+      "title": "Easy-Rider: Unit-Tests für datengetriebene Komponenten mit DB-Rider",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-03-30T16:30:00+00:00",
       "uid": "03aa4ocg72o4gt78jkdkorh25i@google.com",
       "title": "Easy-Rider: Unit-Tests für datengetriebene Komponenten mit DB-Rider (Heiko Spindler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1nhsbpedchbjklen64sn2f0k2k@google.com",
+      "start": "2022-04-27T16:30:00+00:00",
+      "title": "Domain Driven Design für Dummies (Falk Sippach)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2022-04-27T16:30:00+00:00",
@@ -1014,11 +2166,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6ua1tugtil3pon8n6lvri03rrk@google.com",
+      "start": "2022-05-25T16:30:00+00:00",
+      "title": "DDD und hexagonale Architektur in der Bank (Andreas Konrad)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-05-25T16:30:00+00:00",
       "uid": "6ua1tugtil3pon8n6lvri03rrk@google.com",
       "title": "DDD und hexagonale Architektur in der Bank (Andreas Konrad)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1og5eb7qguhfq4t8rab4nuocvl@google.com",
+      "start": "2022-07-11T16:30:00+00:00",
+      "title": "Architekturexplizite Java-Applikationen mit jMolecules (Oliver Drot",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2022-07-11T16:30:00+00:00",
@@ -1028,11 +2198,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0uk6mu2kflisa9dk1rn4m0pje8@google.com",
+      "start": "2022-07-27T16:30:00+00:00",
+      "title": "Automatisierte Architekturtests und statische Codeanalyse mit ArchU",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-07-27T16:30:00+00:00",
       "uid": "0uk6mu2kflisa9dk1rn4m0pje8@google.com",
       "title": "Automatisierte Architekturtests und statische Codeanalyse mit ArchUnit (Martin Lehmann, Kristine Schaal)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5q2oqldi66qhrkq56cs7meg3m0@google.com",
+      "start": "2022-08-31T16:30:00+00:00",
+      "title": "GraalVM EE 22.2 Feature Update und Verbesserungen beim Native Image",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2022-08-31T16:30:00+00:00",
@@ -1042,11 +2230,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6clobsjtsov2sub03f2g36f06f@google.com",
+      "start": "2022-09-28T16:30:00+00:00",
+      "title": "GitHub APIs: Lieferprozesse und Routinetätigkeiten automatisieren (",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-09-28T16:30:00+00:00",
       "uid": "6clobsjtsov2sub03f2g36f06f@google.com",
       "title": "GitHub APIs: Lieferprozesse und Routinetätigkeiten automatisieren (Alexander Schwartz)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5ovn4bmfjn99neuu8a0a2vplng@google.com",
+      "start": "2022-11-23T17:30:00+00:00",
+      "title": "Reactive Streams in Java (Sigrid Huemer)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2022-11-23T17:30:00+00:00",
@@ -1056,11 +2262,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "3r63khaj26nalvhduhkdeolslo@google.com",
+      "start": "2022-12-07T17:30:00+00:00",
+      "title": "Real-time Fraud Detection: Challenges and Solutions (Fawaz Ghali)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-12-07T17:30:00+00:00",
       "uid": "3r63khaj26nalvhduhkdeolslo@google.com",
       "title": "Real-time Fraud Detection: Challenges and Solutions (Fawaz Ghali)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "7c5fm4ijalmteavph63kip554p@google.com",
+      "start": "2023-01-25T17:30:00+00:00",
+      "title": "Project Loom: Revolution in concurrency or obscure implementation d",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2023-01-25T17:30:00+00:00",
@@ -1070,11 +2294,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "13oj0hvn6agqa8e4jit9kemf1g@google.com",
+      "start": "2023-02-22T17:30:00+00:00",
+      "title": "Tokenisierung von Assets in der Blockchain (Andreas Meyer-Berg & Ma",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2023-02-22T17:30:00+00:00",
       "uid": "13oj0hvn6agqa8e4jit9kemf1g@google.com",
       "title": "Tokenisierung von Assets in der Blockchain (Andreas Meyer-Berg & Marcel Wesenberg)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0vd1ptlibedvc8794mrmp4quk9@google.com",
+      "start": "2023-03-29T16:30:00+00:00",
+      "title": "JUnit 5 wird 5 (Marc Philipp)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2023-03-29T16:30:00+00:00",
@@ -1084,11 +2326,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0qo1ur8cej21crmd1oc4tilipc@google.com",
+      "start": "2023-04-26T16:30:00+00:00",
+      "title": "Wie wir mit KI die Poststellen unserer Kunden entlasten (Elvira Sie",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2023-04-26T16:30:00+00:00",
       "uid": "0qo1ur8cej21crmd1oc4tilipc@google.com",
       "title": "Wie wir mit KI die Poststellen unserer Kunden entlasten (Elvira Siegel, Thomas Timmermann, Johannes Voscort)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1f483sdkf1otdim23pjqkub8f0@google.com",
+      "start": "2023-05-31T16:30:00+00:00",
+      "title": "Simulierte Evolution: Hands-On-Starter Kit (Heiko Spindler)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2023-05-31T16:30:00+00:00",
@@ -1098,11 +2358,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "20ep0fhoto1cd3bhfp6hp54e0d@google.com",
+      "start": "2023-06-28T16:30:00+00:00",
+      "title": "Let’s get started: Der Eclipse Starter für Jakarta EE (Alexander Rü",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2023-06-28T16:30:00+00:00",
       "uid": "20ep0fhoto1cd3bhfp6hp54e0d@google.com",
       "title": "Let’s get started: Der Eclipse Starter für Jakarta EE (Alexander Rühl)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1dljv5cvmvjthc5lt6o7m5mv0r@google.com",
+      "start": "2023-07-26T16:30:00+00:00",
+      "title": "Data-Oriented Programming in Java (20) (Nicolai Parlog)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2023-07-26T16:30:00+00:00",
@@ -1112,11 +2390,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7aotcsa6dpjj6n8qi81gbfqfek@google.com",
+      "start": "2023-09-27T16:30:00+00:00",
+      "title": "Deep Dive into Spring Security 6 (Laura Liparulo)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2023-09-27T16:30:00+00:00",
       "uid": "7aotcsa6dpjj6n8qi81gbfqfek@google.com",
       "title": "Deep Dive into Spring Security 6 (Laura Liparulo)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "2577h3jvk5cr3ckt8u8kdiliak@google.com",
+      "start": "2023-10-25T16:30:00+00:00",
+      "title": "The power of Cloud Development Kit (CDK): How to get the most out o",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2023-10-25T16:30:00+00:00",
@@ -1126,11 +2422,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5jg4479enf1h11lb7it92fiir2@google.com",
+      "start": "2023-11-22T17:30:00+00:00",
+      "title": "Phantastische Diagramme und wie du sie selbst erstellst (Ralf D. Mü",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2023-11-22T17:30:00+00:00",
       "uid": "5jg4479enf1h11lb7it92fiir2@google.com",
       "title": "Phantastische Diagramme und wie du sie selbst erstellst (Ralf D. Müller, Falk Sippach)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "20ta7aonvshv9ejmf6o6j66vlh@google.com",
+      "start": "2024-01-31T17:30:00+00:00",
+      "title": "Todesursache Hibernate (Thorben Janssen)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2024-01-31T17:30:00+00:00",
@@ -1140,11 +2454,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5b7p3393hf0pnadtna7l9pjp2d@google.com",
+      "start": "2024-02-28T17:30:00+00:00",
+      "title": "IDEasy & GraalVM – Automatisierung der IDE (Jörg Hohwiller)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2024-02-28T17:30:00+00:00",
       "uid": "5b7p3393hf0pnadtna7l9pjp2d@google.com",
       "title": "IDEasy & GraalVM – Automatisierung der IDE (Jörg Hohwiller)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "60fe24j9l0umn76ib6cdg85nku@google.com",
+      "start": "2024-03-27T17:30:00+00:00",
+      "title": "Write Tests You Love\\, not Hate (Jens Happe)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2024-03-27T17:30:00+00:00",
@@ -1154,11 +2486,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "53u8085vg1nbsipeuujpso2hc3@google.com",
+      "start": "2024-05-29T16:30:00+00:00",
+      "title": "Einführung in die Quantenprogrammierung (Walery Strauch)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2024-05-29T16:30:00+00:00",
       "uid": "53u8085vg1nbsipeuujpso2hc3@google.com",
       "title": "Einführung in die Quantenprogrammierung (Walery Strauch)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6fv3eau4dml5ee3bsdrul26ga0@google.com",
+      "start": "2024-06-26T16:30:00+00:00",
+      "title": "Server-side web applications with Spring and htmx (Thomas Schühly)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2024-06-26T16:30:00+00:00",
@@ -1168,11 +2518,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0q1icfev22eqnsbm7sdgdhu09v@google.com",
+      "start": "2024-08-28T16:30:00+00:00",
+      "title": "The Current State of Apache Maven 4 – Development (Karl Heint Marba",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2024-08-28T16:30:00+00:00",
       "uid": "0q1icfev22eqnsbm7sdgdhu09v@google.com",
       "title": "The Current State of Apache Maven 4 – Development (Karl Heint Marbaise)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "2tc2hmk0nq537s5p2er3blekq8@google.com",
+      "start": "2024-09-25T16:30:00+00:00",
+      "title": "OpenAI - Generative AI with Spring AI (Laura Liparulo)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2024-09-25T16:30:00+00:00",
@@ -1182,11 +2550,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "03t938nlmvg4jo2sbhmclhmi66@google.com",
+      "start": "2024-11-13T17:30:00+00:00",
+      "title": "Es muss nicht immer Microservice sein: Architekturen im Vergleich (",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2024-11-13T17:30:00+00:00",
       "uid": "03t938nlmvg4jo2sbhmclhmi66@google.com",
       "title": "Es muss nicht immer Microservice sein: Architekturen im Vergleich (Thomas Ruhroth & Kai Schmidt)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "4rhjgji9lk14tlpbj0l68ovtjr@google.com",
+      "start": "2024-12-18T17:30:00+00:00",
+      "title": "Stream Gatherer API (Karl-Heinz Marbaise)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2024-12-18T17:30:00+00:00",
@@ -1196,11 +2582,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6n0fa9cibp0d04phlbk40k15us@google.com",
+      "start": "2025-01-29T17:30:00+00:00",
+      "title": "Von der Idee zur API (Annegret Junker)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2025-01-29T17:30:00+00:00",
       "uid": "6n0fa9cibp0d04phlbk40k15us@google.com",
       "title": "Von der Idee zur API (Annegret Junker)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "13avceavbuujnlbbmdogc2sttv@google.com",
+      "start": "2025-02-19T17:30:00+00:00",
+      "title": "GraalVM - Neuerungen und Readiness Checklist (Wolfgang Weigend)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2025-02-19T17:30:00+00:00",
@@ -1210,11 +2614,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "0t1ea9q4ejfk5qml4qv575unlr@google.com",
+      "start": "2025-03-26T17:30:00+00:00",
+      "title": "Maven 4 - das Ende naht (Karl-Heinz Marbaise)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2025-03-26T17:30:00+00:00",
       "uid": "0t1ea9q4ejfk5qml4qv575unlr@google.com",
       "title": "Maven 4 - das Ende naht (Karl-Heinz Marbaise)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6cl3ccbrn2aedusdrj1bbbquh4@google.com",
+      "start": "2025-04-30T16:30:00+00:00",
+      "title": "We hate code - the !joy of maintaining dead code (Gerrit Grunwald)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2025-04-30T16:30:00+00:00",
@@ -1224,11 +2646,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2n74ai14s7rrp3r4so83mefvhh@google.com",
+      "start": "2025-06-25T16:30:00+00:00",
+      "title": "Constraint Programming - Aufgaben Beschreiben statt selbst Lösungen",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2025-06-25T16:30:00+00:00",
       "uid": "2n74ai14s7rrp3r4so83mefvhh@google.com",
       "title": "Constraint Programming - Aufgaben Beschreiben statt selbst Lösungen programmieren (Heiko Spindler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "2b17apt5e4vq19sakqoal3jkl5@google.com",
+      "start": "2025-08-27T16:30:00+00:00",
+      "title": "Testen von multithreaded\\, concurrent Java (Thomas Krieger)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2025-08-27T16:30:00+00:00",
@@ -1238,6 +2678,15 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7e0ef9js0m8tfg1do54aafep8k@google.com",
+      "start": "2025-09-24T16:30:00+00:00",
+      "title": "Fullstack-Entwicklung mit Vaadin - Nahtlose Verbindung von Frontend",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2025-09-24T16:30:00+00:00",
       "uid": "7e0ef9js0m8tfg1do54aafep8k@google.com",
       "title": "Fullstack-Entwicklung mit Vaadin - Nahtlose Verbindung von Frontends and Backends mit Java (Sebastian Kühnau)",
@@ -1245,11 +2694,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "10l4t12c97lplfhfqen22frq39@google.com",
+      "start": "2025-10-29T17:30:00+00:00",
+      "title": "Structr 6.0 – Graph-basierte Low-Code-Entwicklung mit Java-Power un",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2025-10-29T17:30:00+00:00",
       "uid": "10l4t12c97lplfhfqen22frq39@google.com",
       "title": "Structr 6.0 – Graph-basierte Low-Code-Entwicklung mit Java-Power und KI-Integration (Axel Morgner)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "7vsqq0f1lnqcikh1sbgcbni0o1@google.com",
+      "start": "2025-12-17T17:30:00+00:00",
+      "title": "Die Zukunft der Software-Architektur: Wie GenAI und LLMs den Code v",
+      "url": "eutsche Nationalbibliothek\\, Adickesallee 1\\, 60322 Frankfurt am ",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2025-12-17T17:30:00+00:00",
@@ -1260,11 +2727,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "1hqrurg46bu5a12s3uca645nv4@google.com",
+      "start": "2026-01-28T17:30:00+00:00",
+      "title": " JDK LTS Release Feature Update: Warum sich eine Java Migration loh",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2026-01-28T17:30:00+00:00",
       "uid": "1hqrurg46bu5a12s3uca645nv4@google.com",
       "title": " JDK LTS Release Feature Update: Warum sich eine Java Migration lohnt (Wolfgang Weigend)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5er9dphtoj927soam80485cvq8@google.com",
+      "start": "2026-03-02T17:30:00+00:00",
+      "title": "Domain Driven Transformation (Henning Schwentner) ",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2026-03-02T17:30:00+00:00",
@@ -1274,11 +2759,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2hal0nijmojv0g604b0mvmr9be@google.com",
+      "start": "2026-03-25T17:30:00+00:00",
+      "title": "Modularisierung pragmatisch - ein Deep Dive in Spring Modulith (Nil",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2026-03-25T17:30:00+00:00",
       "uid": "2hal0nijmojv0g604b0mvmr9be@google.com",
       "title": "Modularisierung pragmatisch - ein Deep Dive in Spring Modulith (Nils Hartmann)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1a79ck0us4407sok67neua5fpp@google.com",
+      "start": "2026-04-29T16:30:00+00:00",
+      "title": "30 Jahre Schnittstellen - Ein Rückblick - Was haben wir gelernt? (T",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2026-04-29T16:30:00+00:00",
@@ -1288,11 +2791,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7lva9qilkubfflbdr1crkepit6@google.com",
+      "start": "2026-05-27T16:30:00+00:00",
+      "title": "Techniken zu Auflösung von Dependencies (Gernot Schulmeister)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2026-05-27T16:30:00+00:00",
       "uid": "7lva9qilkubfflbdr1crkepit6@google.com",
       "title": "Techniken zu Auflösung von Dependencies (Gernot Schulmeister)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "109per32p0cs2so04hvc26tglu@google.com",
+      "start": "2026-06-24T16:30:00+00:00",
+      "title": "JavaFX UI Technologie als zentraler Baustein im Java Ökosystem (Wol",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2026-06-24T16:30:00+00:00",
@@ -1302,6 +2823,15 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "00gff7ervf4p4l33bh7na3dcef@google.com",
+      "start": "2026-08-26T16:30:00+00:00",
+      "title": "Spring Security 7 - What's new? (Laura Liparulo) ",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2026-08-26T16:30:00+00:00",
       "uid": "00gff7ervf4p4l33bh7na3dcef@google.com",
       "title": "Spring Security 7 - What's new? (Laura Liparulo) ",
@@ -1309,11 +2839,29 @@
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7aakuojglemvlgni3uuvm4n8ja@google.com",
+      "start": "2026-10-05T16:30:00+00:00",
+      "title": "A Java 8 lambda and JobRunr is all you need for distributed (batch)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2026-10-05T16:30:00+00:00",
       "uid": "7aakuojglemvlgni3uuvm4n8ja@google.com",
       "title": "A Java 8 lambda and JobRunr is all you need for distributed (batch) processing (Ronald Dehuysser)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "329emo03b2o8bie7bmp3rtbq1p@google.com",
+      "start": "2026-10-28T17:30:00+00:00",
+      "title": "Agentic Coding - die JUGF probiert's aus (Alexander Culum)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2026-10-28T17:30:00+00:00",

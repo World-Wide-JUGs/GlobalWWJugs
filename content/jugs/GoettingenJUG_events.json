@@ -4,7 +4,7 @@
   "name": "Java User Group Göttingen (Java Stammtisch)",
   "country": "Germany",
   "source_file": "content/jugs/GoettingenJUG.md",
-  "fetched_at": "2026-10-10T16:53:26+00:00",
+  "fetched_at": "2026-10-11T13:11:34+00:00",
   "sources": [
     {
       "kind": "calendar",
@@ -14,10 +14,28 @@
   "events": [
     {
       "uid": "5f0065c1-1365-4a65-a789-9939336f10b5",
+      "start": "2004-05-28T00:00:00+00:00",
+      "title": "Image-Processing und Bilderkennung\\, Franz-Josef Gasper",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "5f0065c1-1365-4a65-a789-9939336f10b5",
       "title": "Image-Processing und Bilderkennung, Franz-Josef Gasper",
       "start": "2004-05-28T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "b502ecd6-2c77-445f-b704-1857d5adaf85",
+      "start": "2004-06-25T00:00:00+00:00",
+      "title": "XML\\, XSD und XSLT Teil 1\\, Axel Strube",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "b502ecd6-2c77-445f-b704-1857d5adaf85",
@@ -28,10 +46,28 @@
     },
     {
       "uid": "e4ec1fef-dbde-4dd2-940a-c06ac0502d15",
+      "start": "2004-07-30T00:00:00+00:00",
+      "title": "Eclipse 3.0\\, Patrick Hey",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "e4ec1fef-dbde-4dd2-940a-c06ac0502d15",
       "title": "Eclipse 3.0, Patrick Hey",
       "start": "2004-07-30T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4c2c39ff-4bb4-4c48-8cde-6bff50d6e2a1",
+      "start": "2004-09-24T00:00:00+00:00",
+      "title": "XML\\, XSD und XSLT Teil 2\\, Axel Strube",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "4c2c39ff-4bb4-4c48-8cde-6bff50d6e2a1",
@@ -42,10 +78,28 @@
     },
     {
       "uid": "3ba0d7d8-e167-4deb-8426-86cdbbe79b6b",
+      "start": "2004-10-22T00:00:00+00:00",
+      "title": "Automatische Prototyp-Erzeugung einer Datenbank-Anwendung Teil 1\\, ",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "3ba0d7d8-e167-4deb-8426-86cdbbe79b6b",
       "title": "Automatische Prototyp-Erzeugung einer Datenbank-Anwendung Teil 1, Burkhard Lösel",
       "start": "2004-10-22T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "027bcc79-b474-4af5-85bb-133a076d497d",
+      "start": "2004-11-19T00:00:00+00:00",
+      "title": "Kopplung von AutoCAD mit externer JAVA-Applikation\\, Franz-Josef Ga",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "027bcc79-b474-4af5-85bb-133a076d497d",
@@ -56,10 +110,28 @@
     },
     {
       "uid": "7524fafe-c561-4faf-9149-e3b21d82e69d",
+      "start": "2004-12-17T00:00:00+00:00",
+      "title": "Automatische Prototyp-Erzeugung einer Datenbank-Anwendung Teil 2\\, ",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "7524fafe-c561-4faf-9149-e3b21d82e69d",
       "title": "Automatische Prototyp-Erzeugung einer Datenbank-Anwendung Teil 2, Burkhard Lösel",
       "start": "2004-12-17T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "5ea8a631-157d-4223-b8cd-857d5f569f58",
+      "start": "2005-01-28T00:00:00+00:00",
+      "title": "J2EE Server Erweiterung mit M-Beans\\, Dr. Stefan Veltmaat",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "5ea8a631-157d-4223-b8cd-857d5f569f58",
@@ -70,10 +142,28 @@
     },
     {
       "uid": "1f8709a2-1657-4a11-8075-5474e9c51cf6",
+      "start": "2005-02-25T00:00:00+00:00",
+      "title": "Enterprise Java Beans (EJB)\\, Prof. Robert Switzer",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "1f8709a2-1657-4a11-8075-5474e9c51cf6",
       "title": "Enterprise Java Beans (EJB), Prof. Robert Switzer",
       "start": "2005-02-25T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "8a684c83-88c5-43d1-b314-825c0683c4da",
+      "start": "2005-03-18T00:00:00+00:00",
+      "title": "SAP Netweaver WebDynPro & J2EE Entwicklung\\, André Siegling",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "8a684c83-88c5-43d1-b314-825c0683c4da",
@@ -84,10 +174,28 @@
     },
     {
       "uid": "e0be788e-2f21-4185-93b0-2c4251bca9f0",
+      "start": "2005-04-29T00:00:00+00:00",
+      "title": "JAVA 2D & Picollo\\, Burkhard Lösel",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "e0be788e-2f21-4185-93b0-2c4251bca9f0",
       "title": "JAVA 2D & Picollo, Burkhard Lösel",
       "start": "2005-04-29T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "c14669ae-2c57-49b3-bfb9-6b0f7f2d7d3d",
+      "start": "2005-05-27T00:00:00+00:00",
+      "title": "JAVA-Message-Services\\, Prof. Robert Switzer",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "c14669ae-2c57-49b3-bfb9-6b0f7f2d7d3d",
@@ -98,10 +206,28 @@
     },
     {
       "uid": "24f212ee-7cdc-4278-88c3-d1be31bc330f",
+      "start": "2005-06-24T00:00:00+00:00",
+      "title": "JAVA Server Faces\\, Dr. Stefan Veltmaat",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "24f212ee-7cdc-4278-88c3-d1be31bc330f",
       "title": "JAVA Server Faces, Dr. Stefan Veltmaat",
       "start": "2005-06-24T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f537af2e-e0e1-4bfb-b971-10ec17584ee5",
+      "start": "2005-08-26T00:00:00+00:00",
+      "title": "Aspektorientierte Programmierung (AOP)\\, Prof. Robert Switzer",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "f537af2e-e0e1-4bfb-b971-10ec17584ee5",
@@ -112,10 +238,28 @@
     },
     {
       "uid": "1e8e5cc9-ac97-4885-b1b6-a4e8db6aacbe",
+      "start": "2005-09-30T00:00:00+00:00",
+      "title": "Enterprise Java Beans 3.0 (EJB)\\, Prof. Robert Switzer",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "1e8e5cc9-ac97-4885-b1b6-a4e8db6aacbe",
       "title": "Enterprise Java Beans 3.0 (EJB), Prof. Robert Switzer",
       "start": "2005-09-30T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "3dd53846-fafb-472c-bb75-08abd1ee170a",
+      "start": "2005-10-28T00:00:00+00:00",
+      "title": "Regelgesteuerte Prozesse und Rule Engines (JSR 94)\\, Prof. Robert S",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "3dd53846-fafb-472c-bb75-08abd1ee170a",
@@ -126,10 +270,28 @@
     },
     {
       "uid": "f865368c-719a-42a6-a7ce-4c1381a7b58a",
+      "start": "2005-11-25T00:00:00+00:00",
+      "title": "Business Process Management (BPM)\\, Prof. Robert Switzer",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "f865368c-719a-42a6-a7ce-4c1381a7b58a",
       "title": "Business Process Management (BPM), Prof. Robert Switzer",
       "start": "2005-11-25T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f93aa478-05ae-45c3-9932-531fa7991b75",
+      "start": "2006-01-27T00:00:00+00:00",
+      "title": "Test-Cases\\, Test-Suiten und Unit-Tests\\, Burkhard Lösel",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "f93aa478-05ae-45c3-9932-531fa7991b75",
@@ -140,10 +302,28 @@
     },
     {
       "uid": "85d620ed-7f48-4071-b724-7eb1047bc8e8",
+      "start": "2006-02-24T00:00:00+00:00",
+      "title": "Codegenerierung aus XML mittels XSLT\\, Franz-Josef Gasper",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "85d620ed-7f48-4071-b724-7eb1047bc8e8",
       "title": "Codegenerierung aus XML mittels XSLT, Franz-Josef Gasper",
       "start": "2006-02-24T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "4c11cf20-1f21-47b5-9e5d-f7a3c9e60326",
+      "start": "2006-06-30T00:00:00+00:00",
+      "title": "JAVA-3D-Grafik\\, Franz-Josef Gasper",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "4c11cf20-1f21-47b5-9e5d-f7a3c9e60326",
@@ -154,10 +334,28 @@
     },
     {
       "uid": "745e7624-bfac-4f7d-a87b-899fd615c3c8",
+      "start": "2006-09-29T00:00:00+00:00",
+      "title": "Open source\\, am Beispiel von Cyclos\\, Tino Römer",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "745e7624-bfac-4f7d-a87b-899fd615c3c8",
       "title": "Open source, am Beispiel von Cyclos, Tino Römer",
       "start": "2006-09-29T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "aeac295a-839c-47c8-94b0-bf78506a0863",
+      "start": "2006-10-27T00:00:00+00:00",
+      "title": "Maven\\, das bessere Ant\\, Prof. Robert Switzer",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "aeac295a-839c-47c8-94b0-bf78506a0863",
@@ -168,10 +366,28 @@
     },
     {
       "uid": "a6364d5f-d776-46ea-8fb1-9d6a15042ec0",
+      "start": "2006-11-17T00:00:00+00:00",
+      "title": "GWT - Google Web Toolkit\\, Ludwig Hunecke",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "a6364d5f-d776-46ea-8fb1-9d6a15042ec0",
       "title": "GWT - Google Web Toolkit, Ludwig Hunecke",
       "start": "2006-11-17T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "b097264b-4409-46a1-b30b-020c4e5fa8ce",
+      "start": "2007-01-26T00:00:00+00:00",
+      "title": "Go Projekt\\, Franz-Josef Gasper",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "b097264b-4409-46a1-b30b-020c4e5fa8ce",
@@ -182,10 +398,28 @@
     },
     {
       "uid": "3958b4d2-be3c-41c6-a7c9-be5af9976565",
+      "start": "2007-03-23T00:00:00+00:00",
+      "title": "NWDI - Einführung in die Netweaver Development Infrastructure\\, Lu",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "3958b4d2-be3c-41c6-a7c9-be5af9976565",
       "title": "NWDI - Einführung in die Netweaver Development Infrastructure, Ludwig Hunecke",
       "start": "2007-03-23T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "2921a758-875d-43ec-b926-03c02e2aebf6",
+      "start": "2007-04-27T00:00:00+00:00",
+      "title": "Ameisenprogramm\\, Bernd Rümmeler",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "2921a758-875d-43ec-b926-03c02e2aebf6",
@@ -196,10 +430,28 @@
     },
     {
       "uid": "0e425d1d-fe1b-4fbd-938b-08661f820cc6",
+      "start": "2007-06-01T00:00:00+00:00",
+      "title": "SAP NetWeaver Portal\\, Martin Walter",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "0e425d1d-fe1b-4fbd-938b-08661f820cc6",
       "title": "SAP NetWeaver Portal, Martin Walter",
       "start": "2007-06-01T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "293cf527-1143-4b5f-9261-90c9d00fdca0",
+      "start": "2007-06-29T00:00:00+00:00",
+      "title": "T9-Algorithmus\\, Oleg Khutoryansky",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "293cf527-1143-4b5f-9261-90c9d00fdca0",
@@ -210,6 +462,15 @@
     },
     {
       "uid": "50fa3e06-4479-4bb8-8f1f-5d9ea071144b",
+      "start": "2007-07-27T00:00:00+00:00",
+      "title": "QT Jambi - GUI-Framework\\, Thomas Grabietz",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "50fa3e06-4479-4bb8-8f1f-5d9ea071144b",
       "title": "QT Jambi - GUI-Framework, Thomas Grabietz",
       "start": "2007-07-27T00:00:00+00:00",
       "source_kind": "calendar",
@@ -217,10 +478,28 @@
     },
     {
       "uid": "44310c93-0b1d-4e43-90cd-c01adb242c14",
+      "start": "2007-09-28T00:00:00+00:00",
+      "title": "Grafik-Animation mit Java (2D-Grafik)\\, Burkhard Lösel",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "44310c93-0b1d-4e43-90cd-c01adb242c14",
       "title": "Grafik-Animation mit Java (2D-Grafik), Burkhard Lösel",
       "start": "2007-09-28T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "f1390542-c1b1-49b6-8c55-4c13131e2108",
+      "start": "2007-10-06T00:00:00+00:00",
+      "title": "Java und der Rest der Welt\\, Franz-Josef Gasper",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "f1390542-c1b1-49b6-8c55-4c13131e2108",
@@ -646,10 +925,28 @@
     },
     {
       "uid": "03337fa5-0d58-4ce4-8c90-ced0b6b6ba9d",
+      "start": "2013-10-01T00:00:00+00:00",
+      "title": "Source Talk Tage",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
+      "uid": "03337fa5-0d58-4ce4-8c90-ced0b6b6ba9d",
       "title": "Source Talk Tage",
       "start": "2013-10-01T00:00:00+00:00",
       "source_kind": "calendar",
       "source_url": "https://java.de/cal/jug-goettingen.ics"
+    },
+    {
+      "uid": "e5183bd6-9884-4200-a6de-4d4c1726995f",
+      "start": "2013-10-02T00:00:00+00:00",
+      "title": "Source Talk Tage",
+      "url": "calendar",
+      "location": "https://java.de/cal/jug-goettingen.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "uid": "e5183bd6-9884-4200-a6de-4d4c1726995f",

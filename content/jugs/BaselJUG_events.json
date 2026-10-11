@@ -4,13 +4,40 @@
   "name": "JUG CH Basel",
   "country": "Switzerland",
   "source_file": "content/jugs/BaselJUG.md",
-  "fetched_at": "2026-10-10T16:53:11+00:00",
+  "fetched_at": "2026-10-11T13:11:03+00:00",
   "sources": [
     {
       "kind": "calendar",
       "url": "https://www.jug.ch/events/basel/"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1044"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1047"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "uid": "1044@www.jug.ch",
+      "start": "2026-10-26T17:15:00+00:00",
+      "title": "jug.ch: JDK Doping: Performance Gains Without Touching Your Code",
+      "url": "https://www.jug.ch/html/events/html/events/2026/jdk-doping_bs.html",
+      "location": "Basel (Markthalle Basel\\, Viaduktstrasse 12 4051 Basel\\, Room Mono)",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1044"
+    },
+    {
+      "uid": "1047@www.jug.ch",
+      "start": "2026-11-12T17:15:00+00:00",
+      "title": "jug.ch: The Architecture of Power: Structural Change Without Authority for Software Engineers",
+      "url": "https://www.jug.ch/html/events/html/events/2026/architecture-of-power.html",
+      "location": "Basel (Fachhochschule Nordwestschweiz\\, Campus Dreispitz\\, Dornacherstrasse 394\\, Basel)",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1047"
+    }
+  ],
   "status": "ok"
 }

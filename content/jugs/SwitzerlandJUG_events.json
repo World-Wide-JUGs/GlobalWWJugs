@@ -4,13 +4,170 @@
   "name": "Java User Group Switzerland",
   "country": "Switzerland",
   "source_file": "content/jugs/SwitzerlandJUG.md",
-  "fetched_at": "2026-10-10T16:53:53+00:00",
+  "fetched_at": "2026-10-11T13:12:30+00:00",
   "sources": [
     {
       "kind": "calendar",
       "url": "http://www.jug.ch"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1027"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1028"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1029"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1030"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1035"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1041"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1042"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1043"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1044"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1045"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1047"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1048"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "uid": "1027@www.jug.ch",
+      "start": "2026-10-13T16:15:00+00:00",
+      "title": "jug.ch: Deterministische Tests für nicht-deterministischen Code",
+      "url": "https://www.jug.ch/html/events/html/events/2026/deterministische-test",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Gebäude L",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1027"
+    },
+    {
+      "uid": "1043@www.jug.ch",
+      "start": "2026-10-20T16:00:00+00:00",
+      "title": "jug.ch: GraalVM Summit Warm-up with JUG Switzerland",
+      "url": "https://www.jug.ch/html/events/html/events/2026/graalvam-community-su",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Building L",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1043"
+    },
+    {
+      "uid": "1045@www.jug.ch",
+      "start": "2026-10-22T16:00:00+00:00",
+      "title": "jug.ch: From Kitchen to Table: A Safe Software Journey with SBOMs",
+      "url": "https://www.jug.ch/html/events/html/events/2026/jdk-doping_sg.html",
+      "location": "t. Gallen (OST - Ostschweizer Fachhochschule\\, Campus St.Gallen",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1045"
+    },
+    {
+      "uid": "1044@www.jug.ch",
+      "start": "2026-10-26T17:15:00+00:00",
+      "title": "jug.ch: JDK Doping: Performance Gains Without Touching Your Code",
+      "url": "https://www.jug.ch/html/events/html/events/2026/jdk-doping_bs.html",
+      "location": "asel (Markthalle Basel\\, Viaduktstrasse 12 4051 Basel\\, Room Mo",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1044"
+    },
+    {
+      "uid": "1028@www.jug.ch",
+      "start": "2026-10-27T17:15:00+00:00",
+      "title": "jug.ch: Kill your Tests",
+      "url": "https://www.jug.ch/html/events/html/events/2026/kill-your-tests_zh.ht",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Raum folgt",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1028"
+    },
+    {
+      "uid": "1029@www.jug.ch",
+      "start": "2026-10-28T17:00:00+00:00",
+      "title": "jug.ch: Kill your Tests",
+      "url": "https://www.jug.ch/html/events/html/events/2026/kill-your-tests_be.ht",
+      "location": "ern (vatter Business Center\\, Bärenplatz 2\\, 3011 Bern\\, Raum ",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1029"
+    },
+    {
+      "uid": "1030@www.jug.ch",
+      "start": "2026-10-29T17:00:00+00:00",
+      "title": "jug.ch: Kill your Tests",
+      "url": "https://www.jug.ch/html/events/html/events/2026/kill-your-tests_sg.ht",
+      "location": "t. Gallen (OST - Ostschweizer Fachhochschule\\, Campus St.Gallen",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1030"
+    },
+    {
+      "uid": "1041@www.jug.ch",
+      "start": "2026-11-10T17:00:00+00:00",
+      "title": "jug.ch: Raft von Hand: Was zwischen dem Paper und einem produktiv",
+      "url": "https://www.jug.ch/html/events/html/events/2026/raft-von-hand.html",
+      "location": "ern (vatter Business Center\\, Bärenplatz 2\\, 3011 Bern\\, Raum ",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1041"
+    },
+    {
+      "uid": "1035@www.jug.ch",
+      "start": "2026-11-10T17:15:00+00:00",
+      "title": "jug.ch: Beyond Hype",
+      "url": "https://www.jug.ch/html/events/html/events/2026/engineering-approach-",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Building L",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1035"
+    },
+    {
+      "uid": "1047@www.jug.ch",
+      "start": "2026-11-12T17:15:00+00:00",
+      "title": "jug.ch: The Architecture of Power: Structural Change Without Auth",
+      "url": "https://www.jug.ch/html/events/html/events/2026/architecture-of-power",
+      "location": "asel (Fachhochschule Nordwestschweiz\\, Campus Dreispitz\\, Dorna",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1047"
+    },
+    {
+      "uid": "1042@www.jug.ch",
+      "start": "2026-11-26T17:15:00+00:00",
+      "title": "jug.ch: Raft by Hand: What Lies Between the Paper and a Productio",
+      "url": "https://www.jug.ch/html/events/html/events/2026/raft-by-hand.html",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Building L",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1042"
+    },
+    {
+      "uid": "1048@www.jug.ch",
+      "start": "2026-12-01T17:00:00+00:00",
+      "title": "jug.ch: Migros Account – Die Geschichte hinter dem Login",
+      "url": "https://www.jug.ch/html/events/html/events/2026/migros-oidc-identity-",
+      "location": "t. Gallen (OST - Ostschweizer Fachhochschule\\, Campus St.Gallen",
+      "source_kind": "calendar-ical",
+      "source_url": "http://www.jug.ch/events/vcalendar/ical.php?event=1048"
+    }
+  ],
   "status": "ok"
 }

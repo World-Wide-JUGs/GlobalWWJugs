@@ -4,13 +4,79 @@
   "name": "JUG CH Zürich",
   "country": "Switzerland",
   "source_file": "content/jugs/ZurichJUG.md",
-  "fetched_at": "2026-10-10T16:54:01+00:00",
+  "fetched_at": "2026-10-11T13:12:45+00:00",
   "sources": [
     {
       "kind": "calendar",
       "url": "https://www.jug.ch/events/zurich/"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1027"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1028"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1035"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1042"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1043"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "uid": "1027@www.jug.ch",
+      "start": "2026-10-13T16:15:00+00:00",
+      "title": "jug.ch: Deterministische Tests für nicht-deterministischen Code",
+      "url": "https://www.jug.ch/html/events/html/events/2026/deterministische-test",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Gebäude L",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1027"
+    },
+    {
+      "uid": "1043@www.jug.ch",
+      "start": "2026-10-20T16:00:00+00:00",
+      "title": "jug.ch: GraalVM Summit Warm-up with JUG Switzerland",
+      "url": "https://www.jug.ch/html/events/html/events/2026/graalvam-community-su",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Building L",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1043"
+    },
+    {
+      "uid": "1028@www.jug.ch",
+      "start": "2026-10-27T17:15:00+00:00",
+      "title": "jug.ch: Kill your Tests",
+      "url": "https://www.jug.ch/html/events/html/events/2026/kill-your-tests_zh.ht",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Raum folgt",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1028"
+    },
+    {
+      "uid": "1035@www.jug.ch",
+      "start": "2026-11-10T17:15:00+00:00",
+      "title": "jug.ch: Beyond Hype",
+      "url": "https://www.jug.ch/html/events/html/events/2026/engineering-approach-",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Building L",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1035"
+    },
+    {
+      "uid": "1042@www.jug.ch",
+      "start": "2026-11-26T17:15:00+00:00",
+      "title": "jug.ch: Raft by Hand: What Lies Between the Paper and a Productio",
+      "url": "https://www.jug.ch/html/events/html/events/2026/raft-by-hand.html",
+      "location": "ürich (PH Zürich\\, Lagerstrasse 2\\, 8090 Zürich\\, Building L",
+      "source_kind": "calendar-ical",
+      "source_url": "https://www.jug.ch/events/vcalendar/ical.php?event=1042"
+    }
+  ],
   "status": "ok"
 }

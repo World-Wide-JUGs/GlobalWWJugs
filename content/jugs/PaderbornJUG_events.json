@@ -4,7 +4,7 @@
   "name": "Java User Group Paderborn",
   "country": "Germany",
   "source_file": "content/jugs/PaderbornJUG.md",
-  "fetched_at": "2026-10-10T16:53:48+00:00",
+  "fetched_at": "2026-10-11T13:12:17+00:00",
   "sources": [
     {
       "kind": "calendar",
@@ -13,12 +13,30 @@
   ],
   "events": [
     {
+      "uid": "f85rj2oasq5dmd7hthgitqslf0@google.com",
+      "start": "2017-06-29T16:30:00+00:00",
+      "title": "Was ist Serverless Computing? (Frank Pientka)",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-06-29T16:30:00+00:00",
       "uid": "f85rj2oasq5dmd7hthgitqslf0@google.com",
       "location": "An der Talle 89, 33102 Paderborn, Deutschland",
       "title": "Was ist Serverless Computing? (Frank Pientka)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0p0jagaql530021qrm47o69rq5@google.com",
+      "start": "2017-08-16T16:30:00+00:00",
+      "title": "Effiziente Datenpersistierung mit JPA und Hibernate (Thorben Jansse",
+      "url": "m Hoppenhof 32\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-08-16T16:30:00+00:00",
@@ -29,12 +47,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "1h5li480v8834koinjl77ebtlp@google.com",
+      "start": "2018-02-28T17:30:00+00:00",
+      "title": "IntelliJ IDEA Trickkiste - Ein Entwickler packt aus (Yann Cébron)",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-02-28T17:30:00+00:00",
       "uid": "1h5li480v8834koinjl77ebtlp@google.com",
       "location": "An der Talle 89, 33102 Paderborn, Deutschland",
       "title": "IntelliJ IDEA Trickkiste - Ein Entwickler packt aus (Yann Cébron)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "2oqvcpltkomdumubsm49jcd3pu@google.com",
+      "start": "2018-08-16T16:30:00+00:00",
+      "title": "JUG Paderborn Grillabend",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-08-16T16:30:00+00:00",
@@ -45,12 +81,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "75dhc7qij5bsodmkte9m8t5c94@google.com",
+      "start": "2018-09-20T16:30:00+00:00",
+      "title": "Getting Hip with JHipster (Frederik Hahne)",
+      "url": "m Hoppenhof 32\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-09-20T16:30:00+00:00",
       "uid": "75dhc7qij5bsodmkte9m8t5c94@google.com",
       "location": "Am Hoppenhof 32, 33104 Paderborn, Deutschland",
       "title": "Getting Hip with JHipster (Frederik Hahne)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "2jt0rlemtb7dapcp4fs7q9i245@google.com",
+      "start": "2018-09-27T16:30:00+00:00",
+      "title": "Lean Stammtisch",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2018-09-27T16:30:00+00:00",
@@ -60,11 +114,29 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2qh8j6oiptcs5hdo3ee8ppf9b3@google.com",
+      "start": "2018-10-12T16:00:00+00:00",
+      "title": "Spring Data JDBC - The new Kid on the Block (Jens Schauder)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2018-10-12T16:00:00+00:00",
       "uid": "2qh8j6oiptcs5hdo3ee8ppf9b3@google.com",
       "title": "Spring Data JDBC - The new Kid on the Block (Jens Schauder)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "11fd9fgisv495hhnimhrhhjnor@google.com",
+      "start": "2018-11-22T17:30:00+00:00",
+      "title": "Instan(t)a-neous Monitoring (Christoph Engelbert)",
+      "url": "erlinked GmbH\\, Am Hoppenhof 32\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-11-22T17:30:00+00:00",
@@ -75,11 +147,29 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "45hse733s9alom6jpdb83vnsr4@google.com",
+      "start": "2018-11-29T18:30:00+00:00",
+      "title": "Lean Stammtisch",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2018-11-29T18:30:00+00:00",
       "uid": "45hse733s9alom6jpdb83vnsr4@google.com",
       "title": "Lean Stammtisch",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5bcqrv45q7eu2917u5kbhpe4bd@google.com",
+      "start": "2018-12-12T17:00:00+00:00",
+      "title": "Kotlin Hands-on-Workshop (Robin Roschlau)",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-12-12T17:00:00+00:00",
@@ -90,6 +180,15 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "058hpcvj01m9bbgl1hb1u2m3f1@google.com",
+      "start": "2019-01-24T17:30:00+00:00",
+      "title": "Von relationalen Datenbanken zu Daten mit Relationen (Michael Simon",
+      "url": "yview systems GmbH\\, Lindberghring 1\\, 33142 Büren\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-01-24T17:30:00+00:00",
       "uid": "058hpcvj01m9bbgl1hb1u2m3f1@google.com",
       "location": "myview systems GmbH, Lindberghring 1, 33142 Büren, Deutschland",
@@ -98,11 +197,29 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "35nrbsfefjqgj1khflmu79p9fd@google.com",
+      "start": "2019-02-20T17:00:00+00:00",
+      "title": "The Serverless Application Framework (Philipp Muens)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-02-20T17:00:00+00:00",
       "uid": "35nrbsfefjqgj1khflmu79p9fd@google.com",
       "title": "The Serverless Application Framework (Philipp Muens)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "4o0t50kid16c7vt0g6fffhj6i0@google.com",
+      "start": "2019-03-12T17:00:00+00:00",
+      "title": "The Elastic Stack Hands On (Alexander Reelsen)",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-03-12T17:00:00+00:00",
@@ -113,11 +230,29 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "67i1qgnutp91ejdaush8otfr3j@google.com",
+      "start": "2019-04-03T16:00:00+00:00",
+      "title": "Reactive Relational Database Access (Mark Paluch)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-04-03T16:00:00+00:00",
       "uid": "67i1qgnutp91ejdaush8otfr3j@google.com",
       "title": "Reactive Relational Database Access (Mark Paluch)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "4b8s1k9s29tps6du128tvk412u@google.com",
+      "start": "2019-05-09T16:00:00+00:00",
+      "title": "Living Documentation with Asciidoctor(J) (Robert Panzer)",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-05-09T16:00:00+00:00",
@@ -128,12 +263,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7mme6hi0b0j7aqh51rfutcglg7@google.com",
+      "start": "2019-06-25T16:30:00+00:00",
+      "title": "Microprofile (Niklas Heidloff)",
+      "url": "yview systems GmbH\\, Lindberghring 1\\, 33142 Büren\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-06-25T16:30:00+00:00",
       "uid": "7mme6hi0b0j7aqh51rfutcglg7@google.com",
       "location": "myview systems GmbH, Lindberghring 1, 33142 Büren, Deutschland",
       "title": "Microprofile (Niklas Heidloff)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "19bf9biju4g7sgc0994iu2n6bl@google.com",
+      "start": "2019-07-17T16:00:00+00:00",
+      "title": "API Design (Daniel Rosowski)",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-07-17T16:00:00+00:00",
@@ -144,12 +297,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7ov48ij3vs6gvco65091g4acs8@google.com",
+      "start": "2019-09-10T16:30:00+00:00",
+      "title": "Towards antifragile Software Architecture (Marcus Autenrieth)",
+      "url": "yview systems GmbH\\, Lindberghring 1\\, 33142 Büren\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-09-10T16:30:00+00:00",
       "uid": "7ov48ij3vs6gvco65091g4acs8@google.com",
       "location": "myview systems GmbH, Lindberghring 1, 33142 Büren, Deutschland",
       "title": "Towards antifragile Software Architecture (Marcus Autenrieth)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6hpubllp08jpu8g3eviiftsqfn@google.com",
+      "start": "2019-10-08T16:00:00+00:00",
+      "title": "Testen von und mit Infrastruktur - \"Integration Testing done right\"",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-10-08T16:00:00+00:00",
@@ -160,12 +331,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7de7rdr5865s98epue4cmro2r0@google.com",
+      "start": "2019-10-16T16:30:00+00:00",
+      "title": "Bessere Monolithen - modulithische Applikationen mit Spring Boot (O",
+      "url": "yview systems GmbH\\, Lindberghring 1\\, 33142 Büren\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-10-16T16:30:00+00:00",
       "uid": "7de7rdr5865s98epue4cmro2r0@google.com",
       "location": "myview systems GmbH, Lindberghring 1, 33142 Büren, Deutschland",
       "title": "Bessere Monolithen - modulithische Applikationen mit Spring Boot (Oliver Drotbohm)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6u8oio433aa9ri5j08mik300r9@google.com",
+      "start": "2019-11-26T17:00:00+00:00",
+      "title": "Change Data Streaming Use Cases mit Debezium und Apache Kafka (Gunn",
+      "url": "escale Office\\, An der Talle 89\\, Paderborn",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-11-26T17:00:00+00:00",
@@ -176,12 +365,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "045vvh6c212ilft528mncein6l@google.com",
+      "start": "2019-12-05T17:00:00+00:00",
+      "title": "Getting a Black Belt in Karate",
+      "url": "eelgood Workspace\\, Marienpl. 11a\\, 33098 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-12-05T17:00:00+00:00",
       "uid": "045vvh6c212ilft528mncein6l@google.com",
       "location": "Feelgood Workspace, Marienpl. 11a, 33098 Paderborn, Deutschland",
       "title": "Getting a Black Belt in Karate",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "23jo392o16n6qtg96nq4n6e8u0@google.com",
+      "start": "2020-01-29T17:00:00+00:00",
+      "title": "Sind Frameworks zur DSL-Entwicklung eine Frage des Geschmacks? (Mat",
+      "url": "temis AG (Standort Paderborn)\\, Dessauer Str. 10\\, 33106 Paderbor",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2020-01-29T17:00:00+00:00",
@@ -192,12 +399,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7067f947klq76frcg7fum7gcgn@google.com",
+      "start": "2020-02-18T17:00:00+00:00",
+      "title": "Datenbank Schemaänderungen mit Zero Downtime (Carsten Birkelbach)",
+      "url": "n der Talle 89\\, 33102 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2020-02-18T17:00:00+00:00",
       "uid": "7067f947klq76frcg7fum7gcgn@google.com",
       "location": "An der Talle 89, 33102 Paderborn, Deutschland",
       "title": "Datenbank Schemaänderungen mit Zero Downtime (Carsten Birkelbach)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "61ij6opn6kqj2b9gccsm6b9k74r3gbb2ccp34b9k6so62dhmcgq34e3564@google.com",
+      "start": "2020-03-11T17:00:07+00:00",
+      "title": "Todesursache: Hibernate (Thorben Janssen)",
+      "url": "PS Management GmbH\\, An der Talle 89\\, 33102 Paderborn\\, Germany",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2020-03-11T17:00:07+00:00",
@@ -208,12 +433,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "68e1huu5ndgjlp6h6q9ofd6jng@google.com",
+      "start": "2022-06-22T16:00:00+00:00",
+      "title": "Todesursache: Hibernate (Thorben Janssen)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2022-06-22T16:00:00+00:00",
       "uid": "68e1huu5ndgjlp6h6q9ofd6jng@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Todesursache: Hibernate (Thorben Janssen)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0ej61sd5fr97p74kisq7gu3382@google.com",
+      "start": "2023-04-26T16:00:00+00:00",
+      "title": "Testcontainers and You (Kevin Wittek)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2023-04-26T16:00:00+00:00",
@@ -224,12 +467,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5krf2b9ma5vg6abj0hv3f3givg@google.com",
+      "start": "2023-06-14T16:00:00+00:00",
+      "title": "Wieso helfen Code Guidelines?",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2023-06-14T16:00:00+00:00",
       "uid": "5krf2b9ma5vg6abj0hv3f3givg@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Wieso helfen Code Guidelines?",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "77u6j5ml1icjut237p0d5gquvc@google.com",
+      "start": "2023-06-28T16:00:00+00:00",
+      "title": "Sicherheitslücken mit OWASP Dependency Check Plugin im Jenkins über",
+      "url": "npit GmbH & Co. KG\\, Marienpl. 11A\\, 33098 Paderborn\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2023-06-28T16:00:00+00:00",
@@ -240,12 +501,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5gfrvsqqc0hvvjkf4sn9a0gii2@google.com",
+      "start": "2023-07-28T16:00:00+00:00",
+      "title": "Das ist doch behindert! Über Barrieren und Freiheiten (Matthias Bün",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2023-07-28T16:00:00+00:00",
       "uid": "5gfrvsqqc0hvvjkf4sn9a0gii2@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Das ist doch behindert! Über Barrieren und Freiheiten (Matthias Bünger)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3qe71nbbt7foq6gtdht963l7hl@google.com",
+      "start": "2023-08-09T16:00:00+00:00",
+      "title": "Rapid server-side full stack web development with Thymeleaf and htm",
+      "url": "erlinked GmbH\\, Am Hoppenhof 32\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2023-08-09T16:00:00+00:00",
@@ -256,12 +535,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "54rarr2o1pfvqg6gqich86t7ek@google.com",
+      "start": "2023-09-06T16:00:00+00:00",
+      "title": "Java Next (Nicolai Parlog)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2023-09-06T16:00:00+00:00",
       "uid": "54rarr2o1pfvqg6gqich86t7ek@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Java Next (Nicolai Parlog)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "4qkkn3qt69q6bpn6f46vur7qt6@google.com",
+      "start": "2023-10-26T16:00:00+00:00",
+      "title": "Spieglein\\, Spieglein: Was tippe ich als Nächstes? Eine praktische ",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2023-10-26T16:00:00+00:00",
@@ -272,12 +569,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7jctb7bo8jmhebd1ok33f0ds8b@google.com",
+      "start": "2023-11-22T17:00:00+00:00",
+      "title": "Data Pipeline Plumbing (Christoph Engelbert)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2023-11-22T17:00:00+00:00",
       "uid": "7jctb7bo8jmhebd1ok33f0ds8b@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Data Pipeline Plumbing (Christoph Engelbert)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1ebvqm50ka15bj4crk15rteaa3@google.com",
+      "start": "2024-01-17T17:00:00+00:00",
+      "title": "Automated Refactorings (Merlin Bögershausen)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2024-01-17T17:00:00+00:00",
@@ -288,12 +603,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "4pnbvmv1gq8k1e7tflsbct6c12@google.com",
+      "start": "2024-02-21T17:00:00+00:00",
+      "title": "Alles neu macht Hibernate 6 (Thorben Janssen)",
+      "url": "erlinked GmbH\\, Am Hoppenhof 32\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2024-02-21T17:00:00+00:00",
       "uid": "4pnbvmv1gq8k1e7tflsbct6c12@google.com",
       "location": "verlinked GmbH, Am Hoppenhof 32, 33104 Paderborn, Deutschland",
       "title": "Alles neu macht Hibernate 6 (Thorben Janssen)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1lbeac2vund56b4v2tm18b8iq4@google.com",
+      "start": "2024-03-13T17:00:00+00:00",
+      "title": "Es muss nicht immer Microservice sein: Architekturen im Vergleich (",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2024-03-13T17:00:00+00:00",
@@ -304,12 +637,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5u3s0cvml671bto2ds4v05mok0@google.com",
+      "start": "2024-04-24T16:00:00+00:00",
+      "title": "A Passwordless Future!",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2024-04-24T16:00:00+00:00",
       "uid": "5u3s0cvml671bto2ds4v05mok0@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "A Passwordless Future!",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6leo0i14748b3sjt3te3tpl1dk@google.com",
+      "start": "2024-05-14T16:00:00+00:00",
+      "title": "Spring Modulith (Oliver Drotbohm)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2024-05-14T16:00:00+00:00",
@@ -320,12 +671,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7js6omithqkuog7p6heiv5glag@google.com",
+      "start": "2024-05-22T16:00:00+00:00",
+      "title": "Work harder\\, not smarter (Gerrit Meier)",
+      "url": "eelgood Workspace\\, Marienpl. 11a\\, 33098 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2024-05-22T16:00:00+00:00",
       "uid": "7js6omithqkuog7p6heiv5glag@google.com",
       "location": "Feelgood Workspace, Marienpl. 11a, 33098 Paderborn, Deutschland",
       "title": "Work harder, not smarter (Gerrit Meier)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "78hohm6oevdppq4sa4j87o6t25@google.com",
+      "start": "2024-06-26T16:00:00+00:00",
+      "title": "Organizing\\, Decluttering\\, Dan-Sha-Ri – Ordnungstrends für Reposit",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2024-06-26T16:00:00+00:00",
@@ -336,12 +705,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5jbm7r7483ears4mr1hmjgl0n3@google.com",
+      "start": "2024-07-24T16:00:00+00:00",
+      "title": "Auth{N\\,Z}: OAuth2\\, OpenID Connect und JWT einfach erklärt (Niko K",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2024-07-24T16:00:00+00:00",
       "uid": "5jbm7r7483ears4mr1hmjgl0n3@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Auth{N,Z}: OAuth2, OpenID Connect und JWT einfach erklärt (Niko Köbler)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1pscmpmrmi5k5cga7d5kr1ltkq@google.com",
+      "start": "2024-08-28T16:00:00+00:00",
+      "title": "Zurück in die Zukunft! (Tim Zöller)",
+      "url": "ise-Meitner-Straße 1C\\, 33106 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2024-08-28T16:00:00+00:00",
@@ -352,11 +739,29 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2s1s3r00qhd46ng13hpuhn2nja@google.com",
+      "start": "2024-09-18T00:00:00+00:00",
+      "title": "All you need to know about Maven4 & Quereinstieg in die Softwareent",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2024-09-18T00:00:00+00:00",
       "uid": "2s1s3r00qhd46ng13hpuhn2nja@google.com",
       "title": "All you need to know about Maven4 & Quereinstieg in die Softwareentwicklung",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5khha5k7a4tjnov211rkaq5894@google.com",
+      "start": "2024-11-06T00:00:00+00:00",
+      "title": "Architektur-Kata: Verbessere deine Fähigkeiten in der Softwarearchi",
+      "url": "npit GmbH & Co. KG\\, Marienpl. 11A\\, 33098 Paderborn\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2024-11-06T00:00:00+00:00",
@@ -367,12 +772,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "3kp1p75vc3jtrihrin9oc3fva4@google.com",
+      "start": "2024-11-25T17:00:00+00:00",
+      "title": "ArchUnit: Unit-Tests für deine Java-Architektur",
+      "url": "ise-Meitner-Straße 1C\\, 33106 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2024-11-25T17:00:00+00:00",
       "uid": "3kp1p75vc3jtrihrin9oc3fva4@google.com",
       "location": "Lise-Meitner-Straße 1C, 33106 Paderborn, Deutschland",
       "title": "ArchUnit: Unit-Tests für deine Java-Architektur",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0n80pvqp2rg8b6eu74s4s92aea@google.com",
+      "start": "2025-02-05T17:00:00+00:00",
+      "title": "Annotation Processing\\, brauche ich das? (Lukas Determann)",
+      "url": "ise-Meitner-Straße 1C\\, 33106 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2025-02-05T17:00:00+00:00",
@@ -383,12 +806,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "560l133nl0lemtlagj1dimtc0r@google.com",
+      "start": "2025-03-19T17:00:00+00:00",
+      "title": "Architektur Compliance einfach gemacht (Thomas Ruhroth)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2025-03-19T17:00:00+00:00",
       "uid": "560l133nl0lemtlagj1dimtc0r@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Architektur Compliance einfach gemacht (Thomas Ruhroth)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6vusmlu1dtsb3dr0bs1h8v9dq6@google.com",
+      "start": "2025-04-09T16:00:00+00:00",
+      "title": " Domain Driven Design\\, Team Topologies and Cloud Architecture Fusi",
+      "url": "npit GmbH & Co. KG\\, Marienpl. 11A\\, 33098 Paderborn\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2025-04-09T16:00:00+00:00",
@@ -399,12 +840,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "63a5opsq78msafkaeri9a49ibc@google.com",
+      "start": "2025-05-14T00:00:00+00:00",
+      "title": "KI in der Softwareentwicklung (Frank Meyfahrt)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2025-05-14T00:00:00+00:00",
       "uid": "63a5opsq78msafkaeri9a49ibc@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "KI in der Softwareentwicklung (Frank Meyfahrt)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "75g45pdoa8hcndjvulchtbgfd7@google.com",
+      "start": "2025-06-04T16:00:00+00:00",
+      "title": "Sketchnotes in der IT  - Abstrakte Themen mit Leichtigkeit visualis",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2025-06-04T16:00:00+00:00",
@@ -415,12 +874,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "4eon8goeqnh04avjs4h8d3ps77@google.com",
+      "start": "2025-07-09T16:00:00+00:00",
+      "title": "Double Feature on modern Software Development",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2025-07-09T16:00:00+00:00",
       "uid": "4eon8goeqnh04avjs4h8d3ps77@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Double Feature on modern Software Development",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1fq73cbo7inabsp7bpc31els23@google.com",
+      "start": "2025-10-08T16:00:00+00:00",
+      "title": "Von 0 auf Spring AI (Thorben Janssen)",
+      "url": "ise-Meitner-Straße 1C\\, 33106 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2025-10-08T16:00:00+00:00",
@@ -431,6 +908,15 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2ntvvk70q3b6ticeua03jo7p5r@google.com",
+      "start": "2025-11-12T17:00:00+00:00",
+      "title": "Operaton: eine lokale Workflow-Engine für Java (Tim Zöller)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2025-11-12T17:00:00+00:00",
       "uid": "2ntvvk70q3b6ticeua03jo7p5r@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
@@ -439,11 +925,29 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5htsdqqiihp1nj2qf158ba94ns@google.com",
+      "start": "2026-01-21T17:00:00+00:00",
+      "title": "Walking Skeleton - Softwarearchitektur ohne Fleisch? (Falk Sippach)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2026-01-21T17:00:00+00:00",
       "uid": "5htsdqqiihp1nj2qf158ba94ns@google.com",
       "title": "Walking Skeleton - Softwarearchitektur ohne Fleisch? (Falk Sippach)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6977ioo703pkm32trfprrv4utt@google.com",
+      "start": "2026-02-18T00:00:00+00:00",
+      "title": "Kontinuierlich bessere Architektur: Leichtgewichtige Prozesse statt",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2026-02-18T00:00:00+00:00",
@@ -454,12 +958,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "4d04flg9gv44t6cae071ufapq8@google.com",
+      "start": "2026-03-04T00:00:00+00:00",
+      "title": "Von nervig zu nützlich: Meine Reise zu produktivem AI-Coding",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2026-03-04T00:00:00+00:00",
       "uid": "4d04flg9gv44t6cae071ufapq8@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Von nervig zu nützlich: Meine Reise zu produktivem AI-Coding",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5dhub76ln1huvjsn4erncrpfqo@google.com",
+      "start": "2026-04-30T16:00:00+00:00",
+      "title": "DevOps im Jahr 2026",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2026-04-30T16:00:00+00:00",
@@ -470,12 +992,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "3jmfdg4fqf4hsice9qn49aasrq@google.com",
+      "start": "2026-05-13T16:00:00+00:00",
+      "title": "Testing Spring Boot Applications Demystified",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Germany",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2026-05-13T16:00:00+00:00",
       "uid": "3jmfdg4fqf4hsice9qn49aasrq@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Germany",
       "title": "Testing Spring Boot Applications Demystified",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6inn25n84h5oebn82s24flvhd7@google.com",
+      "start": "2026-06-24T16:00:00+00:00",
+      "title": "Apache Lucene - viel mehr als Volltextsuche (Alexander Reelsen)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2026-06-24T16:00:00+00:00",
@@ -486,6 +1026,15 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "1kqfpv0vb3lmrs0s94m38ihm1b@google.com",
+      "start": "2026-07-15T16:00:00+00:00",
+      "title": "Trash Talk - Exploring the memory management in the JVM (Gerrit Gru",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2026-07-15T16:00:00+00:00",
       "uid": "1kqfpv0vb3lmrs0s94m38ihm1b@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
@@ -494,12 +1043,30 @@
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6tgj0e1o6sp38bb1c8sjcb9k6sr3gb9p61h3cb9ncgrm4ohkcgp3ic9o6g@google.com",
+      "start": "2026-09-09T16:00:00+00:00",
+      "title": "Spring AI",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2026-09-09T16:00:00+00:00",
       "uid": "6tgj0e1o6sp38bb1c8sjcb9k6sr3gb9p61h3cb9ncgrm4ohkcgp3ic9o6g@google.com",
       "location": "adesso SE, Lise-Meitner-Straße 1c, 33104 Paderborn, Deutschland",
       "title": "Spring AI",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "29rldlpsrr3o06mnt3k057l786@google.com",
+      "start": "2026-10-08T16:00:00+00:00",
+      "title": "JobRunr (Ronald Dehuysser)",
+      "url": "desso SE\\, Lise-Meitner-Straße 1c\\, 33104 Paderborn\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/u17n4jh1q5gk920j7m4dera66s%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2026-10-08T16:00:00+00:00",

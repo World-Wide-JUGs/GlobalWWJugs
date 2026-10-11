@@ -4,7 +4,7 @@
   "name": "Java User Group Goerlitz",
   "country": "Germany",
   "source_file": "content/jugs/GoerlitzJUG.md",
-  "fetched_at": "2026-10-10T16:53:26+00:00",
+  "fetched_at": "2026-10-11T13:11:33+00:00",
   "sources": [
     {
       "kind": "calendar",
@@ -13,12 +13,30 @@
   ],
   "events": [
     {
+      "uid": "glb65i7jplsfmjtna4kqffu10s@google.com",
+      "start": "2015-07-29T17:00:00+00:00",
+      "title": "Regelbasierte Systeme mit JBoss Drools",
+      "url": "ochschule Zittau/Görlitz\\, Haus GIII (Obermarkt 17\\, 02826 Görlit",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2015-07-29T17:00:00+00:00",
       "uid": "glb65i7jplsfmjtna4kqffu10s@google.com",
       "location": "Hochschule Zittau/Görlitz, Haus GIII (Obermarkt 17, 02826 Görlitz), Raum 105",
       "title": "Regelbasierte Systeme mit JBoss Drools",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1ugkomo1ak5msngpnnuhjfqogg@google.com",
+      "start": "2015-09-30T17:00:00+00:00",
+      "title": "Guava",
+      "url": "SER GmbH",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2015-09-30T17:00:00+00:00",
@@ -29,6 +47,15 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "9o7fga4m9j23dgkddoigvrjjt8@google.com",
+      "start": "2016-01-27T18:00:00+00:00",
+      "title": "Funktionale Programmierung mit Java",
+      "url": "ochschule Görlitz\\, Obermarkt 17",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-01-27T18:00:00+00:00",
       "uid": "9o7fga4m9j23dgkddoigvrjjt8@google.com",
       "location": "Hochschule Görlitz, Obermarkt 17",
@@ -37,11 +64,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "8b83sdoodlaqipdh8rlj13t6d4@google.com",
+      "start": "2016-03-30T17:00:00+00:00",
+      "title": "Haskell und Frege",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2016-03-30T17:00:00+00:00",
       "uid": "8b83sdoodlaqipdh8rlj13t6d4@google.com",
       "title": "Haskell und Frege",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "gjtiglm3560nqkr8tk14crv1so@google.com",
+      "start": "2016-07-27T17:00:00+00:00",
+      "title": "Testwerkzeuge für JavaFX (Kay Grebenstein)",
+      "url": "ochschule Görlitz\\, Obermarkt",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-07-27T17:00:00+00:00",
@@ -52,12 +97,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "dfk0s8dj38kgnb8jiefqemr4m0@google.com",
+      "start": "2016-09-21T17:00:00+00:00",
+      "title": "Kommunikationskultur im Softwareentwicklungsprozess (Daniel Sernow)",
+      "url": "QS TestCenter Görlitz\\, Brückenstraße 10\\, 02826 Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2016-09-21T17:00:00+00:00",
       "uid": "dfk0s8dj38kgnb8jiefqemr4m0@google.com",
       "location": "SQS TestCenter Görlitz, Brückenstraße 10, 02826 Görlitz",
       "title": "Kommunikationskultur im Softwareentwicklungsprozess (Daniel Sernow)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "2i7o4j2ktv8vefge1ag61vi14c@google.com",
+      "start": "2016-11-30T18:00:00+00:00",
+      "title": "Inside JVM\\, Michael Wiedeking",
+      "url": "axonia Systems AG\\, Berliner Str. 63\\, 02826 Görlitz\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2016-11-30T18:00:00+00:00",
@@ -68,12 +131,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "bfm886n90eh1std5kd22rvm328@google.com",
+      "start": "2017-01-25T18:00:00+00:00",
+      "title": "JUnit 5 (Stefan Bley)",
+      "url": "aum 0.11 Hochschule Zittau / Görlitz\\, Brückenstraße 1\\, Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-01-25T18:00:00+00:00",
       "uid": "bfm886n90eh1std5kd22rvm328@google.com",
       "location": "Raum 0.11 Hochschule Zittau / Görlitz, Brückenstraße 1, Görlitz",
       "title": "JUnit 5 (Stefan Bley)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "64o68o9h60s32b9n6pijab9kcos62b9pccqj0b9n74p3adhjcor64p9l68@google.com",
+      "start": "2017-02-22T18:00:00+00:00",
+      "title": "CSS\\, Aha-Effekte und Perspektiven (Uwe Manteuffel)",
+      "url": "achbereich Informatik\\, Obermarkt 17\\, 02826 Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-02-22T18:00:00+00:00",
@@ -84,12 +165,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "vu315o5d3mqsr7o9b73vej8f6g@google.com",
+      "start": "2017-03-22T18:00:00+00:00",
+      "title": "Angular 2 für Java Entwickler (Sven Hoffmann)",
+      "url": "aum 0.11 Hochschule Zittau / Görlitz\\, Brückenstraße 1\\, Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-03-22T18:00:00+00:00",
       "uid": "vu315o5d3mqsr7o9b73vej8f6g@google.com",
       "location": "Raum 0.11 Hochschule Zittau / Görlitz, Brückenstraße 1, Görlitz",
       "title": "Angular 2 für Java Entwickler (Sven Hoffmann)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "j8rqjg46f2sdagkqfurkrjf57g@google.com",
+      "start": "2017-04-25T17:00:00+00:00",
+      "title": "JDK9 (Wolfgang Weigend)",
+      "url": "axonia Systems AG\\, Berliner Str. 63\\, 02826 Görlitz\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-04-25T17:00:00+00:00",
@@ -100,12 +199,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "9s6hvj7v47oc3dgup22ldbqvvc@google.com",
+      "start": "2017-05-31T17:00:00+00:00",
+      "title": "React und React-Native (Manuel Mauky)",
+      "url": "aum 0.10 Hochschule Zittau / Görlitz\\, Brückenstraße 1\\, Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-05-31T17:00:00+00:00",
       "uid": "9s6hvj7v47oc3dgup22ldbqvvc@google.com",
       "location": "Raum 0.10 Hochschule Zittau / Görlitz, Brückenstraße 1, Görlitz",
       "title": "React und React-Native (Manuel Mauky)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "64pjiob56op34b9g6or32b9kcgpj4bb160q30b9h61j6cp1g74sjaohi6c@google.com",
+      "start": "2017-07-21T17:00:00+00:00",
+      "title": "JUG Grillen",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2017-07-21T17:00:00+00:00",
@@ -115,11 +232,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "ig56171lkd4ug76kebni9ll7nk@google.com",
+      "start": "2017-07-21T17:00:00+00:00",
+      "title": "JUG Grillen",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2017-07-21T17:00:00+00:00",
       "uid": "ig56171lkd4ug76kebni9ll7nk@google.com",
       "title": "JUG Grillen",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3c206d0qhgi074mb2kkqb5tq5a@google.com",
+      "start": "2017-08-30T17:00:00+00:00",
+      "title": "Spracherkennung mit Alexa (Andre Tepper\\, Maik Wagner)",
+      "url": "eutsche Software Engineering & Research GmbH\\, Elisabethstraße 42",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-08-30T17:00:00+00:00",
@@ -130,12 +265,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "6oa6n0ukcpo7dkagqejbl59e00@google.com",
+      "start": "2017-10-25T17:00:00+00:00",
+      "title": "Serverless Application - Who the heck needs a Server? (Lars Röwekam",
+      "url": "ochschule Zittau/Görlitz\\, Raum 0.10\\, Brückenstraße 1\\, 02826 Gö",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2017-10-25T17:00:00+00:00",
       "uid": "6oa6n0ukcpo7dkagqejbl59e00@google.com",
       "location": "Hochschule Zittau/Görlitz, Raum 0.10, Brückenstraße 1, 02826 Görlitz",
       "title": "Serverless Application - Who the heck needs a Server? (Lars Röwekamp)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "7rs24t5v9evird97bvcot224ei@google.com",
+      "start": "2017-11-29T18:00:00+00:00",
+      "title": "Neo4j - Panama Papers (Michael Hunger)",
+      "url": "QS TestCenter Görlitz\\, Brückenstraße 10\\, 02826 Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2017-11-29T18:00:00+00:00",
@@ -146,12 +299,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2kce2h3ubsiq10h5iu4igj3uq9@google.com",
+      "start": "2018-01-31T18:00:00+00:00",
+      "title": "Refactoring to a System of Systems (Oliver Gierke)",
+      "url": "axonia Systems AG\\, Berliner Str. 63\\, 02826 Görlitz\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-01-31T18:00:00+00:00",
       "uid": "2kce2h3ubsiq10h5iu4igj3uq9@google.com",
       "location": "Saxonia Systems AG, Berliner Str. 63, 02826 Görlitz, Deutschland",
       "title": "Refactoring to a System of Systems (Oliver Gierke)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3m3ttt1sfe74cfbe3789lsulb9@google.com",
+      "start": "2018-02-28T18:00:00+00:00",
+      "title": "Entwicklung von Java Applikationen auf der SAP Cloud Platform (Jens",
+      "url": "IDEON Software GmbH & Co. KG\\, Untermarkt 25\\, 02826 Görlitz\\, De",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-02-28T18:00:00+00:00",
@@ -162,6 +333,15 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "3u0fpebm343d4nd96jc4kr0q3m@google.com",
+      "start": "2018-03-20T18:00:00+00:00",
+      "title": "Mikro- vs. Makroarchitektur – Spielraum und Spielregeln (Stefan Zör",
+      "url": "ochschule Zittau/Görlitz (HSZG)\\, Brückenstraße 1\\, 02826 Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-03-20T18:00:00+00:00",
       "uid": "3u0fpebm343d4nd96jc4kr0q3m@google.com",
       "location": "Hochschule Zittau/Görlitz (HSZG), Brückenstraße 1, 02826 Görlitz, Deutschland",
@@ -170,12 +350,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "4fkfmr8eimepluv7rfddguv976@google.com",
+      "start": "2018-04-25T17:00:00+00:00",
+      "title": "Kotlin (Tobias Blaschke)",
+      "url": "axonia Systems AG\\, Berliner Str. 63\\, 02826 Görlitz\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2018-04-25T17:00:00+00:00",
       "uid": "4fkfmr8eimepluv7rfddguv976@google.com",
       "location": "Saxonia Systems AG, Berliner Str. 63, 02826 Görlitz, Deutschland",
       "title": "Kotlin (Tobias Blaschke)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "681D0F28-E633-4DA3-8A12-30A5198DC937",
+      "start": "2018-05-30T17:00:00+00:00",
+      "title": "GraphQL (Stephan Strehler)",
+      "url": "ochschule Zittau/Görlitz\\nBrückenstraße 1\\, 02826 Görlitz\\, Deuts",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-05-30T17:00:00+00:00",
@@ -195,11 +393,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "798F509C-42DC-48E6-9AD9-1A16F91B0942",
+      "start": "2018-07-31T17:00:00+00:00",
+      "title": "JUG-Grillabend",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2018-07-31T17:00:00+00:00",
       "uid": "798F509C-42DC-48E6-9AD9-1A16F91B0942",
       "title": "JUG-Grillabend",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "6gqm4e9k6gpjabb4c8o3gb9k6dhjib9ockq68b9ocdi66eb365gmaohgcg@google.com",
+      "start": "2018-09-26T17:00:00+00:00",
+      "title": "Java APIs - the missing manual (Hendrik Ebbers)",
+      "url": "IDEON GmbH\\, Untermarkt 25\\, 02826 Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2018-09-26T17:00:00+00:00",
@@ -210,6 +426,15 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "2c8ljbl1ofjf7mvci0heodfia9@google.com",
+      "start": "2018-11-23T18:00:00+00:00",
+      "title": "Monadische Transaktionen (Gregor Trefs)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2018-11-23T18:00:00+00:00",
       "uid": "2c8ljbl1ofjf7mvci0heodfia9@google.com",
       "title": "Monadische Transaktionen (Gregor Trefs)",
@@ -217,11 +442,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5fic4ffsleo3vek4gr7k4fsq9m@google.com",
+      "start": "2019-01-31T18:00:00+00:00",
+      "title": "Java APIs - the missing manual (Hendrik Ebbers)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-01-31T18:00:00+00:00",
       "uid": "5fic4ffsleo3vek4gr7k4fsq9m@google.com",
       "title": "Java APIs - the missing manual (Hendrik Ebbers)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "h130ihk228efrnd10ri35s1pag@google.com",
+      "start": "2019-02-27T18:00:00+00:00",
+      "title": "Reflection (Erik Jähne)",
+      "url": "axonia Systems AG\\, Berliner Str. 63\\, 02826 Görlitz\\, Deutschlan",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-02-27T18:00:00+00:00",
@@ -232,12 +475,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "9l379c7jqaic8ipljn6lsr3cgg@google.com",
+      "start": "2019-03-27T18:00:00+00:00",
+      "title": "Static-Site-Generators (Manuel Mauky)",
+      "url": "ochschule Zittau/Görlitz (HSZG)\\, Brückenstraße 1\\, 02826 Görlitz",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2019-03-27T18:00:00+00:00",
       "uid": "9l379c7jqaic8ipljn6lsr3cgg@google.com",
       "location": "Hochschule Zittau/Görlitz (HSZG), Brückenstraße 1, 02826 Görlitz, Deutschland",
       "title": "Static-Site-Generators (Manuel Mauky)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3ueft6jo2hf8o3npctugccfp6d@google.com",
+      "start": "2019-04-24T17:00:00+00:00",
+      "title": "It's a JDK jungle out there - oder wie es mit den neuen Java-Versio",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
     },
     {
       "start": "2019-04-24T17:00:00+00:00",
@@ -247,6 +508,15 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "mm43sfcuq4l7rdke17hvltmqj0@google.com",
+      "start": "2019-05-29T17:00:00+00:00",
+      "title": "OAuth 2 & Keycloak (Denny Israel)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-05-29T17:00:00+00:00",
       "uid": "mm43sfcuq4l7rdke17hvltmqj0@google.com",
       "title": "OAuth 2 & Keycloak (Denny Israel)",
@@ -254,11 +524,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5453CC71-9233-41BC-BA32-12AE126FB22E",
+      "start": "2019-06-26T17:00:00+00:00",
+      "title": "Wie gut kennst Du das Collections Framework? (Thilo Frotscher)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2019-06-26T17:00:00+00:00",
       "uid": "5453CC71-9233-41BC-BA32-12AE126FB22E",
       "title": "Wie gut kennst Du das Collections Framework? (Thilo Frotscher)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "5nheg4h9d9h266ohd2627mbvcb@google.com",
+      "start": "2019-11-28T18:00:00+00:00",
+      "title": "Advanced BDD Tests (Maik Wagner)",
+      "url": "eißstraße 27\\, 02826 Görlitz\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2019-11-28T18:00:00+00:00",
@@ -269,6 +557,15 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "7v3t4umgcl1qea26q3unlvsm7r@google.com",
+      "start": "2020-01-29T18:00:00+00:00",
+      "title": "Innovationsmotor Cloud Foundry!? (Simon Roloff)",
+      "url": "erliner Str. 63\\, 02826 Görlitz\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2020-01-29T18:00:00+00:00",
       "uid": "7v3t4umgcl1qea26q3unlvsm7r@google.com",
       "location": "Berliner Str. 63, 02826 Görlitz, Deutschland",
@@ -277,11 +574,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "C81AF02E-F70C-407F-880E-E449B0FBD1BF",
+      "start": "2020-04-29T16:00:00+00:00",
+      "title": "JDK14 und GraalVM (Wolfgang Weigend)",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2020-04-29T16:00:00+00:00",
       "uid": "C81AF02E-F70C-407F-880E-E449B0FBD1BF",
       "title": "JDK14 und GraalVM (Wolfgang Weigend)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "4t72kf1qala3dg8qhtvtbukuqr@google.com",
+      "start": "2020-07-22T17:00:00+00:00",
+      "title": "Branching-Modelle (Hannes Kretschmer)",
+      "url": "nline Jitsi Meeting",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2020-07-22T17:00:00+00:00",
@@ -301,6 +616,15 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "091in211n84qotkejmo56deoot@google.com",
+      "start": "2021-01-27T18:00:00+00:00",
+      "title": "Web Components (Manuel Mauky)",
+      "url": "nline Jitsi Meeting: https://meet.digitale-oberlausitz.eu/jug",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2021-01-27T18:00:00+00:00",
       "uid": "091in211n84qotkejmo56deoot@google.com",
       "location": "Online Jitsi Meeting: https://meet.digitale-oberlausitz.eu/jug",
@@ -309,11 +633,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "4n8p09l9ifoa0te0dahr7d1c1r@google.com",
+      "start": "2022-06-22T17:00:00+00:00",
+      "title": "Hebe deine IoT-Infrastruktur auf das Serverless-Level an (Pawel Ada",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-06-22T17:00:00+00:00",
       "uid": "4n8p09l9ifoa0te0dahr7d1c1r@google.com",
       "title": "Hebe deine IoT-Infrastruktur auf das Serverless-Level an (Pawel Adaszewski)",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "42lgi1ndf9r032pdbhnaakj5hk@google.com",
+      "start": "2022-10-12T17:00:00+00:00",
+      "title": "Industrie 4.0? Das JUGt mich!",
+      "url": "arl Zeiss Digital Innovation GmbH\\, Berliner Str. 63\\, 02826 Görl",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2022-10-12T17:00:00+00:00",
@@ -324,11 +666,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "5kd2h1qf3ltj11usntic8l4hl2@google.com",
+      "start": "2022-11-30T18:00:00+00:00",
+      "title": "Kundenspezifisches IAM mit Keycloak",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2022-11-30T18:00:00+00:00",
       "uid": "5kd2h1qf3ltj11usntic8l4hl2@google.com",
       "title": "Kundenspezifisches IAM mit Keycloak",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "1v3r6ba7fqg14l0shse3r0i30g@google.com",
+      "start": "2023-01-25T18:00:00+00:00",
+      "title": "Contentlab",
+      "url": "IDEON Software & Services GmbH & Co. KG\\, Peterstraße 1\\, 02826 G",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2023-01-25T18:00:00+00:00",
@@ -339,6 +699,15 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "45r1n1796eg6646j9655ojin6c@google.com",
+      "start": "2023-02-22T18:00:00+00:00",
+      "title": "Exception First – Stabilisiere deinen Code mit mehr Exceptions",
+      "url": "arl Zeiss Digital Innovation GmbH\\, Berliner Str. 63\\, 02826 Görl",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2023-02-22T18:00:00+00:00",
       "uid": "45r1n1796eg6646j9655ojin6c@google.com",
       "location": "Carl Zeiss Digital Innovation GmbH, Berliner Str. 63, 02826 Görlitz, Deutschland",
@@ -347,11 +716,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "16i19ducd29a4o5n50efmq72kh@google.com",
+      "start": "2023-03-29T16:30:00+00:00",
+      "title": "Spring für architekturinteressierte Entwickler:innen",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2023-03-29T16:30:00+00:00",
       "uid": "16i19ducd29a4o5n50efmq72kh@google.com",
       "title": "Spring für architekturinteressierte Entwickler:innen",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0cmr91rq11fg0f59umg8ecvpo0@google.com",
+      "start": "2023-04-26T17:00:00+00:00",
+      "title": "ArchUnit: Unit-Tests für deine Java-Architektur",
+      "url": "xpleo\\, Konsulstraße 23\\, 02826 Görlitz\\, Deutschland",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2023-04-26T17:00:00+00:00",
@@ -362,11 +749,29 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "4ie7i666thjo6lo13d9r5237bf@google.com",
+      "start": "2023-06-28T17:00:00+00:00",
+      "title": "GraalVM 22.3 Universal VM – Konzepte und Features",
+      "url": "calendar",
+      "location": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_kind": "",
+      "source_url": ""
+    },
+    {
       "start": "2023-06-28T17:00:00+00:00",
       "uid": "4ie7i666thjo6lo13d9r5237bf@google.com",
       "title": "GraalVM 22.3 Universal VM – Konzepte und Features",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "3j0sqqt7q4madj6f1ldqp8g0r3@google.com",
+      "start": "2023-10-25T17:00:00+00:00",
+      "title": "AWS-Infrastruktur mit Java erstellen - CDK in Action",
+      "url": "arl Zeiss Digital Innovation GmbH\\, Berliner Str. 63\\, 02826 Görl",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2023-10-25T17:00:00+00:00",
@@ -377,12 +782,30 @@
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
     },
     {
+      "uid": "29glq74h98tihqljftna97nbqa@google.com",
+      "start": "2023-11-29T18:00:00+00:00",
+      "title": "What the CRaC - Superfast JVM startup - Gerrit Grundwald",
+      "url": "arl Zeiss Digital Innovation GmbH\\, Berliner Str. 63\\, 02826 Görl",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
+    },
+    {
       "start": "2023-11-29T18:00:00+00:00",
       "uid": "29glq74h98tihqljftna97nbqa@google.com",
       "location": "Carl Zeiss Digital Innovation GmbH, Berliner Str. 63, 02826 Görlitz, Deutschland",
       "title": "What the CRaC - Superfast JVM startup - Gerrit Grundwald",
       "source_kind": "calendar",
       "source_url": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics"
+    },
+    {
+      "uid": "0dd7i2s6v3j7n54jlrjirk6rts@google.com",
+      "start": "2024-01-31T18:00:00+00:00",
+      "title": "Flutter\\, der heilige Gral der Cross-Plattform-Entwicklung?! (Chris",
+      "url": "ochschule Zittau/Görlitz\\, Brückenstraße 1\\, 02826 Görlitz\\, Deut",
+      "location": "calendar",
+      "source_kind": "https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics",
+      "source_url": ""
     },
     {
       "start": "2024-01-31T18:00:00+00:00",

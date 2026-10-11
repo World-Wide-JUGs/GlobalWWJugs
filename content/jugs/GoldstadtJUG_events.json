@@ -4,7 +4,7 @@
   "name": "Java User Group Goldstadt",
   "country": "Germany",
   "source_file": "content/jugs/GoldstadtJUG.md",
-  "fetched_at": "2026-10-10T16:53:27+00:00",
+  "fetched_at": "2026-10-11T13:11:36+00:00",
   "sources": [
     {
       "kind": "calendar",
@@ -13,12 +13,30 @@
   ],
   "events": [
     {
+      "uid": "040000008200E00074C5B7101A82E008000000002000A4E4F0D3D10100000000000000",
+      "start": "2016-06-30T17:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (Markus KARG)",
+      "url": "estaurant \"Hopfenschlingel\" Sedanplatz Pforzheim",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
+    },
+    {
       "uid": "040000008200E00074C5B7101A82E008000000002000A4E4F0D3D101000000000000000010000000F6349930FBB8C04E85A674424CDA292E",
       "title": "Pforzheimer Java Stammtisch (Markus KARG)",
       "start": "2016-06-30T17:00:00+00:00",
       "location": "Restaurant \"Hopfenschlingel\" Sedanplatz Pforzheim",
       "source_kind": "calendar",
       "source_url": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics"
+    },
+    {
+      "uid": "040000008200E00074C5B7101A82E00800000000D0D5EE31F1D3D10100000000000000",
+      "start": "2016-09-08T17:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (Christian KUNZ)",
+      "url": "estaurant \"Ketterers Braustüble\" Jahnstraße Pforzheim",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
     },
     {
       "uid": "040000008200E00074C5B7101A82E00800000000D0D5EE31F1D3D101000000000000000010000000CA9E90D27A474543A67A49D5302B1B2B",
@@ -29,12 +47,30 @@
       "source_url": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics"
     },
     {
+      "uid": "040000008200E00074C5B7101A82E00800000000103BB9BCF1D3D10100000000000000",
+      "start": "2016-11-17T18:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (Georg ZILLY)",
+      "url": "estaurant \"ESV Gaststätte \"zum Eisenbahner\"\" Emil-Kessler-Stra",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
+    },
+    {
       "uid": "040000008200E00074C5B7101A82E00800000000103BB9BCF1D3D101000000000000000010000000CCA24AD27951834CA89D2D66C2F3D098",
       "title": "Pforzheimer Java Stammtisch (Georg ZILLY)",
       "start": "2016-11-17T18:00:00+00:00",
       "location": "Restaurant \"ESV Gaststätte \"zum Eisenbahner\"\" Emil-Kessler-Straße Pforzheim",
       "source_kind": "calendar",
       "source_url": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics"
+    },
+    {
+      "uid": "040000008200E00074C5B7101A82E0080000000070D1F6C9F1D3D10100000000000000",
+      "start": "2017-02-09T18:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (JUG PF)",
+      "url": "estaurant \"Akropolis\" Wurmberger Straße Pforzheim",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
     },
     {
       "uid": "040000008200E00074C5B7101A82E0080000000070D1F6C9F1D3D1010000000000000000100000006EF685F53EEF5E4C96DCDC746A987E8C",
@@ -46,11 +82,29 @@
     },
     {
       "uid": "2ae5d952-b0db-4a41-ba66-c383d35bbafc",
+      "start": "2017-03-28T17:00:00+00:00",
+      "title": "Java Stammtisch (JUG PF)",
+      "url": "UG Café (JavaLand / Brühl)",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
+    },
+    {
+      "uid": "2ae5d952-b0db-4a41-ba66-c383d35bbafc",
       "title": "Java Stammtisch (JUG PF)",
       "start": "2017-03-28T17:00:00+00:00",
       "location": "JUG Café (JavaLand / Brühl)",
       "source_kind": "calendar",
       "source_url": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics"
+    },
+    {
+      "uid": "28191806-2541-492c-96b9-084ae4fc14a0",
+      "start": "2017-06-01T17:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (JUG PF)",
+      "url": "estaurant \"Palm Beach\" Wilferdinger Str. 66 Pforzheim",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
     },
     {
       "uid": "28191806-2541-492c-96b9-084ae4fc14a0",
@@ -62,11 +116,29 @@
     },
     {
       "uid": "56752f10-df7b-465f-b0c1-65cb37230c7f",
+      "start": "2017-07-27T17:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (JUG PF)",
+      "url": "estaurant \"Highnoon Bar\" Steinerstr. 1\\, 75203 Königsbach-Stein",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
+    },
+    {
+      "uid": "56752f10-df7b-465f-b0c1-65cb37230c7f",
       "title": "Pforzheimer Java Stammtisch (JUG PF)",
       "start": "2017-07-27T17:00:00+00:00",
       "location": "Restaurant \"Highnoon Bar\" Steinerstr. 1, 75203 Königsbach-Stein",
       "source_kind": "calendar",
       "source_url": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics"
+    },
+    {
+      "uid": "16637d2b-8135-4cae-90f5-ad5fd75d41ae",
+      "start": "2017-11-16T18:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (JUG PF)",
+      "url": "estaurant \"Onkel Otto\" Durlacher Straße 57\\, 75172 Pforzheim",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
     },
     {
       "uid": "16637d2b-8135-4cae-90f5-ad5fd75d41ae",
@@ -78,6 +150,15 @@
     },
     {
       "uid": "39d3b735-c615-498f-9d7b-251d76e08541",
+      "start": "2018-02-15T18:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (JUG PF)",
+      "url": "estaurant \"Ketterers Braustüble\" Jahnstrasse 10\\, 75173 Pforzhe",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
+    },
+    {
+      "uid": "39d3b735-c615-498f-9d7b-251d76e08541",
       "title": "Pforzheimer Java Stammtisch (JUG PF)",
       "start": "2018-02-15T18:00:00+00:00",
       "location": "Restaurant \"Ketterers Braustüble\" Jahnstrasse 10, 75173 Pforzheim",
@@ -86,11 +167,29 @@
     },
     {
       "uid": "8b11d95f-e273-4d33-bd9a-c7b9941a4301",
+      "start": "2020-01-30T19:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (JUG PF)",
+      "url": "Im Schlupf\" (Heidenheimer Straße 7",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
+    },
+    {
+      "uid": "8b11d95f-e273-4d33-bd9a-c7b9941a4301",
       "title": "Pforzheimer Java Stammtisch (JUG PF)",
       "start": "2020-01-30T19:00:00+00:00",
       "location": "\"Im Schlupf\" (Heidenheimer Straße 7-9, 75179 Pforzheim)",
       "source_kind": "calendar",
       "source_url": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics"
+    },
+    {
+      "uid": "8b11d95f-e273-4d33-bd9a-c7b9941a4301",
+      "start": "2021-09-15T19:00:00+00:00",
+      "title": "Pforzheimer Java Stammtisch (JUG PF)",
+      "url": "Highnoon Bar\" (Steiner Str. 1, 75203 Königsbach-Stein)",
+      "location": "calendar",
+      "source_kind": "https://jugpf.gitlab.io/gitlab-pages/calendar.ics",
+      "source_url": ""
     },
     {
       "uid": "8b11d95f-e273-4d33-bd9a-c7b9941a4301",

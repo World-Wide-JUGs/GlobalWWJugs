@@ -45,6 +45,23 @@ meetup_ical_url() {
   esac
 }
 
+absolute_url() {
+  local base=$1 link=$2
+  case "$link" in
+    http://*|https://*) printf '%s\n' "$link" ;;
+    /*) printf '%s\n' "$(printf '%s' "$base" | sed -E 's#(https?://[^/]+).*#\1#')$link" ;;
+    *) printf '%s\n' "${base%/*}/$link" ;;
+  esac
+}
+
+embedded_ical_urls() {
+  local source_url=$1 html_file=$2
+  grep -oiE "href=[\\\"'][^\\\"']*(ical|\\.ics)[^\\\"']*[\\\"']" "$html_file" 2>/dev/null \
+    | sed -E "s/^href=[\\\"']([^\\\"']+)[\\\"']$/\\1/" \
+    | while IFS= read -r link; do absolute_url "$source_url" "$link"; done \
+    | sort -u
+}
+
 iso_date() {
   local value=$1
   if [[ "$value" =~ ^[0-9]{8}T[0-9]{6}Z$ ]]; then
@@ -65,15 +82,23 @@ parse_ical() {
   awk -v kind="$kind" -v source_url="$source_url" '
     function emit() {
       if (start != "") printf "%s\t%s\t%s\t%s\t%s\t%s\n", uid, start, summary, url, location, kind "\t" source_url
-      uid = start = summary = url = location = ""
+      uid = start = summary = url = location = current_field = ""
     }
+    in_event { gsub(/\r$/, "") }
     /^BEGIN:VEVENT/ { in_event = 1; next }
     /^END:VEVENT/ { if (in_event) emit(); in_event = 0; next }
-    in_event && /^UID:/ { uid = substr($0, 5); next }
-    in_event && /^DTSTART/ { split($0, parts, ":"); start = parts[2]; next }
-    in_event && /^SUMMARY:/ { summary = substr($0, 9); next }
-    in_event && /^URL:/ { url = substr($0, 5); next }
-    in_event && /^LOCATION:/ { location = substr($0, 11); next }
+    in_event && /^[ \t]/ {
+      continuation = substr($0, 2)
+      if (current_field == "summary") summary = summary continuation
+      else if (current_field == "location") location = location continuation
+      else if (current_field == "url") url = url continuation
+      next
+    }
+    in_event && /^UID:/ { uid = substr($0, 5); current_field = "uid"; next }
+    in_event && /^DTSTART/ { sub(/^[^:]*:/, ""); start = $0; current_field = "start"; next }
+    in_event && /^SUMMARY:/ { summary = substr($0, 9); current_field = "summary"; next }
+    in_event && /^URL:/ { url = substr($0, 5); current_field = "url"; next }
+    in_event && /^LOCATION:/ { location = substr($0, 10); current_field = "location"; next }
   ' "$file" > "$output"
 }
 
@@ -106,6 +131,19 @@ for markdown in "$JUG_DIR"/*.md; do
     derived=$(meetup_ical_url "$meetup" || true)
     [[ -n "$derived" ]] && printf 'meetup-ical\t%s\n' "$derived" >> "$sources_file"
   fi
+
+  while IFS=$'\t' read -r kind source_url; do
+    [[ -n "$source_url" ]] || continue
+    body="$TMP_DIR/${id}.${kind}.discover.body"
+    http_code=$(curl -L -sS --max-time 30 -A 'GlobalWWJugs event updater/1.0' \
+      -H 'Accept: text/calendar,text/plain,text/html' -o "$body" -w '%{http_code}' "$source_url" || printf '000')
+    if [[ "$http_code" =~ ^2 ]] && ! grep -q 'BEGIN:VCALENDAR' "$body" 2>/dev/null; then
+      while IFS= read -r embedded_url; do
+        [[ -n "$embedded_url" ]] || continue
+        printf 'calendar-ical\t%s\n' "$embedded_url" >> "$sources_file"
+      done < <(embedded_ical_urls "$source_url" "$body")
+    fi
+  done < <(cat "$sources_file")
 
   sources=$(jq -Rn '[inputs | split("\t") | {kind:.[0],url:.[1]}]' < "$sources_file")
   discovered='[]'
