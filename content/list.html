@@ -10,14 +10,15 @@ link: /list.html
 
 <label class="directory-search-label" for="jug-search">Search JUGs</label>
 <input class="directory-search" type="search" id="jug-search" placeholder="Search by JUG name or country..." autocomplete="off">
+<label class="directory-filter"><input type="checkbox" id="jug-next-event-filter"> Only show JUGs with a next event</label>
 <div id="search-results" class="search-results" aria-live="polite">Type to search JUGs</div>
 
 <ul id="jug-list" class="alphabetical-jug-list" data-show-all="true">
-    {#for jug in site.collections.jugs.sortBy('name')}
-        <li class="alphabetical-jug-row">
+    {#for jug in site.collections.jugs.jugRecords.sortBy('name')}
+        <li class="alphabetical-jug-row" data-has-next-event="{=jug.hasNextEvent}">
             {#jug-details jug /}
         </li>
     {/for}
 </ul>
 
-<p class="region-total">Total JUGs: {=site.collections.jugs.size}</p>
+<p class="region-total">Total JUGs: {=site.collections.jugs.jugRecords.size}</p>

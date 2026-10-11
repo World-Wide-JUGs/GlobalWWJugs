@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('jug-search');
     const searchResults = document.getElementById('search-results');
+    const nextEventFilter = document.getElementById('jug-next-event-filter');
     const jugs = Array.from(document.querySelectorAll('.region-jug'));
     const countries = Array.from(document.querySelectorAll('.country-section'));
     const countrySummaries = Array.from(document.querySelectorAll('.country-summary'));
@@ -30,6 +31,32 @@ document.addEventListener('DOMContentLoaded', function() {
         const country = document.getElementById(countryId);
         const region = country && country.closest('.region-section');
         return region ? region.id : null;
+    }
+
+    function scrollToElement(element) {
+        if (!element) return;
+        requestAnimationFrame(function() {
+            element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+    }
+
+    function applyListFilter() {
+        if (!nextEventFilter) return;
+        const term = searchInput.value.toLowerCase().trim();
+        const items = Array.from(document.querySelectorAll('.alphabetical-jug-row'));
+        let visibleCount = 0;
+        items.forEach(function(item) {
+            const matchesTerm = term === '' || item.textContent.toLowerCase().includes(term);
+            const matchesEvent = !nextEventFilter.checked || item.dataset.hasNextEvent === 'true';
+            const visible = matchesTerm && matchesEvent;
+            setVisible(item, visible);
+            if (visible) visibleCount++;
+        });
+        if (searchResults) {
+            searchResults.textContent = nextEventFilter.checked
+                ? `Showing ${visibleCount} JUG${visibleCount === 1 ? '' : 's'} with a next event`
+                : (term === '' ? 'Showing all JUGs' : `Found ${visibleCount} JUG${visibleCount === 1 ? '' : 's'} matching "${searchInput.value.trim()}"`);
+        }
     }
 
     function applySearch(term) {
@@ -111,6 +138,8 @@ document.addEventListener('DOMContentLoaded', function() {
         activeCountryId = null;
         searchInput.value = '';
         applyNavigation();
+        const region = document.getElementById(regionId);
+        scrollToElement(region && region.querySelector('.country-summary'));
     }
 
     function activateCountry(countryId) {
@@ -118,12 +147,9 @@ document.addEventListener('DOMContentLoaded', function() {
         activeRegionId = regionForCountry(countryId);
         searchInput.value = '';
         applyNavigation();
-        const firstJug = document.querySelector(`#${countryId} .region-jug:not([hidden])`);
-        if (firstJug) {
-            requestAnimationFrame(function() {
-                firstJug.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            });
-        }
+        const country = document.getElementById(countryId);
+        const jugList = country && country.querySelector('.region-list');
+        scrollToElement(jugList || country);
     }
 
     if (jugs.length === 0) {
@@ -133,6 +159,10 @@ document.addEventListener('DOMContentLoaded', function() {
         const showAll = legacyList.dataset.showAll === 'true';
         items.forEach(function(item) { setVisible(item, showAll); });
         searchInput.addEventListener('input', function() {
+            if (nextEventFilter) {
+                applyListFilter();
+                return;
+            }
             const term = searchInput.value.toLowerCase().trim();
             let visibleCount = 0;
             items.forEach(function(item) {
@@ -146,6 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     : `Found ${visibleCount} JUG${visibleCount === 1 ? '' : 's'} matching "${searchInput.value.trim()}"`;
             }
         });
+        if (nextEventFilter) nextEventFilter.addEventListener('change', applyListFilter);
         return;
     }
 
@@ -182,9 +213,12 @@ document.addEventListener('DOMContentLoaded', function() {
         activeRegionId = null;
         activeCountryId = null;
         const term = searchInput.value.toLowerCase().trim();
-        if (term === '') applyNavigation();
+        if (nextEventFilter) applyListFilter();
+        else if (term === '') applyNavigation();
         else applySearch(term);
     });
+
+    if (nextEventFilter) nextEventFilter.addEventListener('change', applyListFilter);
 
     const initialTarget = window.location.hash.slice(1);
     const initialElement = initialTarget && document.getElementById(initialTarget);

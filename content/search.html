@@ -17,7 +17,7 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
 <div id="search-results" style="margin-bottom: 10px; font-style: italic; color: #666;"></div>
 
 <ul id="jug-list">
-    {#for jug in site.collections.jugs.sortBy('name')}
+    {#for jug in site.collections.jugs.jugRecords.sortBy('name')}
         <li>
             <article><p>
                 <h2>{=jug.data('name')}</h2>
@@ -41,5 +41,5 @@ Search and browse the complete list of Java User Groups (JUGs) around the world.
 </ul>
 
 <p style="margin-top: 20px; font-style: italic; color: #666;">
-    Total JUGs: {=site.collections.jugs.size}
+    Total JUGs: {=site.collections.jugs.jugRecords.size}
 </p>

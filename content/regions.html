@@ -12,7 +12,7 @@ link: /regions.html
 </div>
 
 <nav class="region-summary" aria-label="Regions">
-    {#for region in site.collections.jugs.groupByRegion.sortRegionsByCount}
+    {#for region in site.collections.jugs.jugRecords.groupByRegion.sortRegionsByCount}
         <a class="region-card" data-region-card="{=region.anchor}" href="#{=region.anchor}">
             <span class="region-card-name">{=region.name}</span>
             <span class="region-card-count">{=region.count} JUG{#if region.count != 1}s{/if}</span>
@@ -20,7 +20,7 @@ link: /regions.html
     {/for}
 </nav>
 
-{#for region in site.collections.jugs.groupByRegion}
+{#for region in site.collections.jugs.jugRecords.groupByRegion}
     <section class="region-section" id="{=region.anchor}">
         <h2>{=region.name} <span class="region-count">({=region.count})</span></h2>
 
@@ -50,5 +50,5 @@ link: /regions.html
     </section>
 {/for}
 
-<p class="region-total">Total JUGs: {=site.collections.jugs.size}</p>
+<p class="region-total">Total JUGs: {=site.collections.jugs.jugRecords.size}</p>
 <script src="{=site.url('/assets/search.js')}"></script>

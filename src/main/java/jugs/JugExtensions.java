@@ -1,14 +1,26 @@
 package jugs;
 
 import java.util.Comparator;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.time.Instant;
+import java.time.OffsetDateTime;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeParseException;
+import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
+import java.util.concurrent.ConcurrentHashMap;
 
 import io.quarkiverse.roq.frontmatter.runtime.model.DocumentPage;
 import io.quarkiverse.roq.frontmatter.runtime.model.Paginator;
 import io.quarkiverse.roq.frontmatter.runtime.model.RoqCollection;
 import io.quarkus.qute.TemplateExtension;
+import io.vertx.core.json.JsonArray;
+import io.vertx.core.json.JsonObject;
 
 /**
  * Template helpers for the jugs collection.
@@ -19,6 +31,10 @@ import io.quarkus.qute.TemplateExtension;
  */
 @TemplateExtension
 public class JugExtensions {
+
+    private static final DateTimeFormatter EVENT_LABEL_DATE = DateTimeFormatter.ofPattern("MMM d, yyyy");
+    private static final Map<Path, Optional<EventRecord>> NEXT_EVENT_CACHE = new ConcurrentHashMap<>();
+    private static final Map<Path, List<EventDetails>> EVENT_HISTORY_CACHE = new ConcurrentHashMap<>();
 
     private static final Map<String, String> COUNTRY_CODES = Map.ofEntries(
             Map.entry("Albania", "AL"), Map.entry("Angola", "AO"), Map.entry("Argentina", "AR"),
@@ -52,6 +68,13 @@ public class JugExtensions {
     private static String field(DocumentPage page, String key) {
         Object value = page.data(key);
         return value == null ? "" : value.toString();
+    }
+
+    /** Return only Markdown JUG records; colocated JSON event histories are collection members too. */
+    static RoqCollection jugRecords(RoqCollection collection) {
+        return new RoqCollection(collection.collection(), collection.stream()
+                .filter(page -> "md".equalsIgnoreCase(page.source().extension()))
+                .toList());
     }
 
     /**
@@ -173,6 +196,113 @@ public class JugExtensions {
             filename += ".md";
         }
         return "https://github.com/World-Wide-JUGs/GlobalWWJugs/blob/master/content/jugs/" + filename;
+    }
+
+    /** Returns the next historical event at render time, rather than a persisted next_event field. */
+    static String nextEventLabel(DocumentPage page) {
+        return nextEvent(page).map(event -> "NEXT EVENT · " + EVENT_LABEL_DATE.format(event.start())).orElse("");
+    }
+
+    /** Returns the source event URL for the next event, when one is available. */
+    static String nextEventUrl(DocumentPage page) {
+        return nextEvent(page).map(EventRecord::url).orElse("");
+    }
+
+    static boolean hasNextEvent(DocumentPage page) {
+        return nextEvent(page).isPresent();
+    }
+
+    /** Returns the complete persisted event history, newest event first. */
+    static List<EventDetails> eventHistory(DocumentPage page) {
+        return EVENT_HISTORY_CACHE.computeIfAbsent(eventFile(page), JugExtensions::readEventHistory);
+    }
+
+    static boolean hasEventHistory(DocumentPage page) {
+        return !eventHistory(page).isEmpty();
+    }
+
+    private static Optional<EventRecord> nextEvent(DocumentPage page) {
+        return NEXT_EVENT_CACHE.computeIfAbsent(eventFile(page), JugExtensions::readNextEvent);
+    }
+
+    private static Path eventFile(DocumentPage page) {
+        String configuredEventList = field(page, "event_list").strip();
+        return configuredEventList.isEmpty()
+                ? Path.of(page.sourcePath()).toAbsolutePath().normalize()
+                        .resolveSibling(page.baseFileName() + "_events.json")
+                : Path.of(configuredEventList).toAbsolutePath().normalize();
+    }
+
+    private static Optional<EventRecord> readNextEvent(Path eventFile) {
+        if (!Files.isRegularFile(eventFile)) {
+            return Optional.empty();
+        }
+        try {
+            JsonArray events = new JsonObject(Files.readString(eventFile)).getJsonArray("events", new JsonArray());
+            Instant now = Instant.now();
+            return events.stream()
+                    .map(value -> eventRecord((JsonObject) value))
+                    .flatMap(Optional::stream)
+                    .filter(event -> event.start().toInstant().isAfter(now))
+                    .min(java.util.Comparator.comparing(event -> event.start().toInstant()));
+        } catch (IOException | RuntimeException ignored) {
+            return Optional.empty();
+        }
+    }
+
+    private static Optional<EventRecord> eventRecord(JsonObject event) {
+        String start = event.getString("start", "");
+        if (start.isBlank()) {
+            return Optional.empty();
+        }
+        try {
+            return Optional.of(new EventRecord(OffsetDateTime.parse(start), event.getString("url", "")));
+        } catch (DateTimeParseException ignored) {
+            return Optional.empty();
+        }
+    }
+
+    private static List<EventDetails> readEventHistory(Path eventFile) {
+        if (!Files.isRegularFile(eventFile)) {
+            return List.of();
+        }
+        try {
+            JsonArray events = new JsonObject(Files.readString(eventFile)).getJsonArray("events", new JsonArray());
+            List<EventDetails> history = new ArrayList<>();
+            for (Object value : events) {
+                JsonObject event = (JsonObject) value;
+                eventRecord(event).ifPresent(record -> history.add(new EventDetails(
+                        EVENT_LABEL_DATE.format(record.start()),
+                        event.getString("title", "Untitled event"),
+                        event.getString("location", ""),
+                        record.url())));
+            }
+            return history.reversed();
+        } catch (IOException | RuntimeException ignored) {
+            return List.of();
+        }
+    }
+
+    private record EventRecord(OffsetDateTime start, String url) {
+    }
+
+    public static final class EventDetails {
+        private final String date;
+        private final String title;
+        private final String location;
+        private final String url;
+
+        private EventDetails(String date, String title, String location, String url) {
+            this.date = date;
+            this.title = title;
+            this.location = location;
+            this.url = url;
+        }
+
+        public String getDate() { return date; }
+        public String getTitle() { return title; }
+        public String getLocation() { return location; }
+        public String getUrl() { return url; }
     }
 
     /** First component of the "location" field (used as-is by the map, matching the original template). */
