@@ -4,15 +4,11 @@
   "name": "JUG CH Zürich",
   "country": "Switzerland",
   "source_file": "content/jugs/ZurichJUG.md",
-  "fetched_at": "2026-10-11T13:12:45+00:00",
+  "fetched_at": "2026-10-18T08:06:03+00:00",
   "sources": [
     {
       "kind": "calendar",
       "url": "https://www.jug.ch/events/zurich/"
-    },
-    {
-      "kind": "calendar-ical",
-      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1027"
     },
     {
       "kind": "calendar-ical",
