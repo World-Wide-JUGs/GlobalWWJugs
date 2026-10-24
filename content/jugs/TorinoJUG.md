@@ -3,20 +3,20 @@ name: "Java User Group Torino"
 country: Italy
 website: https://meetup.com/JUGTorino/
 location: 45.0703, 7.6869
-founded_date:
-email:
+founded_date: 2001
+email: jugtorino@gmail.com
 calendar:
-meetup:
-twitter:
+meetup: https://www.meetup.com/jugtorino/
+twitter: https://x.com/jugtorino
 mastodon:
-bluesky:
-facebook:
-github:
+bluesky: https://bsky.app/profile/jugtorino.bsky.social
+facebook: https://www.facebook.com/groups/jugtorino
+github: https://github.com/jugtorino
 instagram:
-linkedin:
+linkedin: https://www.linkedin.com/groups/1028/
 telegram:
 twitch:
-youtube:
+youtube: https://www.youtube.com/JUGTorino
 kktix:
 contact:
 ---
