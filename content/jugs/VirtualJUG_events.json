@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "VirtualJUG",
+  "name": "Virtual Java User Group",
+  "country": "Worldwide",
+  "source_file": "content/jugs/VirtualJUG.md",
+  "fetched_at": "2026-10-25T08:29:23+00:00",
+  "sources": [
+    {
+      "kind": "calendar",
+      "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-mYJ3uJ77ppH1sdR"
+    }
+  ],
+  "events": [
+    {
+      "uid": "evt-E5Jx9D0IsF3kqY5@events.lu.ma",
+      "start": "2026-11-02T00:00:00+00:00",
+      "title": "AI DevCon NYC26\\n\\nAddress:\\n5-2-A at Industry City\\nBrooklyn, NY\\nUnited States\\n\\nHosted by Sam Hepburn, Tom Dowler & Mel",
+      "url": "5-2-A at Industry City, 33 35th St 2nd FL, Brooklyn, NY 11232, USA",
+      "location": "calendar",
+      "source_kind": "https://api.lu.ma/ics/get?entity=calendar&id=cal-mYJ3uJ77ppH1sdR",
+      "source_url": ""
+    }
+  ],
+  "status": "ok"
+}

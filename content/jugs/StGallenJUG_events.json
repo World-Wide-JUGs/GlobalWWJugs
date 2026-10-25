@@ -4,7 +4,7 @@
   "name": "JUG CH St. Gallen",
   "country": "Switzerland",
   "source_file": "content/jugs/StGallenJUG.md",
-  "fetched_at": "2026-10-18T08:05:32+00:00",
+  "fetched_at": "2026-10-25T08:29:00+00:00",
   "sources": [
     {
       "kind": "calendar",
@@ -13,10 +13,6 @@
     {
       "kind": "calendar-ical",
       "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1030"
-    },
-    {
-      "kind": "calendar-ical",
-      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1045"
     },
     {
       "kind": "calendar-ical",
